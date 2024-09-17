@@ -1,0 +1,1001 @@
+id,nombreCurso,grupo,profesor,nombreEstudiante,correoEstudiante,nota,periodo
+1,Electiva Profesional 5,5,Adi Stithe,Garfield Bastie,aheavensar@edu.com,0.1,2022-3
+2,Seminario de Ing. de Datos e I.A.,2,Rivkah Pittham,Gerik Caslett,rewer47@edu.com,2.6,2021-3
+3,Comunicacion Oral y Escrita,5,Clem Branni,Godfrey Pengilley,tsiggep@edu.com,0.3,2022-3
+4,Electiva de Ciencias Sociales,5,Suzette Paley,Livia Cleyne,jhulburdax@edu.com,0.3,2021-1
+5,Legislacion y etica en el manejo de datos,2,Waldemar Tandey,Osbourn Mayne,skurtiss@edu.com,2.4,2022-1
+6,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,5,Lara Entwistle,Cherey Switsur,kstrathearnil@edu.com,4.2,2023-1
+7,Formacion Ciudadana I : Identidades y Pluralismo,2,Kissiah MacMorland,Aridatha Probetts,kdimic5j@edu.com,0.4,2022-1
+8,Redes e Infraestructura,3,Dell Catmull,Tessi Clancey,hudie7y@edu.com,1.4,2021-3
+9,Ingenieria y Sostenibilidad,5,Huntington Fincham,Lani McGrah,cbwyff@edu.com,2.0,2024-1
+10,Electiva Profesional 4,3,Suzette Paley,Tracie Wastell,pstatea9@edu.com,2.6,2022-1
+11,Estadistica y Probabilidad I,1,Elaina Baumler,Lavina Boulsher,ophilpinda@edu.com,2.5,2022-3
+12,Seguridad de la informacion,1,Conant Sumpner,Kilian Jirsa,randriessen6k@edu.com,2.3,2021-3
+13,Electiva de Lectura y Escritura,2,Adi Stithe,Maxine Petronis,jblewittih@edu.com,1.3,2023-3
+14,ETL (Extraccion,1,Elsie Avrahamov,Neely Binton,ksouthernid@edu.com,0.7,2023-3
+15,Transformacion y Carga),5,Waldemar Tandey,Philbert Lohan,mrosenauer8f@edu.com,2.4,2023-3
+16,Seminario de Ing. de Datos e I.A.,1,Elsie Avrahamov,Rollie Tewkesbury,flegion95@edu.com,2.6,2021-1
+17,Logica y Matematica Discreta,5,Waldemar Tandey,Thaddus Landal,sshambroke9@edu.com,1.0,2021-3
+18,Almacenamiento de Datos,3,Elaina Baumler,Gisele Ginnane,sritchings5b@edu.com,1.5,2023-1
+19,Matematicas Fundamentales,5,Dell Aughton,Sheffy Bende,ahinkinsbz@edu.com,2.2,2022-1
+20,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,2,Elaina Baumler,Tiertza Bingell,rclaxson79@edu.com,1.2,2021-1
+21,Innovacion y Emprendimiento,1,Adi Stithe,Sutherlan Coggins,rsmallsman1d@edu.com,2.8,2024-1
+22,Electiva Libre I,3,Waldemar Tandey,Susi Cunningham,lbroome1@edu.com,1.2,2023-3
+23,Calculo 1,2,Dell Catmull,Erda Monteath,lfierrog0@edu.com,1.2,2023-3
+24,Electiva Libre I,5,Kissiah MacMorland,Sinclare Lenchenko,troccabu@edu.com,2.8,2022-1
+25,Ingles 1,2,Rivkah Pittham,Aldin Derl,jwragg83@edu.com,4.7,2023-3
+26,Comunicacion Oral y Escrita,5,Clem Branni,Jeffrey Dorrins,agabbettc9@edu.com,1.2,2021-1
+27,Formacion Ciudadana III: Paz y Convivencia,5,Sherie Edmons,Al MacKomb,lshewonla@edu.com,5.0,2023-1
+28,Logica y Matematica Discreta,4,Falkner Brettell,Cariotta Cristobal,jmacpeiceiw@edu.com,0.3,2021-3
+29,Programacion,3,Rivkah Pittham,Bail Tripney,ehaycraft17@edu.com,4.5,2023-3
+30,Legislacion y etica en el manejo de datos,2,Falkner Brettell,Corissa Esler,tkneeboneba@edu.com,4.5,2022-3
+31,Electiva de Ciencias Sociales,3,Elsie Avrahamov,Amara Chivers,cklouz7b@edu.com,4.5,2023-1
+32,Legislacion y etica en el manejo de datos,5,Rivkah Pittham,Florance Dillinger,lhollyarp@edu.com,4.7,2023-3
+33,Ingles 4,4,Adi Stithe,Pammie Jarrold,mclicki7@edu.com,3.6,2023-3
+34,Ingles 1,1,Johan Learmond,Maje Click,gdeex@edu.com,0.6,2023-1
+35,Estadistica y Probabilidad II,3,Conant Sumpner,Esta Dionisio,gpraterf8@edu.com,2.8,2023-3
+36,Analitica de Datos,4,Tabitha Edgcombe,Klara Gemeau,ttoppin2b@edu.com,1.3,2023-3
+37,Electiva Libre I,3,Conant Sumpner,Artair Flory,ghalpinecv@edu.com,3.6,2021-1
+38,Innovacion y Emprendimiento,4,Waldemar Tandey,Bogey Christophe,hreynerg9@edu.com,0.5,2024-1
+39,Inteligencia Artificial,3,Waldemar Tandey,Helen Ladell,lboulsheri@edu.com,3.2,2022-1
+40,Administracion para Ingenieros,1,Johan Learmond,Osmond Pedden,bloyndonec@edu.com,1.6,2024-1
+41,Seminario de Ing. de Datos e I.A.,3,Conant Sumpner,Vivi Sandison,cbrightiek5@edu.com,1.0,2023-3
+42,Analitica de Datos,2,Lara Entwistle,Aileen Clist,tplayle9p@edu.com,2.9,2023-3
+43,Analitica de Datos,2,Elsie Avrahamov,Hew Tanfield,cisaac9k@edu.com,3.8,2022-1
+44,Formacion Ciudadana III: Paz y Convivencia,3,Waldemar Tandey,Hilda Cotesford,thosierb3@edu.com,2.0,2022-3
+45,Ingenieria y Sostenibilidad,4,Adi Stithe,Luce Hambribe,tpurchall55@edu.com,2.6,2023-1
+46,Comunicacion Oral y Escrita,4,Elaina Baumler,Judye Hamlen,ecaulcuttx@edu.com,0.7,2023-1
+47,Logica y Matematica Discreta,3,Falkner Brettell,Ricki Watkinson,cleipeltjv@edu.com,4.8,2022-3
+48,Electiva Profesional 5,5,Brear Trussell,Jozef Swalteridge,jwragg83@edu.com,0.7,2022-3
+49,Calculo 2,3,Suzette Paley,Colene Beston,vdufer6c@edu.com,3.3,2021-1
+50,Redes e Infraestructura,2,Rivkah Pittham,Darren Drinkale,gorbine3n@edu.com,0.5,2023-3
+51,Comunicacion Oral y Escrita,3,Suzette Paley,Hermon Davydochkin,sransomeiz@edu.com,0.9,2022-3
+52,Calculo 2,1,Tabitha Edgcombe,Lynea Baugham,rsalzberglr@edu.com,3.7,2023-3
+53,Matematicas Fundamentales,1,Elisabet Filippo,Priscella Laden,bskerman6x@edu.com,4.7,2024-1
+54,Electiva de Ciencias Sociales,3,Elaina Baumler,Knox Steljes,kgregorin9j@edu.com,3.3,2023-3
+55,Matematicas Fundamentales,3,Falkner Brettell,Libbey Vannozzii,rdimmack6w@edu.com,4.5,2021-3
+56,Administracion para Ingenieros,4,Hynda Van Velde,Kordula Cattermull,trollin65@edu.com,4.1,2022-1
+57,Electiva Libre I,2,Tabitha Edgcombe,Giselbert Whacket,awareham3d@edu.com,1.5,2022-1
+58,Algebra Lineal,4,Kissiah MacMorland,Aidan Luparto,dmatveichevdg@edu.com,3.7,2023-1
+59,Electiva de Lectura y Escritura,5,Elisabet Filippo,Marie-ann Stapels,gmccartce@edu.com,1.0,2022-3
+60,Calculo 2,4,Elisabet Filippo,Peg Schimann,jstentono@edu.com,1.5,2022-1
+61,Almacenamiento de Datos,1,Elaina Baumler,Inna Parnell,sdrohanea4@edu.com,1.4,2021-3
+62,Analitica de Datos,4,Rivkah Pittham,Halley McCahill,glievesleyed@edu.com,1.8,2021-1
+63,Electiva Profesional I,1,Kissiah MacMorland,Mechelle Dytham,esawneygc@edu.com,4.9,2021-3
+64,Seguridad de la informacion,5,Huntington Fincham,Benetta Cordall,plohandz@edu.com,3.9,2023-3
+65,Inteligencia Artificial,2,Brear Trussell,Dee Eversley,dmatthis75@edu.com,4.5,2021-1
+66,Calculo 2,1,Elsie Avrahamov,Forester Grayling,atramelj9@edu.com,1.3,2021-3
+67,Electiva Profesional 3,5,Clem Branni,Colene Beston,amcavincheyf7@edu.com,0.5,2024-1
+68,Analitica de Datos,2,Dell Aughton,Kesley Jeal,dolennikovj2@edu.com,2.5,2022-3
+69,Ingles 2,5,Elaina Baumler,Roxanne Pierro,lsemberbx@edu.com,4.4,2022-1
+70,Analitica de Datos,4,Suzette Paley,Kylie Minshall,bmeachanbb@edu.com,4.0,2022-3
+71,Programacion,3,Huntington Fincham,Drusilla Belone,mheathfieldfh@edu.com,4.8,2021-3
+72,Estadistica y Probabilidad I,3,Tabitha Edgcombe,Maximo Majury,abohea94@edu.com,4.0,2022-3
+73,Seminario de Ing. de Datos e I.A.,1,Falkner Brettell,Lindi Fierro,tsanz6a@edu.com,4.7,2023-3
+74,Programacion,2,Sherie Edmons,Rose Bonnesen,vgonzaloiq@edu.com,0.3,2024-1
+75,Matematicas Fundamentales,2,Kissiah MacMorland,Hedi Fitzsimons,mwollardaq@edu.com,1.8,2021-3
+76,Formacion Ciudadana I : Identidades y Pluralismo,2,Waldemar Tandey,Lindi Fierro,bskerman6x@edu.com,1.7,2021-1
+77,Redes e Infraestructura,4,Lara Entwistle,Beniamino Teasdale-Markie,cisaac9k@edu.com,0.6,2022-1
+78,Electiva Libre I,1,Huntington Fincham,Kristi Tindley,mprettymands@edu.com,2.2,2021-3
+79,Ingles 2,5,Tabitha Edgcombe,Von Wixey,bettery9x@edu.com,0.3,2021-3
+80,Matematicas Fundamentales,1,Dell Aughton,Nels Ludgrove,abohea94@edu.com,1.3,2024-1
+81,Algebra Lineal,2,Lara Entwistle,Genovera Favey,mtolumelloi2@edu.com,0.6,2022-3
+82,Seminario de Ing. de Datos e I.A.,1,Tabitha Edgcombe,Lu Andrioli,dsames4w@edu.com,4.8,2021-1
+83,Electiva Libre I,1,Elsie Avrahamov,Mariam Halgarth,sgordgeat@edu.com,2.2,2022-1
+84,Seguridad de la informacion,1,Elisabet Filippo,Gabriel De Lisle,mridgwayc1@edu.com,3.8,2021-1
+85,Estadistica y Probabilidad I,4,Suzette Paley,Kareem Gehrels,nphilipson6r@edu.com,3.6,2023-3
+86,Electiva de Ciencias Sociales,2,Lara Entwistle,Francene McGeorge,ddeguei0@edu.com,1.9,2021-1
+87,Ingenieria y Sostenibilidad,4,Adi Stithe,Sibylla Quartley,rewer47@edu.com,2.5,2021-1
+88,Ingenieria y Sostenibilidad,3,Elaina Baumler,Bartolomeo Kendrick,mmaltbygv@edu.com,2.9,2024-1
+89,Ingles 3,1,Dell Aughton,Kat McLeman,jcumberbatchfi@edu.com,0.1,2022-3
+90,Electiva Profesional I,2,Clem Branni,Vivi Sandison,csimeolifx@edu.com,1.7,2022-1
+91,Ingles 3,3,Lara Entwistle,Dayle Lippiello,cdegli1r@edu.com,4.2,2022-3
+92,Transformacion y Carga),4,Adi Stithe,Effie Girardey,bgrabham1v@edu.com,3.4,2024-1
+93,Electiva Profesional 4,3,Falkner Brettell,Lettie Schimoni,gmclaelv@edu.com,3.6,2023-1
+94,Seguridad de la informacion,3,Tabitha Edgcombe,Nadine Eveleigh,sferrino50@edu.com,3.5,2021-1
+95,Comunicacion Oral y Escrita,3,Suzette Paley,Jud Haydock,cfrantzenhz@edu.com,1.3,2022-3
+96,Estadistica y Probabilidad I,5,Falkner Brettell,Cayla Tookey,lsemberbx@edu.com,4.2,2022-1
+97,Electiva Profesional 2,2,Tabitha Edgcombe,Elle Gasnoll,dzottoli43@edu.com,4.9,2022-3
+98,Formacion Ciudadana II: Sociedad y Estado,4,Waldemar Tandey,Shelli Perassi,hladellfn@edu.com,1.3,2022-1
+99,Estadistica y Probabilidad II,1,Waldemar Tandey,Horst Dowling,sbeastalld3@edu.com,2.1,2021-1
+100,Comunicacion Oral y Escrita,3,Elisabet Filippo,Jenilee Padkin,yrochgt@edu.com,5.0,2022-3
+101,Ingenieria y Sostenibilidad,4,Clem Branni,Janessa Blewitt,jomannion4e@edu.com,3.3,2024-1
+102,Ingles 2,2,Sherie Edmons,Bordy Jindra,bdymondab@edu.com,2.6,2024-1
+103,Matematicas Fundamentales,3,Rivkah Pittham,Dolly de Tocqueville,alouca8s@edu.com,3.7,2022-3
+104,Formacion Ciudadana III: Paz y Convivencia,3,Rivkah Pittham,Martita Leasor,lseidehg@edu.com,3.7,2023-3
+105,Analitica de Datos,3,Elaina Baumler,Freeman Barkess,jbendelowlj@edu.com,0.8,2023-3
+106,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,1,Kissiah MacMorland,Lidia Minico,gfavey31@edu.com,4.8,2024-1
+107,Almacenamiento de Datos,2,Suzette Paley,Meggy MacTimpany,ksouthernid@edu.com,4.0,2021-3
+108,Formacion Ciudadana III: Paz y Convivencia,4,Hynda Van Velde,Philbert Lohan,rnendick1i@edu.com,4.7,2024-1
+109,Comunicacion Oral y Escrita,4,Kissiah MacMorland,Kristi Tindley,ldummerl8@edu.com,1.2,2022-3
+110,ETL (Extraccion,4,Elsie Avrahamov,Celka McGebenay,mprettymands@edu.com,3.9,2022-1
+111,Estadistica y Probabilidad I,1,Johan Learmond,Linea Gamlyn,ctitfordkl@edu.com,0.4,2021-1
+112,Electiva Profesional 3,1,Sherie Edmons,D'arcy Lennox,sfoister2f@edu.com,2.5,2022-1
+113,Transformacion y Carga),2,Rivkah Pittham,Baron Skerman,hyezafovich2h@edu.com,3.6,2022-1
+114,Calculo 2,5,Conant Sumpner,Sinclare Lenchenko,kjirsadc@edu.com,4.0,2023-1
+115,Administracion para Ingenieros,2,Adi Stithe,Jeffrey Dorrins,mbloodworthl@edu.com,0.3,2024-1
+116,Programacion,3,Elisabet Filippo,Brittney Bussen,rpovall6m@edu.com,2.4,2022-1
+117,ETL (Extraccion,4,Johan Learmond,Brock Blaschek,gfavey31@edu.com,3.6,2021-3
+118,Electiva de Ciencias Sociales,5,Hynda Van Velde,Storm Kurtis,rsuter4d@edu.com,4.0,2021-3
+119,Ingles 5,2,Suzette Paley,Demeter Piccard,ljoseffg1@edu.com,1.1,2021-1
+120,Electiva Profesional 2,3,Lara Entwistle,Karina Loiterton,tbenzieb1@edu.com,1.0,2023-3
+121,Electiva de Lectura y Escritura,3,Elsie Avrahamov,Uri Bittany,bloyndonec@edu.com,4.8,2023-3
+122,Almacenamiento de Datos,2,Conant Sumpner,Carmelle Clemence,fjostix@edu.com,1.2,2022-1
+123,Formacion Ciudadana I : Identidades y Pluralismo,4,Tabitha Edgcombe,Gweneth Slewcock,dfreemantlef9@edu.com,3.8,2023-1
+124,Almacenamiento de Datos,4,Elsie Avrahamov,Colet Siemandl,jlatch2n@edu.com,3.6,2022-3
+125,Electiva de Ciencias Sociales,2,Johan Learmond,Stella Cordery,edilrewiy@edu.com,2.4,2023-1
+126,Programacion,3,Huntington Fincham,Humphrey Boness,hlabb1f@edu.com,3.9,2023-3
+127,Electiva de Ciencias Sociales,1,Tabitha Edgcombe,Gwendolyn Prater,ralessandruccijw@edu.com,2.6,2024-1
+128,Comunicacion Oral y Escrita,1,Dell Catmull,Timmy Sigg,gmccartce@edu.com,2.6,2021-3
+129,Programacion,3,Suzette Paley,Joyous Stenton,brusse4r@edu.com,2.9,2021-3
+130,Sistemas Operativos,5,Dell Aughton,Caroline Degli Antoni,cfountian7u@edu.com,2.4,2022-3
+131,Programacion,5,Sherie Edmons,Karry Keijser,omaynee@edu.com,0.5,2023-1
+132,Ingenieria y Sostenibilidad,3,Clem Branni,Elwyn Caulcutt,nchilton2w@edu.com,3.8,2022-3
+133,Ingles 3,2,Huntington Fincham,Lyndy McEwen,gbrundilllp@edu.com,0.3,2021-1
+134,Electiva Profesional 4,5,Dell Aughton,Sheri McCroft,mschottlifs@edu.com,3.6,2022-3
+135,Electiva Profesional 2,2,Elsie Avrahamov,Tadeas Cookman,fturrifm@edu.com,2.4,2021-3
+136,Estadistica y Probabilidad I,3,Elsie Avrahamov,Inglebert Cripin,lsorleyee@edu.com,0.1,2024-1
+137,Formacion Ciudadana I : Identidades y Pluralismo,4,Conant Sumpner,Miguel Bloodworth,lboothjarvis35@edu.com,4.1,2023-1
+138,Estadistica y Probabilidad I,5,Dell Aughton,Jock Buesnel,ccastelynbt@edu.com,3.2,2022-3
+139,Sistemas Operativos,1,Kissiah MacMorland,Park Lerner,hschreursdu@edu.com,1.2,2024-1
+140,Algebra Lineal,1,Elsie Avrahamov,Marchall Matuska,kbottinellil3@edu.com,3.4,2023-1
+141,Ingles 4,4,Dell Aughton,Emmett Sawney,epepperrallky@edu.com,0.9,2022-1
+142,Formacion Ciudadana II: Sociedad y Estado,5,Clem Branni,Minni Heathfield,achelsomir@edu.com,4.6,2024-1
+143,Electiva de Lectura y Escritura,1,Tabitha Edgcombe,Robby Barkshire,gorbine3n@edu.com,2.3,2022-3
+144,Formacion Ciudadana I : Identidades y Pluralismo,4,Lara Entwistle,Stillman Attawell,achelsomir@edu.com,1.0,2022-1
+145,Matematicas Fundamentales,4,Tabitha Edgcombe,Drucill Sparway,idurbyngi@edu.com,3.8,2022-1
+146,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,5,Huntington Fincham,Rea Stollman,bgallicoka@edu.com,1.0,2023-1
+147,Comunicacion Oral y Escrita,3,Clem Branni,Jule Moodey,skurtiss@edu.com,3.9,2022-3
+148,Calculo 2,1,Rivkah Pittham,Rea Stollman,rmathivat70@edu.com,2.8,2024-1
+149,Analitica de Datos,2,Clem Branni,Robby Barkshire,cclemencecg@edu.com,3.3,2023-3
+150,Electiva de Lectura y Escritura,3,Johan Learmond,Woody Alderton,bchristophehn@edu.com,0.4,2023-1
+151,Electiva Profesional 2,3,Lara Entwistle,Klemens Joontjes,gbainsb0@edu.com,3.7,2022-3
+152,Electiva Libre I,4,Suzette Paley,Joye Wragg,sbantick3z@edu.com,3.1,2023-3
+153,Innovacion y Emprendimiento,3,Hynda Van Velde,Lonni Strowther,lhammett3x@edu.com,0.3,2023-3
+154,Analitica de Datos,5,Kissiah MacMorland,Rock Goby,cmarthenb7@edu.com,3.6,2022-3
+155,Electiva Libre I,5,Lara Entwistle,Fionnula Turri,strevarthenc5@edu.com,2.1,2021-1
+156,Electiva Libre I,1,Dell Catmull,Rosana Steart,cpero69@edu.com,3.1,2021-3
+157,Programacion,3,Clem Branni,Bentley Meachan,cpero69@edu.com,0.5,2023-3
+158,Seminario de Ing. de Datos e I.A.,1,Huntington Fincham,Hobie Ghelerdini,csiemandl7i@edu.com,1.8,2022-1
+159,Estadistica y Probabilidad II,2,Huntington Fincham,Ignazio Carlill,rgallichicciok4@edu.com,0.4,2022-3
+160,Almacenamiento de Datos,4,Lara Entwistle,Dwight Hamley,walderton7n@edu.com,0.3,2023-1
+161,Electiva Profesional 3,5,Rivkah Pittham,Dacey Soares,htanfield48@edu.com,0.1,2024-1
+162,Innovacion y Emprendimiento,1,Tabitha Edgcombe,Garfield Bastie,sodeson1@edu.com,4.5,2021-3
+163,Seminario de Ing. de Datos e I.A.,2,Adi Stithe,Feliks Blakelock,hghelerdini4q@edu.com,1.3,2023-1
+164,Calculo 1,4,Lara Entwistle,Alvy Floyde,lboulsheri@edu.com,3.4,2021-3
+165,Algebra Lineal,2,Lara Entwistle,Doy Aleksidze,lwinfred4b@edu.com,0.3,2024-1
+166,Electiva de Ciencias Sociales,3,Falkner Brettell,Allen Wareham,cpero69@edu.com,0.9,2022-1
+167,Administracion para Ingenieros,3,Clem Branni,Clemens Russ,cmattekfu@edu.com,4.0,2021-1
+168,Electiva Profesional 4,3,Brear Trussell,Luce Hambribe,gwhacket3p@edu.com,2.8,2022-3
+169,Electiva Libre I,2,Elaina Baumler,Kipper Ion,bonslow5u@edu.com,4.4,2023-1
+170,Logica y Matematica Discreta,5,Clem Branni,Archambault Bethel,ebuglar4a@edu.com,0.7,2022-1
+171,Redes e Infraestructura,4,Rivkah Pittham,Duky Reason,fechalier5s@edu.com,0.8,2021-3
+172,Matematicas Fundamentales,5,Brear Trussell,Stacee Beastall,bkendrickc3@edu.com,0.1,2022-1
+173,Algebra Lineal,4,Falkner Brettell,Merline Mordaunt,cchristin6n@edu.com,2.6,2022-1
+174,Electiva Profesional 4,2,Conant Sumpner,Dwight Harling,awolfendenk6@edu.com,3.4,2022-3
+175,Electiva de Ciencias Sociales,1,Brear Trussell,Rik Gallear,avon1b@edu.com,4.5,2021-1
+176,Ingles 3,3,Elaina Baumler,Kipper Ion,ksouthernid@edu.com,3.9,2022-1
+177,Sistemas Operativos,3,Lara Entwistle,Stephine Viles,vsouthernwood8m@edu.com,4.3,2021-1
+178,Administracion para Ingenieros,4,Dell Catmull,Ashlen Heavens,kdimic5j@edu.com,3.5,2021-3
+179,Estadistica y Probabilidad I,3,Elisabet Filippo,Christian Yewman,ksouthernid@edu.com,1.9,2022-3
+180,Estadistica y Probabilidad I,1,Tabitha Edgcombe,Glenn Checchetelli,bleachmanjy@edu.com,1.1,2021-3
+181,Formacion Ciudadana II: Sociedad y Estado,5,Elsie Avrahamov,Georas Setterington,iparnell2a@edu.com,3.0,2022-3
+182,Electiva Profesional 4,1,Dell Aughton,Erda Monteath,zscholcroftad@edu.com,0.1,2023-1
+183,Algebra Lineal,2,Waldemar Tandey,Wake Deppen,geastlake62@edu.com,0.2,2022-1
+184,Redes e Infraestructura,5,Johan Learmond,Stacee Beastall,nchoppingkb@edu.com,3.8,2023-1
+185,Logica y Matematica Discreta,5,Lara Entwistle,Annabela Syddall,tbingellaa@edu.com,0.7,2022-1
+186,Ingles 5,5,Falkner Brettell,Freddy Tomek,dsoares1m@edu.com,1.6,2023-1
+187,Formacion Ciudadana III: Paz y Convivencia,2,Tabitha Edgcombe,Smitty Eastham,jmoodeyay@edu.com,4.1,2021-1
+188,Estadistica y Probabilidad II,5,Tabitha Edgcombe,Sinclair Groveham,psimekii@edu.com,3.2,2022-3
+189,Electiva Profesional 3,5,Hynda Van Velde,Torie Menaul,lchalder7v@edu.com,4.8,2021-3
+190,Estadistica y Probabilidad I,4,Sherie Edmons,Emeline Oakwell,gsetteringtonag@edu.com,1.3,2022-3
+191,Ingles 2,1,Waldemar Tandey,Elfie Parzizek,gdavidi1h@edu.com,1.4,2024-1
+192,Analitica de Datos,1,Falkner Brettell,Linea Gamlyn,bdymondab@edu.com,0.7,2022-1
+193,Legislacion y etica en el manejo de datos,4,Huntington Fincham,Shelli Perassi,pasherlu@edu.com,2.1,2022-3
+194,Matematicas Fundamentales,2,Elsie Avrahamov,Shena Sennett,mgabrielibw@edu.com,0.7,2023-3
+195,Comunicacion Oral y Escrita,3,Lara Entwistle,Colene Beston,agabbettc9@edu.com,4.8,2023-1
+196,Almacenamiento de Datos,5,Conant Sumpner,Aime Powrie,vgoldend1@edu.com,1.8,2022-3
+197,Ingles 2,2,Lara Entwistle,Maximo Majury,mprettymands@edu.com,0.5,2022-1
+198,Ingenieria y Sostenibilidad,1,Waldemar Tandey,Gery Davidi,rguilaem3f@edu.com,1.3,2021-3
+199,Almacenamiento de Datos,2,Falkner Brettell,Peg Kilmister,gcudij@edu.com,0.8,2022-1
+200,Logica y Matematica Discreta,2,Rivkah Pittham,Hedi Fitzsimons,aprobettsl5@edu.com,3.0,2021-3
+201,Algebra Lineal,5,Johan Learmond,Byrann felip,hroskell5z@edu.com,1.6,2021-1
+202,ETL (Extraccion,2,Dell Catmull,Julian Dorracott,kcaudellf0@edu.com,1.6,2022-1
+203,Administracion para Ingenieros,3,Hynda Van Velde,Basilio Reape,ctookeyn@edu.com,2.5,2023-1
+204,Ingles 1,2,Johan Learmond,Jorry Hulburd,wyakuntzovhq@edu.com,2.3,2021-3
+205,Innovacion y Emprendimiento,5,Clem Branni,Carol Conrart,wmorris6j@edu.com,1.1,2023-1
+206,Sistemas Operativos,2,Lara Entwistle,Pandora Ritchie,zmesantdl@edu.com,3.9,2022-1
+207,Electiva de Lectura y Escritura,3,Brear Trussell,Rahel Pfaffe,bgiorgiellibh@edu.com,4.7,2023-1
+208,Ingles 2,4,Huntington Fincham,Ros Claxson,wpotteridge3e@edu.com,4.6,2023-3
+209,Seguridad de la informacion,2,Huntington Fincham,Stacee Beastall,pkarpenya9o@edu.com,4.7,2022-3
+210,Ingles 3,1,Rivkah Pittham,Tadeas Cookman,mudden9t@edu.com,3.2,2023-1
+211,Almacenamiento de Datos,3,Dell Aughton,Seward Rosiello,echaperlinkp@edu.com,2.7,2024-1
+212,Redes e Infraestructura,5,Falkner Brettell,Elisha Dilrew,lchalder7v@edu.com,2.8,2022-3
+213,Analitica de Datos,3,Huntington Fincham,Marchall Matuska,nbolderoe32@edu.com,0.7,2022-1
+214,Estadistica y Probabilidad I,5,Suzette Paley,Erda Monteath,eparzizekb2@edu.com,0.7,2023-3
+215,Legislacion y etica en el manejo de datos,4,Waldemar Tandey,Alethea Bensusan,pmacqueen64@edu.com,5.0,2021-3
+216,Electiva Profesional 3,2,Falkner Brettell,Johnnie Vannoni,sgothrup7r@edu.com,1.0,2023-1
+217,Legislacion y etica en el manejo de datos,2,Tabitha Edgcombe,Ferd Backwell,ahinkinsbz@edu.com,3.6,2023-3
+218,Formacion Ciudadana I : Identidades y Pluralismo,2,Waldemar Tandey,Gardiner Haddy,oduferie5t@edu.com,1.5,2022-1
+219,Calculo 2,4,Lara Entwistle,Rosana Steart,cfrantzenhz@edu.com,0.4,2023-3
+220,Seguridad de la informacion,3,Tabitha Edgcombe,Darline Westgate,cbwyff@edu.com,2.1,2023-1
+221,Calculo 2,2,Elaina Baumler,Kalila Zamorrano,hudie7y@edu.com,3.1,2023-1
+222,Ingles 1,1,Hynda Van Velde,Inna Parnell,ptunesiia@edu.com,4.4,2021-1
+223,Ingles 3,5,Falkner Brettell,Drucie Urling,neveleighdv@edu.com,2.8,2021-3
+224,Electiva de Lectura y Escritura,3,Dell Catmull,Maxine Petronis,rpierrojd@edu.com,1.5,2023-1
+225,Matematicas Fundamentales,3,Lara Entwistle,Katerina Millwater,jhobgeni6@edu.com,4.2,2022-1
+226,Inteligencia Artificial,4,Sherie Edmons,Morna Sigward,abaccas4z@edu.com,2.4,2021-1
+227,Electiva Profesional 2,1,Elaina Baumler,Lolita Winfred,mtolumelloi2@edu.com,0.3,2023-3
+228,ETL (Extraccion,5,Suzette Paley,Fergus Shillaber,fcoche8p@edu.com,3.6,2022-3
+229,Electiva Libre I,1,Dell Aughton,Sydney Nehls,lduiged8o@edu.com,0.5,2021-3
+230,Calculo 1,2,Sherie Edmons,Livia Cleyne,jgarvaghl4@edu.com,3.4,2023-1
+231,Transformacion y Carga),5,Dell Catmull,Alys Brownscombe,ksteljesfr@edu.com,4.2,2021-3
+232,Electiva Libre I,5,Tabitha Edgcombe,Halimeda Murrish,glievesleyed@edu.com,1.2,2024-1
+233,Ingles 2,3,Conant Sumpner,Garvin Dreigher,kgemeau49@edu.com,4.6,2023-1
+234,Innovacion y Emprendimiento,3,Huntington Fincham,Sargent Debow,tfilshin5e@edu.com,0.9,2023-3
+235,Estadistica y Probabilidad I,1,Elisabet Filippo,Rodie Bucktrout,mmaltbygv@edu.com,3.7,2022-3
+236,Electiva Profesional 5,2,Johan Learmond,Blondy Leachman,jdorrinsku@edu.com,4.1,2022-3
+237,Legislacion y etica en el manejo de datos,5,Johan Learmond,Ranice Squirrell,srosielloa6@edu.com,1.5,2022-1
+238,Programacion,5,Clem Branni,Brand Allington,hdavydochkin26@edu.com,1.2,2023-3
+239,Electiva de Ciencias Sociales,1,Adi Stithe,Emerson Fison,mbloodworthl@edu.com,4.7,2023-1
+240,Sistemas Operativos,2,Dell Catmull,Lucas Von Welldun,raspray9n@edu.com,3.2,2023-3
+241,Electiva Profesional 2,2,Huntington Fincham,Coreen Saltman,bfolk71@edu.com,4.2,2024-1
+242,Electiva de Lectura y Escritura,5,Lara Entwistle,Tara Caress,eparzizekb2@edu.com,0.2,2024-1
+243,Programacion,3,Rivkah Pittham,Knox Steljes,mpetronis54@edu.com,3.0,2023-3
+244,Ingles 4,4,Sherie Edmons,Lay Hammett,awolfendenk6@edu.com,1.1,2024-1
+245,Logica y Matematica Discreta,1,Falkner Brettell,Riva Vedekhov,jlatch2n@edu.com,1.4,2024-1
+246,Ingles 1,4,Dell Catmull,Caterina Durbyn,aprobettsl5@edu.com,4.9,2023-1
+247,Electiva Profesional 4,2,Huntington Fincham,Caitlin Castelyn,wpotteridge3e@edu.com,4.2,2022-3
+248,Ingles 5,4,Waldemar Tandey,Cos Brazenor,randriessen6k@edu.com,1.0,2023-3
+249,Formacion Ciudadana III: Paz y Convivencia,3,Clem Branni,Roxanne Pierro,wbarryg5@edu.com,4.5,2022-1
+250,Analitica de Datos,3,Brear Trussell,Humphrey Boness,mdytham5y@edu.com,1.0,2021-1
+251,Comunicacion Oral y Escrita,1,Dell Catmull,Chrissy Bourthoumieux,lduiged8o@edu.com,4.6,2024-1
+252,Estadistica y Probabilidad I,5,Dell Catmull,Colene Beston,twastelljg@edu.com,0.7,2023-1
+253,Calculo 1,4,Huntington Fincham,Jeniece Sinnett,csissensd5@edu.com,2.7,2024-1
+254,Electiva Libre I,4,Suzette Paley,Birgit Stocks,pmacqueen64@edu.com,2.8,2022-1
+255,Formacion Ciudadana I : Identidades y Pluralismo,2,Falkner Brettell,Lydie Studdard,msigwardew@edu.com,0.8,2024-1
+256,Ingles 5,4,Dell Catmull,Sayre Adanet,echaperlinkp@edu.com,4.4,2023-1
+257,Formacion Ciudadana III: Paz y Convivencia,5,Suzette Paley,Sheffy Bende,hfitzsimons25@edu.com,2.2,2022-1
+258,Almacenamiento de Datos,4,Dell Aughton,Zebadiah Drewry,tcrowdyes@edu.com,3.1,2023-3
+259,Sistemas Operativos,3,Johan Learmond,Kareem Disbury,jbram6f@edu.com,4.8,2022-1
+260,Electiva Libre I,1,Johan Learmond,Warden Tremellier,breapegx@edu.com,2.3,2023-1
+261,Analitica de Datos,2,Lara Entwistle,Elle Gasnoll,vwinfieldr@edu.com,2.7,2022-3
+262,Electiva de Lectura y Escritura,2,Elaina Baumler,Benetta Cordall,gdeverick3l@edu.com,0.2,2023-1
+263,Ingles 5,1,Suzette Paley,Binny Tatlow,ccookd7@edu.com,4.8,2022-1
+264,Electiva Profesional 5,3,Hynda Van Velde,Joye Wragg,lhollyarp@edu.com,3.8,2022-3
+265,Ingles 5,4,Sherie Edmons,Stillman Attawell,aradouxio@edu.com,4.2,2024-1
+266,Sistemas Operativos,2,Falkner Brettell,Staffard Odeson,ctitfordkl@edu.com,2.4,2022-1
+267,Ingles 5,4,Falkner Brettell,Francisco Mahaddy,ccotterrill8g@edu.com,0.4,2022-3
+268,Calculo 1,1,Dell Catmull,Aime Powrie,rskeeneg@edu.com,3.3,2024-1
+269,Electiva Profesional 5,3,Waldemar Tandey,Latrina Menloe,emcilory3g@edu.com,3.5,2023-1
+270,Legislacion y etica en el manejo de datos,2,Falkner Brettell,Aridatha Probetts,dsparwayg@edu.com,4.3,2022-3
+271,Seguridad de la informacion,3,Hynda Van Velde,Teodorico Crowdy,pkeenorca@edu.com,2.5,2024-1
+272,Algebra Lineal,1,Elaina Baumler,Rahel Pfaffe,dfootittip@edu.com,1.8,2021-3
+273,Administracion para Ingenieros,5,Suzette Paley,Ham Reyner,rmathivat70@edu.com,3.9,2021-3
+274,Estadistica y Probabilidad II,5,Conant Sumpner,Celka Leipelt,hyezafovich2h@edu.com,2.8,2022-1
+275,Electiva de Ciencias Sociales,1,Elsie Avrahamov,Flore Spenton,ccastelynbt@edu.com,0.0,2024-1
+276,Formacion Ciudadana III: Paz y Convivencia,1,Rivkah Pittham,Giselbert Whacket,plohandz@edu.com,4.0,2023-1
+277,Inteligencia Artificial,1,Hynda Van Velde,Freddy Tomek,bsnedkera0@edu.com,0.8,2023-1
+278,Electiva Profesional 4,1,Hynda Van Velde,Alvy Floyde,lboothjarvis35@edu.com,2.8,2021-1
+279,Inteligencia Artificial,4,Dell Aughton,Lowe Gairdner,jhaydockh1@edu.com,3.4,2022-3
+280,Seguridad de la informacion,4,Waldemar Tandey,Rik Gallear,dkynderki@edu.com,4.6,2024-1
+281,Formacion Ciudadana I : Identidades y Pluralismo,1,Clem Branni,Blondelle Vedenisov,cbrightiek5@edu.com,4.9,2023-1
+282,Transformacion y Carga),2,Adi Stithe,Maxine Petronis,mminorsem@edu.com,4.2,2021-1
+283,Legislacion y etica en el manejo de datos,2,Hynda Van Velde,Amye Berard,rsymes3q@edu.com,3.9,2021-3
+284,Electiva Profesional I,3,Elsie Avrahamov,Roda Alessandrucci,hfitzsimons25@edu.com,1.1,2024-1
+285,Estadistica y Probabilidad I,1,Elisabet Filippo,Sheri McCroft,kjoontjes7c@edu.com,2.3,2022-1
+286,Innovacion y Emprendimiento,1,Huntington Fincham,Lindy Kunisch,rsymes3q@edu.com,1.6,2022-1
+287,Estadistica y Probabilidad I,5,Hynda Van Velde,Effie Girardey,amuscate2@edu.com,1.9,2022-1
+288,Matematicas Fundamentales,1,Rivkah Pittham,Reinaldo Secker,lkunisch74@edu.com,0.4,2021-1
+289,Algebra Lineal,2,Elaina Baumler,Beniamino Teasdale-Markie,rgoby5o@edu.com,1.0,2023-1
+290,Electiva Profesional 3,2,Elisabet Filippo,Mauricio Minors,kcaudellf0@edu.com,3.9,2022-1
+291,Estadistica y Probabilidad I,3,Kissiah MacMorland,Fania Bene,gsetteringtonag@edu.com,4.9,2023-3
+292,Comunicacion Oral y Escrita,5,Lara Entwistle,Kalila Zamorrano,bleatherlandhu@edu.com,4.5,2024-1
+293,Comunicacion Oral y Escrita,5,Dell Catmull,Rafferty Skeen,asowreyie@edu.com,4.3,2023-3
+294,Electiva de Lectura y Escritura,3,Suzette Paley,Yorgos Roch,tferronet8a@edu.com,4.8,2021-1
+295,Electiva Profesional 3,1,Waldemar Tandey,Beaufort Hallstone,tstovesga@edu.com,0.6,2021-1
+296,Analitica de Datos,1,Clem Branni,Quinn Blacksell,achiverscp@edu.com,4.5,2021-3
+297,Comunicacion Oral y Escrita,1,Huntington Fincham,Horst Dowling,etitheridgea8@edu.com,3.0,2022-3
+298,Ingles 4,2,Dell Aughton,Beaufort Hallstone,siddiens4g@edu.com,2.8,2022-3
+299,Calculo 2,1,Johan Learmond,Floris Echalier,bstocksdb@edu.com,2.6,2021-1
+300,Ingles 3,2,Dell Aughton,Jeannie Cleaver,gheinz2o@edu.com,1.0,2022-3
+301,Electiva de Ciencias Sociales,3,Suzette Paley,Leicester Hollyar,mshevlanen@edu.com,2.9,2023-1
+302,Formacion Ciudadana II: Sociedad y Estado,1,Falkner Brettell,Angele McEnery,zdrewry6l@edu.com,1.9,2024-1
+303,Estadistica y Probabilidad II,2,Clem Branni,Ethelind Jayne,grydings44@edu.com,4.0,2023-3
+304,Electiva Libre I,1,Sherie Edmons,Kordula Cattermull,rgoodwinhe@edu.com,3.9,2022-3
+305,Formacion Ciudadana III: Paz y Convivencia,3,Dell Aughton,Terencio Tigner,nchoppingkb@edu.com,3.9,2024-1
+306,Ingles 4,1,Falkner Brettell,Price MacQueen,gmclaelv@edu.com,2.0,2021-1
+307,Programacion,4,Waldemar Tandey,Dolly de Tocqueville,egirardey3t@edu.com,0.7,2023-1
+308,Electiva Libre I,1,Lara Entwistle,Tisha Ballchin,bhastelowhr@edu.com,2.3,2022-1
+309,Seminario de Ing. de Datos e I.A.,3,Waldemar Tandey,Ignazio Carlill,psimekii@edu.com,1.5,2021-3
+310,Ingles 4,1,Clem Branni,Lucas Von Welldun,egallybp@edu.com,3.7,2021-1
+311,Estadistica y Probabilidad I,2,Hynda Van Velde,Smitty Eastham,agellioncy@edu.com,1.3,2022-3
+312,Legislacion y etica en el manejo de datos,4,Brear Trussell,Gabriel De Lisle,lcastellojj@edu.com,0.7,2023-3
+313,Programacion,1,Suzette Paley,Jamil Hutton,rhabbes1k@edu.com,3.1,2021-3
+314,Sistemas Operativos,2,Conant Sumpner,Leopold Joseff,jocalleranal@edu.com,1.0,2021-3
+315,Formacion Ciudadana II: Sociedad y Estado,4,Adi Stithe,Siward Trevarthen,amayburyjx@edu.com,1.7,2023-1
+316,Electiva de Ciencias Sociales,4,Brear Trussell,Monti Yoselevitch,balbasiny8x@edu.com,3.0,2023-3
+317,Legislacion y etica en el manejo de datos,4,Rivkah Pittham,Tracie Wastell,dmatthis75@edu.com,1.1,2022-3
+318,Sistemas Operativos,2,Lara Entwistle,Averil Wolfenden,snehlsl2@edu.com,0.5,2023-3
+319,Innovacion y Emprendimiento,2,Elaina Baumler,Emmett Sawney,rdamperls@edu.com,3.0,2022-3
+320,Administracion para Ingenieros,4,Adi Stithe,Mariele Weetch,nblowendo@edu.com,3.5,2023-3
+321,Electiva Profesional 3,4,Suzette Paley,Jill Haggleton,kjoontjes7c@edu.com,1.9,2021-1
+322,Sistemas Operativos,2,Huntington Fincham,Mike Pellitt,lhambribejh@edu.com,2.6,2021-1
+323,Electiva Libre I,2,Rivkah Pittham,Natty Wyke,wpotteridge3e@edu.com,2.4,2023-1
+324,Electiva Profesional 3,1,Adi Stithe,Mariam Halgarth,zdrewry6l@edu.com,0.7,2021-3
+325,Legislacion y etica en el manejo de datos,5,Huntington Fincham,Carter Coldtart,bcholwell91@edu.com,3.3,2024-1
+326,Electiva Profesional 4,5,Adi Stithe,Dwight Harling,mmaltbygv@edu.com,2.1,2021-1
+327,Electiva Profesional 2,4,Falkner Brettell,Raquela Dimmack,cbrightiek5@edu.com,4.1,2021-1
+328,Electiva Profesional I,3,Brear Trussell,Ardra Eplate,tgarmcr@edu.com,5.0,2024-1
+329,Formacion Ciudadana II: Sociedad y Estado,2,Sherie Edmons,Dela MacNair,cskeffington5i@edu.com,0.4,2023-1
+330,Electiva Profesional 5,2,Elsie Avrahamov,Bradan Trencher,vmichinkh@edu.com,4.1,2021-3
+331,Transformacion y Carga),4,Kissiah MacMorland,Noe Nickolls,abaccas4z@edu.com,0.2,2023-3
+332,Analitica de Datos,1,Rivkah Pittham,Malachi Grigoliis,sattawellfq@edu.com,0.6,2022-1
+333,Ingles 2,2,Sherie Edmons,Glenn Checchetelli,strevarthenc5@edu.com,0.2,2022-1
+334,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,1,Tabitha Edgcombe,Tades Playle,bcordallk0@edu.com,1.9,2021-3
+335,Formacion Ciudadana I : Identidades y Pluralismo,1,Clem Branni,Ros Claxson,sgrovehamy@edu.com,4.9,2023-1
+336,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,2,Waldemar Tandey,Hew Tanfield,episcoj4@edu.com,1.8,2021-3
+337,Matematicas Fundamentales,4,Huntington Fincham,Risa Aspray,tsanz6a@edu.com,2.6,2023-3
+338,Calculo 1,2,Adi Stithe,Lyndy McEwen,lmcewengs@edu.com,2.4,2024-1
+339,Administracion para Ingenieros,3,Dell Aughton,Allen Wareham,bskerman6x@edu.com,2.7,2022-1
+340,Seminario de Ing. de Datos e I.A.,4,Elsie Avrahamov,Franky Flanne,mdrakeleyhs@edu.com,2.9,2023-3
+341,Electiva Profesional 5,2,Tabitha Edgcombe,Emmett Sawney,lmcewengs@edu.com,4.3,2023-1
+342,Electiva Libre I,3,Johan Learmond,Willie Walenta,fdillingerei@edu.com,1.5,2023-3
+343,Electiva Profesional 5,1,Kissiah MacMorland,Heinrik Hemphrey,bleatherlandhu@edu.com,0.3,2022-1
+344,Seminario de Ing. de Datos e I.A.,1,Falkner Brettell,Emerson Fison,kcattermull7@edu.com,0.3,2022-3
+345,Ingles 5,1,Hynda Van Velde,Artair Flory,jbuesnele0@edu.com,2.4,2023-1
+346,Programacion,4,Dell Aughton,Victoria Laker,spetherhw@edu.com,4.8,2022-1
+347,Almacenamiento de Datos,3,Elsie Avrahamov,Maura Udden,rburgoyne6e@edu.com,3.6,2021-3
+348,Administracion para Ingenieros,5,Tabitha Edgcombe,Gisele Ganiford,sritchings5b@edu.com,2.7,2022-1
+349,Electiva de Lectura y Escritura,2,Elaina Baumler,Flore Spenton,hgurwoodgb@edu.com,3.2,2024-1
+350,Legislacion y etica en el manejo de datos,5,Brear Trussell,Peg Schimann,rbarkshire5m@edu.com,0.4,2022-3
+351,Ingles 2,1,Johan Learmond,Forester Grayling,hgreatbachg6@edu.com,2.6,2021-1
+352,Redes e Infraestructura,4,Conant Sumpner,Ranice Squirrell,ophilpinda@edu.com,4.2,2024-1
+353,Electiva Profesional 5,2,Adi Stithe,Garwood Mallinson,emonteathef@edu.com,4.7,2023-3
+354,Innovacion y Emprendimiento,5,Kissiah MacMorland,Cherey Switsur,sbarrass2u@edu.com,1.2,2022-3
+355,Transformacion y Carga),4,Waldemar Tandey,Jermaine Fold,ddrinkalelq@edu.com,1.2,2022-1
+356,Formacion Ciudadana III: Paz y Convivencia,4,Conant Sumpner,Brent Dymond,mhemsteadau@edu.com,4.5,2021-3
+357,Calculo 1,3,Johan Learmond,Langston Tams,wmorris6j@edu.com,2.9,2023-3
+358,Ingenieria y Sostenibilidad,4,Tabitha Edgcombe,Basilio Reape,jmoodeyay@edu.com,4.1,2024-1
+359,Formacion Ciudadana I : Identidades y Pluralismo,5,Rivkah Pittham,Theressa Smaridge,bleachmanjy@edu.com,4.6,2023-3
+360,Electiva Profesional 4,4,Sherie Edmons,Caroline Degli Antoni,nnickollsh3@edu.com,3.0,2021-1
+361,Formacion Ciudadana II: Sociedad y Estado,5,Falkner Brettell,Ferd Backwell,aduckfieldcl@edu.com,0.5,2023-3
+362,Innovacion y Emprendimiento,5,Waldemar Tandey,Danette Dust,kmcleman2d@edu.com,2.8,2022-1
+363,Electiva Libre I,3,Huntington Fincham,Lucina MacKerley,lmcgrahb8@edu.com,4.1,2022-1
+364,Comunicacion Oral y Escrita,4,Conant Sumpner,Jozef Swalteridge,jpadkin1o@edu.com,0.5,2023-3
+365,Transformacion y Carga),1,Dell Catmull,Durante Shoutt,jhulburdax@edu.com,4.6,2023-1
+366,Innovacion y Emprendimiento,3,Dell Catmull,Cos Brazenor,ftitchena1@edu.com,4.9,2021-1
+367,Electiva Profesional 5,4,Lara Entwistle,Neely Binton,sbeevorke@edu.com,2.8,2021-1
+368,Ingles 3,1,Elsie Avrahamov,Sal Houldin,mriolfi24@edu.com,0.4,2021-1
+369,Electiva de Lectura y Escritura,2,Adi Stithe,Sarajane McMichell,jblewittih@edu.com,3.6,2022-3
+370,Formacion Ciudadana II: Sociedad y Estado,3,Johan Learmond,Lydie Studdard,lsemberbx@edu.com,3.9,2022-3
+371,Ingenieria y Sostenibilidad,2,Johan Learmond,Miguel Bloodworth,vgamlenib@edu.com,1.7,2022-3
+372,Legislacion y etica en el manejo de datos,3,Hynda Van Velde,Flore Spenton,hdowling1x@edu.com,0.8,2022-1
+373,Formacion Ciudadana I : Identidades y Pluralismo,5,Elsie Avrahamov,Mariele Weetch,asowreyie@edu.com,4.7,2022-3
+374,Ingles 3,2,Suzette Paley,Tye Kneebone,ejanningsk3@edu.com,1.7,2021-1
+375,Formacion Ciudadana II: Sociedad y Estado,3,Lara Entwistle,Bert Hastelow,ophilpinda@edu.com,4.2,2024-1
+376,Electiva de Ciencias Sociales,2,Conant Sumpner,Staffard Odeson,jbeattieiu@edu.com,3.3,2022-1
+377,Redes e Infraestructura,5,Tabitha Edgcombe,Zacharie Beckey,bgorsh0@edu.com,0.8,2022-1
+378,Logica y Matematica Discreta,3,Hynda Van Velde,Judie Bendelow,vgonzaloiq@edu.com,3.7,2023-3
+379,Electiva Profesional 3,3,Rivkah Pittham,Gillie Oleszkiewicz,lmudgeh2@edu.com,3.2,2021-3
+380,Electiva Profesional 5,4,Brear Trussell,Fergus Shillaber,bkendrickc3@edu.com,0.7,2021-3
+381,Analitica de Datos,2,Adi Stithe,Salim Rosbotham,mcastellone8n@edu.com,2.0,2024-1
+382,Calculo 2,5,Brear Trussell,Penelopa Simek,acoveney84@edu.com,4.7,2024-1
+383,Seminario de Ing. de Datos e I.A.,4,Suzette Paley,Gonzales Brymner,lhollyarp@edu.com,1.9,2024-1
+384,Electiva de Lectura y Escritura,1,Elaina Baumler,Zelda Scholcroft,mst7w@edu.com,2.1,2022-1
+385,Ingenieria y Sostenibilidad,3,Adi Stithe,Tucker Streatley,abrushneenct@edu.com,2.7,2022-3
+386,Electiva de Lectura y Escritura,4,Waldemar Tandey,Artair Flory,growlandf@edu.com,0.3,2022-3
+387,Formacion Ciudadana III: Paz y Convivencia,2,Tabitha Edgcombe,Valeria Southernwood,acoveney84@edu.com,0.4,2021-1
+388,ETL (Extraccion,2,Brear Trussell,Gabriel De Lisle,cstandevenjq@edu.com,0.2,2023-3
+389,Logica y Matematica Discreta,3,Dell Aughton,Carter Coldtart,ftitchena1@edu.com,2.6,2021-1
+390,Electiva Profesional 5,5,Tabitha Edgcombe,Daune Kynder,troleslo@edu.com,3.8,2023-3
+391,Electiva Profesional I,1,Kissiah MacMorland,Bonita Cholwell,ltowna2@edu.com,4.9,2024-1
+392,Calculo 1,3,Suzette Paley,Amos Coveney,dgrattageji@edu.com,4.9,2021-1
+393,Calculo 1,4,Falkner Brettell,Franky Flanne,scordery2r@edu.com,2.1,2021-3
+394,Sistemas Operativos,2,Rivkah Pittham,Jdavie McLachlan,esawneygc@edu.com,3.3,2024-1
+395,Transformacion y Carga),5,Rivkah Pittham,Rodie Bucktrout,clambertini7q@edu.com,1.1,2024-1
+396,Electiva de Ciencias Sociales,3,Conant Sumpner,Claiborn Salmons,jgarvaghl4@edu.com,4.4,2021-3
+397,Sistemas Operativos,5,Elaina Baumler,Chadwick Brightie,calecockd2@edu.com,4.6,2023-1
+398,Estadistica y Probabilidad I,4,Johan Learmond,Vivi Sandison,amayburyjx@edu.com,1.7,2021-3
+399,Electiva de Ciencias Sociales,4,Elsie Avrahamov,Ronalda Povall,lsemberbx@edu.com,3.8,2021-3
+400,Legislacion y etica en el manejo de datos,4,Elisabet Filippo,Heinrik Hemphrey,mdobellf2@edu.com,2.0,2023-1
+401,Sistemas Operativos,4,Dell Aughton,Ranice Squirrell,kjealm0@edu.com,1.3,2022-3
+402,Electiva Profesional 4,3,Hynda Van Velde,Devy Zottoli,awolfendenk6@edu.com,3.4,2023-1
+403,Inteligencia Artificial,4,Sherie Edmons,Moishe Shevlan,ksteljesfr@edu.com,2.6,2022-1
+404,Formacion Ciudadana II: Sociedad y Estado,1,Conant Sumpner,Clea Duetsche,rpomroyf4@edu.com,2.0,2022-3
+405,Formacion Ciudadana III: Paz y Convivencia,1,Clem Branni,Joye Wragg,yayresdx@edu.com,2.4,2023-1
+406,Logica y Matematica Discreta,3,Brear Trussell,Seamus Ferrino,lduiged8o@edu.com,2.9,2023-3
+407,Formacion Ciudadana I : Identidades y Pluralismo,2,Rivkah Pittham,Shelli Perassi,abethel2t@edu.com,4.8,2024-1
+408,Formacion Ciudadana I : Identidades y Pluralismo,3,Elaina Baumler,Marabel Quakley,nsherwill5d@edu.com,0.6,2023-3
+409,Calculo 1,5,Johan Learmond,Abie Antonikov,gbainsb0@edu.com,1.2,2022-3
+410,Redes e Infraestructura,4,Sherie Edmons,Shelton Chevalier,gbastie90@edu.com,2.8,2023-1
+411,Logica y Matematica Discreta,4,Lara Entwistle,Storm Kurtis,ftitchena1@edu.com,2.3,2022-3
+412,Ingenieria y Sostenibilidad,2,Hynda Van Velde,Lyndy McEwen,nludgrove1a@edu.com,0.9,2023-1
+413,Ingenieria y Sostenibilidad,4,Conant Sumpner,Cesya Byles,strevarthenc5@edu.com,3.0,2021-1
+414,ETL (Extraccion,1,Conant Sumpner,Tracie Wastell,grydings44@edu.com,2.3,2024-1
+415,Analitica de Datos,5,Brear Trussell,Reinaldo Secker,ccastelynbt@edu.com,2.9,2022-3
+416,Electiva de Ciencias Sociales,1,Huntington Fincham,Bailey Gallico,kgehrels7t@edu.com,3.8,2022-1
+417,Ingles 1,3,Tabitha Edgcombe,Lucinda Danev,rsmallsman1d@edu.com,3.0,2022-3
+418,Legislacion y etica en el manejo de datos,5,Kissiah MacMorland,Serena Hatliff,crysdale9a@edu.com,3.4,2021-3
+419,Ingles 3,2,Elsie Avrahamov,Ania Dudmarsh,jfold4y@edu.com,1.4,2022-3
+420,ETL (Extraccion,5,Waldemar Tandey,Dayle Lippiello,aantonikovam@edu.com,0.3,2022-1
+421,Electiva de Lectura y Escritura,3,Elaina Baumler,Darrell Back,cheindleh@edu.com,3.3,2023-1
+422,Estadistica y Probabilidad II,3,Sherie Edmons,Price MacQueen,lferencowicz8e@edu.com,4.6,2023-1
+423,ETL (Extraccion,2,Adi Stithe,Florenza Jost,aalgore6g@edu.com,1.6,2021-1
+424,Innovacion y Emprendimiento,5,Hynda Van Velde,Addie Wivell,lheugh4s@edu.com,2.2,2021-3
+425,Ingles 1,3,Sherie Edmons,Travis Upsale,hdowling1x@edu.com,4.2,2021-1
+426,Ingles 1,3,Waldemar Tandey,Donielle Graeme,lcastellojj@edu.com,2.3,2023-1
+427,Comunicacion Oral y Escrita,3,Brear Trussell,Fulvia Legion,kkobiera6i@edu.com,0.4,2023-3
+428,Calculo 2,2,Adi Stithe,Wake Deppen,rbonnesen39@edu.com,0.8,2022-1
+429,Electiva Profesional 5,1,Adi Stithe,Dita Jeannot,fpaskin21@edu.com,3.5,2021-3
+430,Electiva Profesional 3,5,Hynda Van Velde,Glynda Lanney,piacobassi7s@edu.com,1.1,2022-1
+431,Ingles 2,1,Johan Learmond,Georas Setterington,gginnanecc@edu.com,2.9,2021-3
+432,Inteligencia Artificial,2,Brear Trussell,Annabela Syddall,cbwyff@edu.com,2.9,2022-3
+433,Ingles 1,1,Suzette Paley,Bonita Flowitt,acollensfj@edu.com,4.9,2022-1
+434,Almacenamiento de Datos,1,Dell Catmull,Che Mole,pkarpenya9o@edu.com,2.6,2024-1
+435,Comunicacion Oral y Escrita,3,Hynda Van Velde,Muffin Buckthorpe,ceslergj@edu.com,0.8,2022-3
+436,Sistemas Operativos,3,Huntington Fincham,Morgan Riolfi,afloyde5h@edu.com,1.8,2022-1
+437,Analitica de Datos,5,Adi Stithe,Teodorico Crowdy,alouca8s@edu.com,1.4,2021-1
+438,Comunicacion Oral y Escrita,5,Dell Aughton,Emiline Glanister,sdrohanea4@edu.com,1.9,2021-1
+439,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,2,Suzette Paley,Lennie Shewon,sdrohanea4@edu.com,1.6,2023-3
+440,Electiva Profesional 3,3,Waldemar Tandey,Asa Iacopetti,jvannonia7@edu.com,4.7,2024-1
+441,Electiva Profesional 2,5,Rivkah Pittham,Caitlin Castelyn,wpotteridge3e@edu.com,4.0,2022-3
+442,Electiva de Lectura y Escritura,3,Suzette Paley,Karry Keijser,sclappertongu@edu.com,1.5,2022-3
+443,Analitica de Datos,3,Elsie Avrahamov,Sherilyn Bladon,ssarjeant1e@edu.com,1.7,2023-3
+444,Transformacion y Carga),3,Kissiah MacMorland,Lorne Butfield,sritchings5b@edu.com,0.1,2021-1
+445,Formacion Ciudadana III: Paz y Convivencia,4,Elisabet Filippo,Neile Mingauld,bdumbletond6@edu.com,3.6,2022-3
+446,Electiva Profesional 3,5,Adi Stithe,Aurthur Gallaway,alupartohm@edu.com,3.8,2022-1
+447,Logica y Matematica Discreta,3,Sherie Edmons,Peggy Nacci,kbottinellil3@edu.com,0.9,2024-1
+448,Formacion Ciudadana III: Paz y Convivencia,4,Johan Learmond,Starlene Parman,lfierrog0@edu.com,2.3,2022-1
+449,Inteligencia Artificial,2,Dell Aughton,Salim Rosbotham,thosierb3@edu.com,4.4,2023-3
+450,Ingles 3,1,Elsie Avrahamov,Archibald Klimkiewich,jcumberbatchfi@edu.com,2.1,2021-3
+451,Matematicas Fundamentales,2,Waldemar Tandey,Tawsha Benzie,jocalleranal@edu.com,2.6,2023-3
+452,Matematicas Fundamentales,4,Dell Aughton,Dela Footitt,hveivers51@edu.com,2.0,2023-1
+453,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,5,Dell Aughton,Kalila Zamorrano,scolebyjr@edu.com,4.8,2024-1
+454,Electiva de Ciencias Sociales,2,Hynda Van Velde,Knox Steljes,pmcneillyv@edu.com,1.0,2022-3
+455,Electiva Profesional 2,5,Falkner Brettell,Hillel Udie,dsames4w@edu.com,4.9,2022-3
+456,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,1,Elsie Avrahamov,Corbie Aburrow,msigwardew@edu.com,1.9,2023-3
+457,Formacion Ciudadana III: Paz y Convivencia,1,Clem Branni,Thaddus Landal,csimeolifx@edu.com,4.0,2021-3
+458,Electiva Profesional I,4,Dell Aughton,Charlena Stothard,cpuckettco@edu.com,2.1,2024-1
+459,Ingles 1,5,Waldemar Tandey,Robinson Kleiser,jhaggleton72@edu.com,4.5,2022-3
+460,Formacion Ciudadana II: Sociedad y Estado,2,Adi Stithe,Norma Chilton,acoveney84@edu.com,4.2,2023-1
+461,Seguridad de la informacion,2,Elaina Baumler,Bartholomeo Snedker,rhabbes1k@edu.com,0.9,2022-3
+462,Programacion,4,Adi Stithe,Pammie Jarrold,cmolecd@edu.com,4.5,2022-3
+463,Redes e Infraestructura,4,Adi Stithe,Vanny Dumbleton,tclancey6h@edu.com,4.1,2023-3
+464,Seminario de Ing. de Datos e I.A.,4,Kissiah MacMorland,Fulvia Legion,dlennox5w@edu.com,2.4,2021-3
+465,Ingles 5,3,Sherie Edmons,Vickie Fealty,cbourthoumieux66@edu.com,3.5,2021-3
+466,Estadistica y Probabilidad I,5,Hynda Van Velde,Paulo Hanselmann,amayburyjx@edu.com,0.6,2023-1
+467,Electiva Libre I,3,Dell Catmull,Clea Duetsche,cheindleh@edu.com,0.7,2021-1
+468,Electiva Profesional 3,2,Adi Stithe,Avril Crellin,kmillwaterkv@edu.com,1.6,2022-3
+469,Legislacion y etica en el manejo de datos,3,Falkner Brettell,Marleen Castagnasso,bbremmer33@edu.com,2.1,2021-1
+470,Administracion para Ingenieros,4,Brear Trussell,Aime Baccas,rrosedale1t@edu.com,2.9,2024-1
+471,Comunicacion Oral y Escrita,3,Johan Learmond,Inez Durbyn,abutfieldgg@edu.com,4.2,2023-1
+472,Almacenamiento de Datos,4,Elisabet Filippo,Dorene Freemantle,csissensd5@edu.com,4.5,2021-3
+473,Inteligencia Artificial,4,Clem Branni,Alfred Mallion,emcilory3g@edu.com,4.9,2021-1
+474,Calculo 1,1,Lara Entwistle,Vin Riccardi,mdrakeleyhs@edu.com,2.5,2024-1
+475,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,1,Tabitha Edgcombe,Elissa Fyldes,cvautrey8t@edu.com,2.0,2022-3
+476,Formacion Ciudadana II: Sociedad y Estado,2,Rivkah Pittham,Tye Kneebone,ugunnerdd@edu.com,2.1,2023-1
+477,Electiva Profesional I,4,Adi Stithe,Faustina Swanton,ejanningsk3@edu.com,0.5,2022-3
+478,Electiva de Lectura y Escritura,5,Waldemar Tandey,Klemens Joontjes,awatersgd@edu.com,0.4,2023-3
+479,Ingles 2,4,Falkner Brettell,Aime Baccas,pkeenorca@edu.com,1.2,2022-3
+480,Formacion Ciudadana I : Identidades y Pluralismo,4,Tabitha Edgcombe,Tootsie Fiddiman,deallis2i@edu.com,4.5,2024-1
+481,Logica y Matematica Discreta,4,Tabitha Edgcombe,Candace Sissens,lseidehg@edu.com,1.0,2022-1
+482,Electiva Profesional 4,2,Suzette Paley,Patrice Kirvin,rpegram6u@edu.com,2.7,2023-3
+483,Comunicacion Oral y Escrita,4,Elaina Baumler,Rik Gallear,geastlake62@edu.com,3.8,2023-1
+484,Estadistica y Probabilidad I,1,Huntington Fincham,Blondelle Vedenisov,gganiforddy@edu.com,1.1,2022-1
+485,Innovacion y Emprendimiento,1,Tabitha Edgcombe,Bealle Onslow,lsorleyee@edu.com,4.3,2024-1
+486,Electiva de Lectura y Escritura,2,Johan Learmond,Gweneth Slewcock,xpettit3s@edu.com,2.2,2024-1
+487,Almacenamiento de Datos,2,Rivkah Pittham,Carissa Pero,cfrantzenhz@edu.com,4.5,2023-1
+488,Legislacion y etica en el manejo de datos,4,Dell Catmull,Mirabel Gerrelt,benric1q@edu.com,3.8,2021-3
+489,Sistemas Operativos,5,Suzette Paley,Ardra Eplate,cminellih7@edu.com,4.6,2022-1
+490,Electiva Profesional 2,1,Huntington Fincham,Evita McIlory,jvannonia7@edu.com,3.1,2023-3
+491,Ingenieria y Sostenibilidad,5,Dell Aughton,Lois Lippi,mschottlifs@edu.com,1.0,2024-1
+492,Comunicacion Oral y Escrita,1,Adi Stithe,Wilbert Morris,mweetch7h@edu.com,2.7,2024-1
+493,Matematicas Fundamentales,5,Hynda Van Velde,Floris Echalier,mclearieeq@edu.com,0.1,2021-3
+494,Electiva Profesional 4,4,Rivkah Pittham,Brent Dymond,kloitertonq@edu.com,4.4,2023-3
+495,Ingles 5,1,Waldemar Tandey,Carissa Pero,sodeson1@edu.com,1.6,2023-1
+496,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,3,Hynda Van Velde,Del Etherson,esimakfk@edu.com,3.3,2022-1
+497,Transformacion y Carga),2,Elsie Avrahamov,Aime Powrie,mchapelhowcs@edu.com,2.8,2022-1
+498,Almacenamiento de Datos,5,Lara Entwistle,Annora McAvinchey,bgorsh0@edu.com,3.7,2021-3
+499,Ingles 2,4,Suzette Paley,Courtney Carlile,rmathivat70@edu.com,2.8,2022-3
+500,Electiva Profesional 3,5,Suzette Paley,Bonita Cholwell,bvedenisov8k@edu.com,4.5,2021-1
+501,Electiva Profesional I,3,Sherie Edmons,Gunther McCart,awareham3d@edu.com,0.2,2022-3
+502,Comunicacion Oral y Escrita,5,Hynda Van Velde,Florella Dignam,dmacnairi5@edu.com,3.5,2023-1
+503,Programacion,2,Waldemar Tandey,Julian Dorracott,ttignerhx@edu.com,1.1,2023-3
+504,Electiva Profesional 5,3,Kissiah MacMorland,Minni Heathfield,gmariyushkinc6@edu.com,3.7,2023-1
+505,ETL (Extraccion,5,Clem Branni,Robinson Kleiser,tfiddimangl@edu.com,3.6,2022-3
+506,Electiva Profesional 4,1,Waldemar Tandey,Sondra Etock,cskeffington5i@edu.com,0.9,2021-3
+507,Transformacion y Carga),5,Elisabet Filippo,Rock Goby,gwoodworthea@edu.com,2.1,2021-1
+508,Calculo 2,5,Conant Sumpner,Joye Wragg,troleslo@edu.com,3.0,2024-1
+509,Formacion Ciudadana I : Identidades y Pluralismo,4,Johan Learmond,Basilio Reape,jrowseld8@edu.com,4.0,2021-1
+510,Formacion Ciudadana I : Identidades y Pluralismo,4,Conant Sumpner,Dwight Hamley,dlennox5w@edu.com,4.5,2022-3
+511,Innovacion y Emprendimiento,1,Huntington Fincham,Noe Sibley,rcrumley3j@edu.com,3.6,2024-1
+512,Algebra Lineal,5,Sherie Edmons,Demetra Matthis,mtolumelloi2@edu.com,1.2,2022-3
+513,Redes e Infraestructura,5,Suzette Paley,Helaina Cockshot,bflowittgr@edu.com,2.9,2022-3
+514,Sistemas Operativos,4,Sherie Edmons,Basilio Reape,pstatea9@edu.com,4.4,2022-3
+515,Formacion Ciudadana III: Paz y Convivencia,2,Conant Sumpner,Garfield Bastie,dtewkesburyao@edu.com,4.8,2021-3
+516,Electiva Profesional I,4,Hynda Van Velde,Jareb O'Calleran,lstearnslk@edu.com,2.1,2023-1
+517,Algebra Lineal,1,Conant Sumpner,Klara Gemeau,cpendlington4i@edu.com,0.1,2021-1
+518,Ingles 5,3,Adi Stithe,Alysia Butfield,episcoj4@edu.com,1.6,2021-1
+519,Electiva de Lectura y Escritura,4,Sherie Edmons,Stillman Attawell,wmorris6j@edu.com,1.6,2023-3
+520,Formacion Ciudadana II: Sociedad y Estado,5,Waldemar Tandey,Trefor Barnewille,wricioppo4h@edu.com,0.9,2022-3
+521,Inteligencia Artificial,2,Conant Sumpner,Inez Durbyn,glanneyhk@edu.com,2.6,2022-1
+522,Electiva Libre I,5,Sherie Edmons,Reine Crumley,benric1q@edu.com,2.4,2021-1
+523,Estadistica y Probabilidad I,5,Tabitha Edgcombe,Earle Pisco,rmathivat70@edu.com,2.6,2023-3
+524,Logica y Matematica Discreta,1,Tabitha Edgcombe,Floris Echalier,rseckerej@edu.com,3.0,2022-1
+525,Transformacion y Carga),3,Falkner Brettell,Meggie Gabrieli,bgorsh0@edu.com,0.8,2023-3
+526,Ingenieria y Sostenibilidad,5,Brear Trussell,Trudey Purchall,svileseh@edu.com,0.1,2022-1
+527,Electiva Profesional 2,4,Rivkah Pittham,Binny Tatlow,lboothjarvis35@edu.com,4.3,2023-3
+528,Ingles 3,4,Hynda Van Velde,Nadine Eveleigh,ctozerks@edu.com,1.0,2024-1
+529,Algebra Lineal,5,Johan Learmond,Brittney Bussen,ltams7d@edu.com,2.0,2023-3
+530,ETL (Extraccion,3,Lara Entwistle,Elisha Dilrew,bhallstonegy@edu.com,1.7,2024-1
+531,Logica y Matematica Discreta,1,Kissiah MacMorland,Rudyard Symes,cbyleshy@edu.com,0.2,2021-3
+532,Formacion Ciudadana II: Sociedad y Estado,1,Tabitha Edgcombe,Shaina Ritchings,aalgore6g@edu.com,3.2,2021-3
+533,Ingles 1,3,Elsie Avrahamov,Jdavie Taylor,molekhov3m@edu.com,0.8,2021-1
+534,Programacion,5,Tabitha Edgcombe,Mathilde Clearie,rseckerej@edu.com,0.1,2022-3
+535,Almacenamiento de Datos,3,Tabitha Edgcombe,Mercy Paoli,btripneybf@edu.com,0.0,2022-1
+536,Electiva Profesional 5,3,Dell Catmull,Aidan Luparto,ljoseffg1@edu.com,4.3,2023-1
+537,Calculo 1,2,Tabitha Edgcombe,Osmond Pedden,cbodenbm@edu.com,1.0,2022-3
+538,Ingles 1,2,Clem Branni,Rozele Pegram,achalfain53@edu.com,2.2,2023-3
+539,Electiva Profesional I,3,Lara Entwistle,Lynnett Servant,lboulsheri@edu.com,1.0,2022-3
+540,Logica y Matematica Discreta,1,Rivkah Pittham,Zacharie Beckey,kbottinellil3@edu.com,4.7,2022-1
+541,Ingles 4,2,Tabitha Edgcombe,Gerik Caslett,bskerman6x@edu.com,3.9,2023-1
+542,Administracion para Ingenieros,3,Waldemar Tandey,Rahal Jennery,afloyde5h@edu.com,4.9,2022-3
+543,Formacion Ciudadana II: Sociedad y Estado,2,Sherie Edmons,Gerhardine Deverick,gcudij@edu.com,1.2,2023-3
+544,Algebra Lineal,3,Rivkah Pittham,Balduin Clarey,cbeston8w@edu.com,0.1,2022-1
+545,Calculo 1,1,Dell Catmull,Dacey Soares,plernerbe@edu.com,0.4,2022-1
+546,Ingles 4,4,Brear Trussell,Ethyl Simak,sbisetif@edu.com,0.1,2022-3
+547,Seminario de Ing. de Datos e I.A.,5,Rivkah Pittham,Tara Caress,srosielloa6@edu.com,2.2,2023-1
+548,Electiva Libre I,1,Elsie Avrahamov,Abrahan Gabbett,efyldes5@edu.com,1.7,2021-3
+549,Seguridad de la informacion,1,Falkner Brettell,Gregg Lelievre,csissensd5@edu.com,2.1,2021-1
+550,Electiva Libre I,2,Falkner Brettell,Kathi Pyson,nnestorukm3@edu.com,0.6,2022-3
+551,ETL (Extraccion,1,Dell Catmull,Maura Udden,hseldon81@edu.com,0.3,2022-3
+552,Calculo 2,1,Dell Catmull,Umeko Mill,dwestgatem7@edu.com,4.5,2023-1
+553,Formacion Ciudadana I : Identidades y Pluralismo,4,Suzette Paley,Gweneth Patrick,benric1q@edu.com,2.1,2021-1
+554,Almacenamiento de Datos,3,Huntington Fincham,Freddy Tomek,kjoontjes7c@edu.com,4.5,2021-1
+555,Transformacion y Carga),4,Conant Sumpner,Gwenni Clevely,vgoldend1@edu.com,3.1,2024-1
+556,Formacion Ciudadana II: Sociedad y Estado,4,Adi Stithe,Candace Sissens,csissensd5@edu.com,2.9,2023-3
+557,Electiva de Lectura y Escritura,1,Adi Stithe,Aldin Bullard,vgrovedq@edu.com,0.1,2024-1
+558,Calculo 1,3,Brear Trussell,Blythe Savory,edabernott2v@edu.com,1.0,2023-1
+559,Ingenieria y Sostenibilidad,2,Waldemar Tandey,Veradis Gonzalo,bkendrickc3@edu.com,4.3,2024-1
+560,Matematicas Fundamentales,4,Falkner Brettell,Lindi Fierro,jcumberbatchfi@edu.com,3.2,2023-1
+561,Electiva Profesional 4,3,Conant Sumpner,Modestine Dobell,nrussekm@edu.com,4.1,2022-1
+562,Ingles 3,5,Suzette Paley,Hilda Cotesford,mcowgillby@edu.com,2.1,2022-1
+563,Electiva Profesional 3,4,Conant Sumpner,Gerhardine Deverick,ewalkingshawhh@edu.com,1.5,2022-3
+564,Legislacion y etica en el manejo de datos,1,Dell Aughton,Archibald Klimkiewich,cclemencecg@edu.com,1.2,2021-1
+565,Formacion Ciudadana III: Paz y Convivencia,1,Suzette Paley,Gisele Ginnane,pkarpenya9o@edu.com,4.5,2021-1
+566,Electiva Profesional 3,2,Clem Branni,Homer Veivers,kgehrels7t@edu.com,0.4,2023-1
+567,Seguridad de la informacion,2,Tabitha Edgcombe,Dwight Hamley,jdorracottis@edu.com,1.5,2023-3
+568,Formacion Ciudadana II: Sociedad y Estado,1,Huntington Fincham,Adeline Brownsmith,fechalier5s@edu.com,4.3,2022-1
+569,Estadistica y Probabilidad I,3,Elsie Avrahamov,Philbert Lohan,tstovesga@edu.com,4.9,2022-1
+570,Calculo 1,3,Johan Learmond,Onofredo Duferie,tgarmcr@edu.com,3.6,2024-1
+571,Matematicas Fundamentales,3,Clem Branni,Alecia Maybury,mboakeko@edu.com,3.9,2023-3
+572,Logica y Matematica Discreta,4,Tabitha Edgcombe,Bertie Gors,ktindley4@edu.com,3.4,2022-1
+573,ETL (Extraccion,3,Suzette Paley,Dene Matveichev,sdannelldw@edu.com,4.2,2024-1
+574,Estadistica y Probabilidad I,2,Waldemar Tandey,Von Wixey,psimekii@edu.com,3.7,2021-1
+575,Matematicas Fundamentales,2,Falkner Brettell,Clea Duetsche,pcroysdale3i@edu.com,2.9,2021-1
+576,Estadistica y Probabilidad I,3,Hynda Van Velde,Sherilyn Bladon,airemonger6q@edu.com,1.9,2023-1
+577,Analitica de Datos,2,Adi Stithe,Zebulon Wilstead,daleksidze37@edu.com,4.1,2024-1
+578,Electiva Profesional 5,2,Huntington Fincham,Antonio Cutford,rguilaem3f@edu.com,4.4,2021-1
+579,Legislacion y etica en el manejo de datos,5,Elsie Avrahamov,Pammie Jarrold,kfaughnanfa@edu.com,0.9,2022-1
+580,Ingles 5,2,Brear Trussell,Julietta Kanzler,tfellibrand52@edu.com,2.8,2022-3
+581,Ingles 4,4,Kissiah MacMorland,Alexandre Hinkins,edabernott2v@edu.com,0.6,2022-3
+582,Electiva de Lectura y Escritura,4,Rivkah Pittham,Delainey Smaling,nferrarottihi@edu.com,2.1,2022-1
+583,Analitica de Datos,3,Lara Entwistle,Kylie Minshall,gmagarrellbc@edu.com,5.0,2023-3
+584,Electiva Profesional 4,3,Rivkah Pittham,Uri Bittany,ltams7d@edu.com,3.3,2022-1
+585,ETL (Extraccion,1,Huntington Fincham,Salvatore Ferrucci,dharlinga3@edu.com,1.4,2022-3
+586,ETL (Extraccion,3,Johan Learmond,Glynis Rydings,tbarnewille8q@edu.com,4.0,2021-3
+587,Almacenamiento de Datos,4,Johan Learmond,Dirk Baitman,pritchiecf@edu.com,1.7,2022-1
+588,Ingenieria y Sostenibilidad,1,Huntington Fincham,Kassie Gregorin,spomphreyj1@edu.com,3.9,2021-1
+589,Ingles 5,2,Huntington Fincham,Bogey Christophe,jocalleranal@edu.com,0.4,2022-1
+590,Electiva Profesional 2,1,Huntington Fincham,Ruprecht Scheffel,jsinnett1j@edu.com,1.9,2021-3
+591,Ingles 2,4,Dell Catmull,Ardenia Shafier,tkikkeey@edu.com,3.3,2022-1
+592,Estadistica y Probabilidad I,4,Tabitha Edgcombe,Collin Cussins,tmagauran5k@edu.com,4.4,2023-3
+593,Matematicas Fundamentales,2,Dell Aughton,Willie Walenta,gunger76@edu.com,1.0,2021-3
+594,Seguridad de la informacion,2,Hynda Van Velde,Bonita Cholwell,gpengilleygz@edu.com,3.7,2023-3
+595,Sistemas Operativos,3,Kissiah MacMorland,Glynis Rydings,lshewonla@edu.com,4.8,2021-1
+596,Electiva Profesional 5,1,Dell Aughton,Leopold Joseff,dpiccard20@edu.com,3.1,2023-1
+597,Matematicas Fundamentales,5,Brear Trussell,Kenna Oliver-Paull,gbengoecheakf@edu.com,3.0,2021-3
+598,Seminario de Ing. de Datos e I.A.,2,Dell Aughton,Binny Tatlow,rtroyesbd@edu.com,2.3,2021-1
+599,Formacion Ciudadana II: Sociedad y Estado,1,Hynda Van Velde,Esta Dionisio,lhambribejh@edu.com,0.1,2022-1
+600,Electiva Profesional 5,3,Elisabet Filippo,Bert Hastelow,kkinchleykd@edu.com,3.4,2022-1
+601,Logica y Matematica Discreta,2,Tabitha Edgcombe,Colin Vautrey,dgrishmanove7@edu.com,1.0,2022-3
+602,Ingles 4,4,Huntington Fincham,Cristiano Isaac,bjindrahv@edu.com,0.0,2022-3
+603,ETL (Extraccion,4,Elisabet Filippo,Aeriel Iremonger,bsnedkera0@edu.com,0.5,2021-1
+604,Ingles 1,1,Elsie Avrahamov,Niles Russe,squartleyj6@edu.com,3.8,2022-3
+605,Calculo 1,5,Elisabet Filippo,Johnny Mellmoth,ehaycraft17@edu.com,4.7,2022-3
+606,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,1,Elaina Baumler,Meggie Gabrieli,smccrofti1@edu.com,3.3,2022-3
+607,ETL (Extraccion,5,Elsie Avrahamov,Siward Trevarthen,scoggins3b@edu.com,1.0,2021-3
+608,Electiva Profesional 3,4,Conant Sumpner,Drusilla Belone,haven8u@edu.com,2.9,2021-1
+609,Ingles 4,5,Tabitha Edgcombe,Nertie Chopping,nblowendo@edu.com,4.2,2022-1
+610,Seguridad de la informacion,1,Johan Learmond,Berte Dumbleton,gmallinsone9@edu.com,2.7,2023-1
+611,Analitica de Datos,1,Waldemar Tandey,Demetris Cromblehome,cbourthoumieux66@edu.com,1.4,2023-1
+612,Ingles 5,2,Suzette Paley,Jermaine Fold,mbaulch5g@edu.com,4.9,2022-1
+613,Analitica de Datos,1,Waldemar Tandey,Floris Echalier,dsoares1m@edu.com,2.9,2021-1
+614,Estadistica y Probabilidad II,2,Sherie Edmons,Bordy Jindra,jstentono@edu.com,1.8,2021-3
+615,Redes e Infraestructura,3,Falkner Brettell,Karin Kinchley,balbasiny8x@edu.com,1.7,2023-3
+616,Ingles 3,1,Brear Trussell,Consalve Simeoli,ljoseffg1@edu.com,1.6,2021-3
+617,Legislacion y etica en el manejo de datos,4,Lara Entwistle,Ram Ewer,cbwyff@edu.com,4.8,2021-1
+618,Estadistica y Probabilidad II,3,Tabitha Edgcombe,Steffane Ransome,lmudgeh2@edu.com,2.2,2021-1
+619,Ingles 1,3,Dell Aughton,Flore Spenton,ftomekdr@edu.com,3.7,2024-1
+620,Seminario de Ing. de Datos e I.A.,4,Falkner Brettell,Ronna Guilaem,smoody9e@edu.com,0.2,2021-1
+621,Ingles 2,4,Johan Learmond,Binny Tatlow,bonslow5u@edu.com,3.4,2023-1
+622,Inteligencia Artificial,2,Tabitha Edgcombe,Robinson Kleiser,ewalkingshawhh@edu.com,1.6,2023-3
+623,Calculo 1,5,Dell Catmull,Joni Rosenqvist,egallybp@edu.com,4.4,2023-1
+624,Algebra Lineal,4,Falkner Brettell,Salvatore Ferrucci,ceslergj@edu.com,2.1,2023-1
+625,Electiva Profesional 3,4,Johan Learmond,Sancho Coleby,cdhoogheb@edu.com,0.5,2021-3
+626,Estadistica y Probabilidad I,4,Suzette Paley,Marabel Quakley,dmatveichevdg@edu.com,0.2,2024-1
+627,Ingles 3,1,Brear Trussell,Amye Berard,gheinz2o@edu.com,3.4,2024-1
+628,ETL (Extraccion,3,Conant Sumpner,Tedd Toppin,abullard14@edu.com,3.4,2021-1
+629,Logica y Matematica Discreta,2,Adi Stithe,Michaelina Olekhov,dwestgatem7@edu.com,4.2,2022-1
+630,Electiva Profesional I,4,Clem Branni,Sarajane McMichell,kmillwaterkv@edu.com,0.4,2024-1
+631,Transformacion y Carga),1,Adi Stithe,Ania Dudmarsh,epepperrallky@edu.com,0.7,2021-1
+632,Inteligencia Artificial,3,Adi Stithe,Florette Titchen,smcmichelle8@edu.com,3.8,2023-3
+633,Innovacion y Emprendimiento,4,Rivkah Pittham,Danya Tewkesbury.,hhemphrey4l@edu.com,0.2,2022-1
+634,Estadistica y Probabilidad II,2,Falkner Brettell,Wayland Axworthy,bonslow5u@edu.com,3.4,2024-1
+635,Ingles 4,1,Conant Sumpner,Joni Rosenqvist,lbaugham27@edu.com,2.9,2024-1
+636,Legislacion y etica en el manejo de datos,4,Kissiah MacMorland,Ase Crissil,bgorsh0@edu.com,3.9,2022-3
+637,Ingles 1,4,Dell Aughton,Rose Bonnesen,fbenekz@edu.com,5.0,2022-1
+638,Almacenamiento de Datos,3,Dell Aughton,Mechelle Dytham,rburgoyne6e@edu.com,4.0,2021-3
+639,Logica y Matematica Discreta,1,Huntington Fincham,Cordelia Tozer,rpegram6u@edu.com,0.5,2022-3
+640,Sistemas Operativos,2,Elisabet Filippo,Marlo Cocklie,mcastellone8n@edu.com,0.8,2024-1
+641,Electiva Profesional I,2,Dell Aughton,Eugenie Buglar,cfrantzenhz@edu.com,3.6,2021-1
+642,ETL (Extraccion,4,Dell Aughton,Byrann felip,asowreyie@edu.com,1.8,2024-1
+643,Electiva Profesional 2,2,Conant Sumpner,Linea Gamlyn,ccotterrill8g@edu.com,1.9,2022-1
+644,Ingles 3,2,Lara Entwistle,Kipper Ion,seasthamho@edu.com,4.6,2024-1
+645,Electiva Libre I,3,Waldemar Tandey,Kalila Zamorrano,dfootittip@edu.com,4.2,2022-1
+646,Electiva Profesional 3,1,Suzette Paley,Tedd Toppin,ccristobal4k@edu.com,0.4,2021-3
+647,Electiva Profesional I,3,Elaina Baumler,Luce Hambribe,bjindrahv@edu.com,1.5,2023-3
+648,Algebra Lineal,1,Elaina Baumler,Christophorus Klouz,afloyde5h@edu.com,4.0,2021-1
+649,ETL (Extraccion,3,Rivkah Pittham,Amity Varrow,adudmarsh28@edu.com,2.7,2022-3
+650,Formacion Ciudadana III: Paz y Convivencia,5,Conant Sumpner,Kristen Dimic,epettwoodl9@edu.com,4.2,2022-3
+651,Analitica de Datos,1,Hynda Van Velde,Benedicto Freire,lhollyarp@edu.com,1.7,2021-1
+652,Comunicacion Oral y Escrita,5,Waldemar Tandey,Bertie Gors,pasherlu@edu.com,0.2,2023-1
+653,Inteligencia Artificial,3,Hynda Van Velde,Angele McEnery,llippijk@edu.com,4.4,2021-3
+654,Electiva Profesional 4,4,Lara Entwistle,Ernestus Titheridge,djodrellecah@edu.com,0.6,2024-1
+655,Analitica de Datos,3,Dell Aughton,Alexandre Hinkins,tclancey6h@edu.com,1.9,2023-3
+656,Seminario de Ing. de Datos e I.A.,1,Dell Catmull,Bonita Cholwell,rsteartt@edu.com,2.7,2022-1
+657,ETL (Extraccion,5,Johan Learmond,Lawrence Stearns,gbrundilllp@edu.com,1.7,2022-1
+658,Electiva Profesional 2,4,Waldemar Tandey,Natty Wyke,nnestorukm3@edu.com,0.0,2022-1
+659,Formacion Ciudadana III: Paz y Convivencia,2,Brear Trussell,Hershel Yezafovich,abohea94@edu.com,4.4,2021-3
+660,Seguridad de la informacion,4,Tabitha Edgcombe,Cos Brazenor,btrencher15@edu.com,4.3,2022-3
+661,Legislacion y etica en el manejo de datos,4,Conant Sumpner,Jozef Swalteridge,dhamley2g@edu.com,0.5,2023-3
+662,Electiva Profesional I,5,Clem Branni,Carmelle Clemence,dsparwayg@edu.com,3.7,2024-1
+663,Electiva Libre I,1,Tabitha Edgcombe,Dari Fothergill,nbolderoe32@edu.com,0.2,2021-1
+664,Programacion,3,Brear Trussell,Effie Girardey,gorbine3n@edu.com,2.1,2022-3
+665,Redes e Infraestructura,5,Elisabet Filippo,Dickie Grishmanov,growlandf@edu.com,1.1,2023-1
+666,Calculo 1,2,Conant Sumpner,Caesar Mattek,vfealty7a@edu.com,0.0,2023-3
+667,Redes e Infraestructura,2,Adi Stithe,Vanessa Closs,nvakhrushevgh@edu.com,4.9,2022-1
+668,Calculo 1,2,Elisabet Filippo,Jemmy Latch,vwinfieldr@edu.com,4.9,2022-3
+669,Seminario de Ing. de Datos e I.A.,5,Clem Branni,Sam Hulks,lcleyneer@edu.com,4.5,2022-3
+670,Electiva Libre I,2,Hynda Van Velde,Stefania Simonazzi,erolston2e@edu.com,1.6,2022-3
+671,Programacion,3,Clem Branni,Cariotta Cristobal,awatersgd@edu.com,2.8,2022-1
+672,Electiva Profesional I,2,Suzette Paley,Aime Baccas,hlabb1f@edu.com,4.6,2023-1
+673,Ingenieria y Sostenibilidad,4,Elsie Avrahamov,Lawrence Stearns,jvannonia7@edu.com,3.4,2022-3
+674,Legislacion y etica en el manejo de datos,3,Waldemar Tandey,Avril Crellin,vsouthernwood8m@edu.com,4.8,2023-1
+675,Ingenieria y Sostenibilidad,1,Waldemar Tandey,Mel Agglione,ubittanybr@edu.com,0.8,2023-1
+676,Estadistica y Probabilidad II,1,Elsie Avrahamov,Thorsten Rocca,ctitfordkl@edu.com,3.0,2022-1
+677,Ingles 5,1,Falkner Brettell,Kalila Zamorrano,wricioppo4h@edu.com,1.3,2021-3
+678,Electiva Profesional I,5,Waldemar Tandey,Wake Deppen,hgurwoodgb@edu.com,3.1,2023-3
+679,Redes e Infraestructura,4,Lara Entwistle,Gardiner Haddy,raspray9n@edu.com,4.5,2024-1
+680,Electiva Profesional 4,2,Lara Entwistle,Ermin Walkingshaw,aklimkiewichc7@edu.com,0.9,2024-1
+681,Seminario de Ing. de Datos e I.A.,3,Rivkah Pittham,Alonso Chelsom,tcallander59@edu.com,0.8,2021-3
+682,Formacion Ciudadana II: Sociedad y Estado,4,Waldemar Tandey,Bartolomeo Kendrick,ejaynem6@edu.com,0.0,2023-1
+683,Inteligencia Artificial,2,Brear Trussell,Gerhardine Deverick,egallybp@edu.com,1.8,2023-1
+684,Seguridad de la informacion,5,Conant Sumpner,Veradis Pine,csiemandl7i@edu.com,2.9,2022-3
+685,Logica y Matematica Discreta,2,Huntington Fincham,Bren Carabine,ydocker6p@edu.com,1.0,2024-1
+686,Ingles 1,4,Elisabet Filippo,Harv Aven,bfelipeb@edu.com,0.4,2023-1
+687,Transformacion y Carga),5,Elsie Avrahamov,Colene Beston,dduguidly@edu.com,4.9,2023-3
+688,Ingenieria y Sostenibilidad,1,Lara Entwistle,Dene Matveichev,awareham3d@edu.com,3.5,2022-3
+689,Formacion Ciudadana III: Paz y Convivencia,2,Rivkah Pittham,Chandra Cook,mgerreltc2@edu.com,4.0,2021-3
+690,Seminario de Ing. de Datos e I.A.,5,Rivkah Pittham,Roda Alessandrucci,dbattle6t@edu.com,1.5,2023-3
+691,Seminario de Ing. de Datos e I.A.,4,Brear Trussell,Glenn Checchetelli,nvakhrushevgh@edu.com,2.8,2024-1
+692,Innovacion y Emprendimiento,2,Conant Sumpner,Phil Abelson,smoody9e@edu.com,1.1,2022-1
+693,Ingles 1,3,Tabitha Edgcombe,Glenn Checchetelli,dbaitmankg@edu.com,4.7,2023-3
+694,Programacion,5,Tabitha Edgcombe,Travis Upsale,kjirsadc@edu.com,1.4,2023-1
+695,Programacion,2,Waldemar Tandey,Livia Cleyne,jlemarie86@edu.com,4.9,2023-1
+696,Electiva Profesional I,5,Clem Branni,Sheree Clapperton,llockiekj@edu.com,3.5,2021-1
+697,Redes e Infraestructura,1,Elsie Avrahamov,Glenn Checchetelli,rpierrojd@edu.com,4.6,2023-1
+698,Sistemas Operativos,4,Lara Entwistle,Jasmin Rowsel,mmaltbygv@edu.com,3.0,2021-1
+699,Estadistica y Probabilidad I,2,Elaina Baumler,Noe Philipson,vgonzaloiq@edu.com,1.0,2023-1
+700,Ingles 3,2,Rivkah Pittham,Caterina Durbyn,hlabb1f@edu.com,0.9,2023-3
+701,Ingles 1,2,Falkner Brettell,Rikki Goodwin,vclossgn@edu.com,0.8,2022-3
+702,ETL (Extraccion,3,Lara Entwistle,Fergus Shillaber,mtieraneyju@edu.com,2.7,2024-1
+703,Seminario de Ing. de Datos e I.A.,2,Brear Trussell,Wilbert Morris,kionw@edu.com,4.9,2022-3
+704,Electiva de Ciencias Sociales,5,Dell Catmull,Osbourn Mayne,emonteathef@edu.com,0.9,2021-1
+705,Estadistica y Probabilidad II,4,Elsie Avrahamov,Kareem Disbury,ccuerda2q@edu.com,2.0,2024-1
+706,Formacion Ciudadana I : Identidades y Pluralismo,4,Brear Trussell,Halley McCahill,jomannion4e@edu.com,3.2,2022-1
+707,Electiva Profesional I,2,Tabitha Edgcombe,Joyous Stenton,aflorya5@edu.com,4.7,2021-1
+708,ETL (Extraccion,2,Waldemar Tandey,Clara Cuerda,sdannelldw@edu.com,4.7,2022-3
+709,Formacion Ciudadana I : Identidades y Pluralismo,5,Johan Learmond,Neely Binton,kminshall3a@edu.com,1.1,2024-1
+710,ETL (Extraccion,4,Rivkah Pittham,Winnah Yakuntzov,bflowittgr@edu.com,3.0,2023-3
+711,Almacenamiento de Datos,4,Falkner Brettell,Meggy MacTimpany,tbingellaa@edu.com,3.3,2024-1
+712,Innovacion y Emprendimiento,1,Elisabet Filippo,Jodie Lemarie,ivasyaginh8@edu.com,2.7,2021-3
+713,Calculo 1,4,Dell Aughton,Jeffrey Dorrins,bsnedkera0@edu.com,2.6,2024-1
+714,Legislacion y etica en el manejo de datos,5,Falkner Brettell,Robinet Nendick,cskeffington5i@edu.com,3.9,2022-3
+715,Electiva Profesional 4,1,Clem Branni,Odelia Hatherell,abodybl@edu.com,1.9,2024-1
+716,Matematicas Fundamentales,2,Kissiah MacMorland,Mechelle Dytham,pmcneillyv@edu.com,4.2,2023-1
+717,Analitica de Datos,4,Suzette Paley,Aileen Clist,omaynee@edu.com,1.9,2022-1
+718,Analitica de Datos,1,Suzette Paley,Francisco Mahaddy,fmattackshd@edu.com,3.1,2021-1
+719,Almacenamiento de Datos,1,Johan Learmond,Vanni Michin,magglione9g@edu.com,3.3,2021-1
+720,Ingles 5,3,Waldemar Tandey,Demetra Matthis,efurse3r@edu.com,5.0,2021-1
+721,Formacion Ciudadana II: Sociedad y Estado,2,Elisabet Filippo,Ros Claxson,bcholwell91@edu.com,4.2,2021-1
+722,Electiva Profesional 3,3,Tabitha Edgcombe,Basilio Reape,hschreursdu@edu.com,3.3,2023-1
+723,Innovacion y Emprendimiento,2,Hynda Van Velde,Lynea Baugham,jfold4y@edu.com,1.1,2022-3
+724,Ingles 5,5,Elisabet Filippo,Cariotta Cristobal,cvautrey8t@edu.com,4.6,2022-1
+725,Logica y Matematica Discreta,1,Hynda Van Velde,Ram Ewer,vwixey89@edu.com,0.9,2021-1
+726,Calculo 1,3,Elsie Avrahamov,Merrili Tolumello,gpengilleygz@edu.com,0.1,2023-1
+727,Electiva de Ciencias Sociales,3,Dell Catmull,Meggie Maltby,dshoutt3o@edu.com,2.7,2021-3
+728,Ingles 3,3,Huntington Fincham,Gunther McCart,vlaker7m@edu.com,1.7,2022-3
+729,Ingles 4,2,Dell Aughton,Aeriel Iremonger,rpomroyf4@edu.com,3.5,2022-3
+730,Administracion para Ingenieros,2,Waldemar Tandey,Tyson Magauran,lhollyarp@edu.com,2.2,2021-3
+731,Redes e Infraestructura,4,Rivkah Pittham,Emmalynn Thatcham,fdignam8y@edu.com,4.5,2023-3
+732,Almacenamiento de Datos,2,Clem Branni,Sal Houldin,jkanzlerle@edu.com,2.2,2021-1
+733,Ingles 1,4,Elaina Baumler,Yorgos Roch,setock5p@edu.com,4.0,2022-3
+734,Ingles 3,2,Suzette Paley,Bartholomeo Snedker,awareham3d@edu.com,1.4,2021-3
+735,Electiva Profesional 5,1,Tabitha Edgcombe,Berte Dumbleton,kdimic5j@edu.com,1.2,2022-1
+736,Electiva Profesional 2,4,Clem Branni,Leicester Hollyar,gorbine3n@edu.com,3.7,2021-3
+737,Inteligencia Artificial,4,Kissiah MacMorland,Jocelyne McEntagart,schevalier93@edu.com,1.3,2022-3
+738,Ingles 4,3,Hynda Van Velde,Wilbert Potteridge,mdytham5y@edu.com,2.7,2022-1
+739,Estadistica y Probabilidad II,2,Huntington Fincham,Vanessa Closs,scoggins3b@edu.com,1.0,2023-3
+740,Electiva Profesional I,1,Brear Trussell,Woody Alderton,btumayanjn@edu.com,2.8,2022-1
+741,Calculo 2,5,Suzette Paley,Mauricio Minors,cleipeltjv@edu.com,2.1,2024-1
+742,Ingenieria y Sostenibilidad,1,Dell Aughton,Lucias Castello,vdumbletonim@edu.com,4.9,2024-1
+743,Formacion Ciudadana I : Identidades y Pluralismo,5,Dell Catmull,Hedi Fitzsimons,seasthamho@edu.com,0.2,2023-1
+744,Electiva Profesional 3,1,Elsie Avrahamov,Elwyn Caulcutt,kdipple7p@edu.com,3.7,2022-1
+745,Electiva Profesional 4,5,Tabitha Edgcombe,Yasmin Docker,abullard14@edu.com,4.8,2021-3
+746,Legislacion y etica en el manejo de datos,1,Suzette Paley,Maximo Majury,epepperrallky@edu.com,1.1,2021-3
+747,Comunicacion Oral y Escrita,1,Conant Sumpner,Lorna Lockie,rsmallsman1d@edu.com,0.4,2021-3
+748,Electiva Profesional I,4,Elaina Baumler,Florenza Jost,jpadkin1o@edu.com,3.9,2021-3
+749,Formacion Ciudadana III: Paz y Convivencia,2,Adi Stithe,Tisha Ballchin,lbroome1@edu.com,0.9,2022-3
+750,Electiva de Ciencias Sociales,1,Rivkah Pittham,Royal Habbes,bchristophehn@edu.com,2.1,2022-1
+751,Administracion para Ingenieros,1,Dell Aughton,Brock Blaschek,scordery2r@edu.com,1.2,2022-3
+752,Ingles 5,5,Tabitha Edgcombe,Neely Binton,hgreatbachg6@edu.com,1.8,2023-1
+753,Ingles 1,3,Sherie Edmons,Osbourn Mayne,tbenzieb1@edu.com,0.3,2023-3
+754,Electiva de Ciencias Sociales,1,Elsie Avrahamov,Addie Wivell,ghaddydh@edu.com,0.4,2021-3
+755,Ingles 2,3,Dell Aughton,Ase Crissil,adudmarsh28@edu.com,5.0,2022-3
+756,Ingles 5,2,Dell Catmull,Neile Mingauld,rpegram6u@edu.com,1.3,2024-1
+757,Seguridad de la informacion,1,Kissiah MacMorland,Ardra Eplate,smatejiccx@edu.com,4.1,2022-3
+758,Redes e Infraestructura,5,Waldemar Tandey,Manfred Pionter,mpetronis54@edu.com,2.4,2023-3
+759,Electiva Libre I,2,Huntington Fincham,Kesley Jeal,wwoolger23@edu.com,2.7,2023-3
+760,Electiva de Lectura y Escritura,4,Falkner Brettell,Heywood Roskell,sdrohanea4@edu.com,3.5,2022-1
+761,Algebra Lineal,2,Lara Entwistle,Claudio Langthorn,rrosedale1t@edu.com,4.8,2023-3
+762,Formacion Ciudadana II: Sociedad y Estado,3,Falkner Brettell,Tootsie Fiddiman,abrownscombem4@edu.com,2.5,2021-1
+763,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,1,Clem Branni,Dari Fothergill,cheindleh@edu.com,1.0,2021-3
+764,Analitica de Datos,1,Clem Branni,Dorene Freemantle,epepperrallky@edu.com,2.1,2021-1
+765,Formacion Ciudadana II: Sociedad y Estado,4,Dell Catmull,Alethea Bensusan,zbeckey8@edu.com,3.6,2022-1
+766,Calculo 1,2,Elsie Avrahamov,Wilbert Potteridge,ecominettibq@edu.com,2.1,2021-1
+767,Electiva Profesional 5,5,Elsie Avrahamov,Muffin Buckthorpe,jmclachlanz@edu.com,0.3,2024-1
+768,Almacenamiento de Datos,5,Suzette Paley,Caroline Fountian,ddrinkalelq@edu.com,0.1,2022-1
+769,Electiva Profesional 2,3,Tabitha Edgcombe,Elyssa Rolston,bflowittgr@edu.com,0.4,2024-1
+770,Inteligencia Artificial,4,Adi Stithe,Seamus Ferrino,dsommerling8d@edu.com,0.3,2023-1
+771,Calculo 1,1,Brear Trussell,Christophorus Klouz,etitheridgea8@edu.com,0.3,2023-1
+772,Electiva Libre I,4,Rivkah Pittham,Freeman Barkess,gdeex@edu.com,0.3,2021-1
+773,Seguridad de la informacion,1,Dell Catmull,Genny Ellicombe,mcastellone8n@edu.com,1.8,2023-3
+774,Electiva Libre I,3,Brear Trussell,Payton Croysdale,dthow22@edu.com,3.6,2021-3
+775,Electiva Libre I,2,Elaina Baumler,Alfred Mallion,bslocumhl@edu.com,4.2,2022-3
+776,Ingles 1,3,Lara Entwistle,Tucker Streatley,ivasyaginh8@edu.com,0.3,2023-1
+777,Algebra Lineal,1,Adi Stithe,Gwendolyn Prater,bbremmer33@edu.com,2.0,2023-3
+778,Algebra Lineal,3,Lara Entwistle,Alessandro Louca,dolennikovj2@edu.com,2.3,2021-3
+779,Ingles 3,4,Kissiah MacMorland,Angele McEnery,sdannelldw@edu.com,1.4,2022-1
+780,Transformacion y Carga),1,Adi Stithe,Yoshiko Ayres,cdomange41@edu.com,1.4,2021-3
+781,Ingles 3,2,Kissiah MacMorland,Caprice Standeven,atramelj9@edu.com,0.5,2022-1
+782,Electiva Profesional 4,2,Clem Branni,Berkie Goodere,bcholwell91@edu.com,4.6,2022-3
+783,Electiva Profesional 4,4,Rivkah Pittham,Noe Philipson,lsemberbx@edu.com,2.2,2024-1
+784,Seguridad de la informacion,3,Kissiah MacMorland,Tucker Streatley,nnickollsh3@edu.com,2.7,2022-3
+785,Electiva de Lectura y Escritura,1,Clem Branni,Rodie Bucktrout,bsavorykn@edu.com,3.1,2023-3
+786,Electiva Profesional 5,4,Elisabet Filippo,Bealle Onslow,sclappertongu@edu.com,2.0,2022-1
+787,Legislacion y etica en el manejo de datos,1,Rivkah Pittham,Beniamino Teasdale-Markie,lhambribejh@edu.com,4.6,2021-3
+788,Electiva Profesional 4,1,Dell Catmull,Cazzie Heindle,gpraterf8@edu.com,3.7,2024-1
+789,Sistemas Operativos,5,Conant Sumpner,Florella Dignam,cskeffington5i@edu.com,0.1,2023-1
+790,Electiva Profesional 3,1,Lara Entwistle,Garwood Mallinson,fmahaddyd@edu.com,3.8,2023-3
+791,Redes e Infraestructura,5,Adi Stithe,Halimeda Murrish,landriolijo@edu.com,0.9,2023-3
+792,Electiva de Ciencias Sociales,1,Elisabet Filippo,Florie Stollmeier,jrowseld8@edu.com,3.3,2024-1
+793,Electiva de Ciencias Sociales,1,Elaina Baumler,Raquela Dimmack,jpadkin1o@edu.com,1.1,2022-3
+794,Ingenieria y Sostenibilidad,2,Lara Entwistle,Lawrence Stearns,kmcleman2d@edu.com,3.4,2022-1
+795,Electiva Profesional 3,4,Dell Aughton,Evita McIlory,cpero69@edu.com,3.8,2023-3
+796,Estadistica y Probabilidad I,1,Elisabet Filippo,Florance Dillinger,bsnedkera0@edu.com,0.7,2023-3
+797,Ingles 5,1,Adi Stithe,Rosana Steart,neveleighdv@edu.com,3.4,2024-1
+798,Electiva Profesional 5,5,Adi Stithe,Jay Cumberbatch,tpelosi5x@edu.com,3.7,2022-1
+799,Ingles 3,3,Sherie Edmons,Morna Sigward,bleatherlandhu@edu.com,2.6,2024-1
+800,Electiva de Ciencias Sociales,3,Hynda Van Velde,Marchall Matuska,pschimannfy@edu.com,1.3,2021-1
+801,Estadistica y Probabilidad II,2,Huntington Fincham,Park Lerner,bgallicoka@edu.com,1.6,2022-1
+802,Electiva Profesional 3,5,Waldemar Tandey,Ruth Salzberg,sferrino50@edu.com,2.3,2023-1
+803,Calculo 2,3,Rivkah Pittham,Horacio Kief,bbremmer33@edu.com,3.9,2021-1
+804,Calculo 1,3,Huntington Fincham,Rahal Jennery,bslocumhl@edu.com,0.8,2024-1
+805,Electiva Profesional 5,3,Elaina Baumler,Effie Girardey,tcallander59@edu.com,3.6,2021-3
+806,Ingles 5,5,Johan Learmond,Ethelind Jayne,aiacopetti5l@edu.com,4.2,2023-3
+807,Transformacion y Carga),4,Clem Branni,Luca Town,neveleighdv@edu.com,4.6,2021-1
+808,Estadistica y Probabilidad II,2,Adi Stithe,Seamus Ferrino,srosielloa6@edu.com,0.6,2023-1
+809,Electiva Libre I,1,Huntington Fincham,Tara Caress,tpurchall55@edu.com,2.1,2022-3
+810,Legislacion y etica en el manejo de datos,5,Sherie Edmons,Katerina Millwater,fstollmeier9h@edu.com,3.2,2023-1
+811,Ingles 5,3,Sherie Edmons,Ruth Salzberg,mhemsteadau@edu.com,2.9,2023-1
+812,Inteligencia Artificial,2,Conant Sumpner,Sargent Debow,cduetscheaj@edu.com,1.7,2023-1
+813,Electiva Profesional 2,3,Dell Catmull,Natty Wyke,vriccardijs@edu.com,3.2,2022-3
+814,Seminario de Ing. de Datos e I.A.,5,Elisabet Filippo,Kilian Jirsa,acollensfj@edu.com,4.8,2023-1
+815,Sistemas Operativos,1,Lara Entwistle,Dwight Hamley,mbuckthorpe5n@edu.com,3.1,2023-3
+816,Legislacion y etica en el manejo de datos,2,Clem Branni,Francisco Mahaddy,rpierrojd@edu.com,4.9,2023-1
+817,ETL (Extraccion,2,Johan Learmond,Gery Davidi,jdasje@edu.com,4.6,2022-3
+818,Estadistica y Probabilidad II,5,Hynda Van Velde,Adora Collens,gbrymner12@edu.com,2.8,2023-1
+819,Electiva Profesional 5,1,Huntington Fincham,Drucill Sparway,mclearieeq@edu.com,3.5,2021-1
+820,Matematicas Fundamentales,2,Sherie Edmons,Waneta Woolger,tmcreynoldsdj@edu.com,4.5,2022-1
+821,Formacion Ciudadana I : Identidades y Pluralismo,3,Adi Stithe,Kareem Gehrels,mprettymands@edu.com,0.2,2021-3
+822,Electiva Profesional 5,4,Johan Learmond,Adora Collens,mudden9t@edu.com,3.2,2024-1
+823,Formacion Ciudadana I : Identidades y Pluralismo,3,Adi Stithe,Gerik Caslett,bdymondab@edu.com,3.9,2021-3
+824,Analitica de Datos,2,Conant Sumpner,Angele McEnery,gclevely2c@edu.com,4.1,2022-1
+825,Estadistica y Probabilidad II,3,Dell Catmull,Godfrey Pengilley,csalmons29@edu.com,4.6,2023-1
+826,Estadistica y Probabilidad I,3,Elsie Avrahamov,Gerhardine Deverick,hgurwoodgb@edu.com,3.7,2021-3
+827,Legislacion y etica en el manejo de datos,3,Elisabet Filippo,Sibylla Quartley,rburgoyne6e@edu.com,0.7,2021-3
+828,Sistemas Operativos,5,Conant Sumpner,Angele McEnery,ccotterrill8g@edu.com,3.8,2022-3
+829,Ingles 5,3,Dell Aughton,Alys Brownscombe,sgordgeat@edu.com,4.5,2024-1
+830,Electiva Profesional I,5,Suzette Paley,Farah Mattacks,mcastellone8n@edu.com,1.0,2021-1
+831,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,1,Conant Sumpner,Sam Hulks,tsiggep@edu.com,0.1,2022-1
+832,Estadistica y Probabilidad II,4,Sherie Edmons,Dwight Hamley,nsibley82@edu.com,3.4,2023-3
+833,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,4,Hynda Van Velde,Titus Tiplady,tpurchall55@edu.com,2.9,2022-1
+834,Electiva Libre I,4,Adi Stithe,Ethelind Jayne,sbisetif@edu.com,1.8,2022-1
+835,Ingles 2,5,Suzette Paley,Erda Monteath,amackomb3w@edu.com,4.7,2024-1
+836,Electiva Profesional I,4,Tabitha Edgcombe,Jozef Swalteridge,jstentono@edu.com,1.7,2023-3
+837,Estadistica y Probabilidad II,2,Suzette Paley,Osbourn Mayne,nmasson1z@edu.com,0.4,2022-1
+838,Ingles 4,5,Elaina Baumler,Jay Cumberbatch,piacobassi7s@edu.com,1.1,2021-1
+839,Ingles 4,5,Dell Catmull,Dayle Lippiello,pasherlu@edu.com,1.2,2022-3
+840,Matematicas Fundamentales,3,Tabitha Edgcombe,Wayland Axworthy,kdipple7p@edu.com,3.6,2021-3
+841,Almacenamiento de Datos,1,Dell Catmull,Torie Menaul,landriolijo@edu.com,0.2,2023-3
+842,Comunicacion Oral y Escrita,3,Lara Entwistle,Blondelle Vedenisov,dkynderki@edu.com,4.5,2024-1
+843,Logica y Matematica Discreta,4,Rivkah Pittham,Midge St. Hill,owithur2@edu.com,4.2,2023-1
+844,Formacion Ciudadana I : Identidades y Pluralismo,4,Sherie Edmons,Betteanne Tumayan,devemy2m@edu.com,0.9,2024-1
+845,Inteligencia Artificial,1,Kissiah MacMorland,Major Rosenauer,csimeolifx@edu.com,3.9,2021-1
+846,Electiva Profesional 2,1,Kissiah MacMorland,Theressa Smaridge,lboothjarvis35@edu.com,3.4,2024-1
+847,Almacenamiento de Datos,3,Huntington Fincham,Tonya Roles,cswitsureu@edu.com,4.9,2023-1
+848,Analitica de Datos,1,Falkner Brettell,Kristen Dimic,eglanister8j@edu.com,0.2,2023-3
+849,Logica y Matematica Discreta,5,Waldemar Tandey,Rudyard Symes,adudmarsh28@edu.com,0.9,2023-3
+850,Innovacion y Emprendimiento,5,Lara Entwistle,Lynea Baugham,cchildeskx@edu.com,1.3,2021-1
+851,Electiva de Ciencias Sociales,4,Falkner Brettell,Sheridan Lamball,mprettymands@edu.com,1.2,2021-1
+852,Inteligencia Artificial,1,Falkner Brettell,Christie Titford,rnendick1i@edu.com,2.8,2024-1
+853,Ingles 2,1,Suzette Paley,Aldo Radoux,egallybp@edu.com,1.4,2023-3
+854,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,4,Dell Aughton,Waneta Woolger,abullard14@edu.com,1.8,2023-3
+855,Algebra Lineal,4,Suzette Paley,Tomas Garm,ccastelynbt@edu.com,0.4,2023-3
+856,Administracion para Ingenieros,5,Clem Branni,Peggy Nacci,sferrino50@edu.com,0.7,2022-1
+857,Estadistica y Probabilidad I,5,Dell Catmull,Rafferty Skeen,nkneaphseydp@edu.com,4.5,2022-1
+858,Electiva de Ciencias Sociales,5,Lara Entwistle,Ardra Eplate,amackomb3w@edu.com,0.7,2021-1
+859,Seminario de Ing. de Datos e I.A.,3,Elisabet Filippo,Antonio Cutford,lvannozzii3c@edu.com,1.7,2024-1
+860,Matematicas Fundamentales,5,Elsie Avrahamov,Thorsten Rocca,hmccahillel@edu.com,3.2,2022-3
+861,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,1,Tabitha Edgcombe,Tyson Magauran,eparzizekb2@edu.com,0.3,2021-3
+862,Ingles 2,3,Dell Catmull,Durante Shoutt,rscheffeljc@edu.com,4.0,2022-1
+863,Electiva Profesional 3,2,Tabitha Edgcombe,Aidan Luparto,mdytham5y@edu.com,0.6,2023-3
+864,Formacion Ciudadana III: Paz y Convivencia,3,Adi Stithe,Mechelle Dytham,jblewittih@edu.com,2.2,2022-3
+865,Electiva Profesional 4,4,Elaina Baumler,Helen Ladell,lsemberbx@edu.com,3.0,2021-1
+866,ETL (Extraccion,1,Huntington Fincham,Johnnie Vannoni,hkieflx@edu.com,2.4,2021-3
+867,Analitica de Datos,2,Elsie Avrahamov,Lucinda Danev,kgowenlock6@edu.com,0.5,2021-1
+868,Electiva Profesional I,3,Hynda Van Velde,Susi Cunningham,hbonessjz@edu.com,3.8,2023-3
+869,Ingles 3,3,Huntington Fincham,Rodie Bucktrout,cpero69@edu.com,2.6,2022-1
+870,Transformacion y Carga),5,Kissiah MacMorland,Rea Stollman,ralessandruccijw@edu.com,0.9,2021-3
+871,Programacion,1,Sherie Edmons,Gunther McCart,bfreire5r@edu.com,1.5,2023-3
+872,ETL (Extraccion,5,Johan Learmond,Lynnett Servant,sattawellfq@edu.com,1.0,2022-3
+873,Transformacion y Carga),2,Dell Catmull,Sal Houldin,dshoutt3o@edu.com,0.9,2023-1
+874,Redes e Infraestructura,4,Lara Entwistle,Aubry Muscat,bgrabham1v@edu.com,1.5,2021-3
+875,Calculo 2,3,Falkner Brettell,Joye Wragg,csaltmancz@edu.com,1.4,2021-1
+876,Estadistica y Probabilidad I,5,Falkner Brettell,Caroline Degli Antoni,jbram6f@edu.com,2.8,2024-1
+877,Programacion,4,Elaina Baumler,Klara Gemeau,kparratt45@edu.com,3.5,2022-1
+878,Redes e Infraestructura,4,Suzette Paley,Enrique Chaperlin,nnestorukm3@edu.com,2.1,2021-3
+879,Electiva Profesional 5,2,Brear Trussell,Margalit Beeckx,ccuerda2q@edu.com,4.8,2023-1
+880,Electiva de Ciencias Sociales,2,Suzette Paley,Tonya Roles,btripneybf@edu.com,1.7,2021-1
+881,Seguridad de la informacion,4,Lara Entwistle,Elyssa Rolston,bgrabham1v@edu.com,2.3,2022-3
+882,Innovacion y Emprendimiento,5,Suzette Paley,Valeria Southernwood,rpomroyf4@edu.com,3.7,2022-1
+883,Electiva de Ciencias Sociales,1,Tabitha Edgcombe,Glynis Rydings,lservisjm@edu.com,4.8,2022-1
+884,Ingles 4,4,Hynda Van Velde,Tyson Magauran,fpaskin21@edu.com,4.6,2021-1
+885,Innovacion y Emprendimiento,4,Dell Catmull,Thomasina Stoves,esawneygc@edu.com,3.7,2021-3
+886,Matematicas Fundamentales,1,Hynda Van Velde,Kayla Choffin,eould97@edu.com,4.4,2022-3
+887,Ingles 3,1,Tabitha Edgcombe,Dallas Grattage,acoveney84@edu.com,2.4,2022-1
+888,Matematicas Fundamentales,1,Tabitha Edgcombe,Sari Biset,ahardwaree6@edu.com,3.5,2021-1
+889,Ingles 4,5,Dell Catmull,Floris Echalier,fstollmeier9h@edu.com,2.2,2023-1
+890,Ingles 3,4,Suzette Paley,Yoshiko Ayres,dharbachlm@edu.com,0.4,2023-3
+891,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,5,Waldemar Tandey,Manfred Pionter,ejanningsk3@edu.com,1.3,2023-1
+892,Estadistica y Probabilidad I,2,Rivkah Pittham,Ulrikaumeko Gunner,pstatea9@edu.com,0.6,2024-1
+893,Formacion Ciudadana I : Identidades y Pluralismo,5,Lara Entwistle,Devy Zottoli,rbarkshire5m@edu.com,2.2,2022-1
+894,Ingles 3,3,Clem Branni,Onofredo Duferie,lboulsheri@edu.com,4.1,2022-1
+895,Electiva Profesional I,1,Hynda Van Velde,Maxine Petronis,cmarthenb7@edu.com,3.7,2023-3
+896,Administracion para Ingenieros,5,Falkner Brettell,Emmett Sawney,tlandal9r@edu.com,1.8,2021-3
+897,Electiva Profesional 3,5,Dell Catmull,Terencio Callander,cconrart5c@edu.com,4.7,2023-1
+898,Almacenamiento de Datos,2,Dell Aughton,Corissa Esler,squartleyj6@edu.com,3.5,2022-3
+899,Transformacion y Carga),4,Huntington Fincham,Kelvin Spearman,cconrart5c@edu.com,3.0,2022-1
+900,Ingles 1,1,Clem Branni,Carol Conrart,fmcgeorgebk@edu.com,3.4,2022-1
+901,Electiva de Ciencias Sociales,3,Adi Stithe,Lucina MacKerley,egasnollkr@edu.com,3.2,2022-1
+902,Formacion Ciudadana I : Identidades y Pluralismo,5,Kissiah MacMorland,Risa Aspray,dpiccard20@edu.com,3.0,2021-3
+903,Almacenamiento de Datos,2,Lara Entwistle,Ardenia Shafier,jdasje@edu.com,3.8,2021-3
+904,Calculo 1,4,Elsie Avrahamov,Anastassia Chalfain,dsoares1m@edu.com,0.7,2022-3
+905,Ingles 3,5,Dell Catmull,Thaddus Landal,vpine73@edu.com,1.9,2021-1
+906,Ingles 2,5,Suzette Paley,Nanni Sherwill,kdisburyas@edu.com,1.7,2023-1
+907,Transformacion y Carga),1,Elsie Avrahamov,Veradis Pine,rpovall6m@edu.com,2.9,2021-1
+908,Programacion,5,Johan Learmond,Patten Tunesi,sadanet1s@edu.com,1.6,2021-1
+909,Ingenieria y Sostenibilidad,2,Huntington Fincham,Ulrikaumeko Gunner,bstocksdb@edu.com,3.0,2022-1
+910,Almacenamiento de Datos,4,Falkner Brettell,Gwenni Clevely,kdimic5j@edu.com,1.7,2021-1
+911,Estadistica y Probabilidad I,2,Dell Catmull,Stanford Pomphrey,kdipple7p@edu.com,3.3,2023-3
+912,Administracion para Ingenieros,4,Rivkah Pittham,Sherwood Iddiens,nnestorukm3@edu.com,1.9,2023-1
+913,Formacion Ciudadana II: Sociedad y Estado,1,Sherie Edmons,Vergil Grove,ttignerhx@edu.com,2.0,2021-1
+914,Formacion Ciudadana II: Sociedad y Estado,4,Waldemar Tandey,Cleo Lambertini,vsouthernwood8m@edu.com,2.0,2021-3
+915,Ingles 1,1,Huntington Fincham,Maje Click,ptunesiia@edu.com,4.3,2022-1
+916,Ingenieria y Sostenibilidad,5,Brear Trussell,Thebault Ferronet,deallis2i@edu.com,4.1,2021-3
+917,Calculo 1,3,Huntington Fincham,Stanford Pomphrey,cbeston8w@edu.com,4.4,2023-3
+918,Electiva Profesional 3,5,Johan Learmond,Woody Alderton,cpero69@edu.com,4.5,2023-3
+919,Electiva Libre I,1,Adi Stithe,Dillon Olennikov,tlandal9r@edu.com,3.7,2022-1
+920,Calculo 1,1,Huntington Fincham,Lani Sorley,dsparwayg@edu.com,1.4,2021-3
+921,Ingles 1,1,Hynda Van Velde,Brock Blaschek,hdowling1x@edu.com,3.5,2021-1
+922,Redes e Infraestructura,1,Kissiah MacMorland,Vanessa Closs,nblowendo@edu.com,1.1,2022-3
+923,Electiva Profesional I,1,Elaina Baumler,Meggie Maltby,lstrowther42@edu.com,2.1,2022-1
+924,Formacion Ciudadana III: Paz y Convivencia,3,Huntington Fincham,Carol Conrart,esawneygc@edu.com,4.8,2023-1
+925,Estadistica y Probabilidad II,4,Rivkah Pittham,Judie Bendelow,mridgwayc1@edu.com,4.2,2022-1
+926,Electiva Libre I,1,Elsie Avrahamov,Berkie Goodere,kionw@edu.com,5.0,2021-1
+927,Ingles 4,2,Waldemar Tandey,Maximo Majury,btrencher15@edu.com,2.1,2021-1
+928,Ingles 5,3,Suzette Paley,Gawen Unger,agellioncy@edu.com,2.7,2021-3
+929,Programacion,2,Johan Learmond,Carol Conrart,ccastelynbt@edu.com,1.0,2024-1
+930,Legislacion y etica en el manejo de datos,2,Elaina Baumler,Lea Sember,vmasey6s@edu.com,4.0,2023-1
+931,Electiva Profesional 3,2,Rivkah Pittham,Heywood Roskell,hmccahillel@edu.com,0.8,2021-1
+932,Almacenamiento de Datos,3,Rivkah Pittham,Devy Zottoli,wmorris6j@edu.com,1.5,2021-3
+933,ETL (Extraccion,4,Dell Catmull,Pietra Keenor,nboylandlw@edu.com,2.5,2024-1
+934,Matematicas Fundamentales,1,Huntington Fincham,Stella Cordery,kgregorin9j@edu.com,3.7,2022-3
+935,Electiva Profesional 5,2,Huntington Fincham,Hatti Gurwood,sritchings5b@edu.com,1.6,2024-1
+936,Electiva Profesional I,5,Tabitha Edgcombe,Mathilde Clearie,glievesleyed@edu.com,0.3,2024-1
+937,Electiva de Lectura y Escritura,3,Waldemar Tandey,Elfie Parzizek,squartleyj6@edu.com,2.7,2023-3
+938,Electiva Libre I,2,Waldemar Tandey,Elissa Fyldes,lstrowther42@edu.com,0.3,2023-1
+939,Ingles 5,4,Dell Aughton,Hew Tanfield,vsandisongw@edu.com,0.8,2023-1
+940,Legislacion y etica en el manejo de datos,4,Dell Catmull,Waiter Fonzo,twastelljg@edu.com,0.4,2024-1
+941,Electiva Profesional 3,4,Hynda Van Velde,Jacquenette Hobgen,fcrier5a@edu.com,0.3,2022-3
+942,Transformacion y Carga),1,Elaina Baumler,Lorne Butfield,spetherhw@edu.com,0.2,2022-1
+943,Ingles 3,3,Suzette Paley,Everett Haycraft,hbonessjz@edu.com,2.3,2022-1
+944,Ingles 4,5,Elsie Avrahamov,Jorey Danielli,jrowseld8@edu.com,4.2,2023-1
+945,Seminario de Ing. de Datos e I.A.,2,Lara Entwistle,Jamil Hutton,tsmaridgelc@edu.com,1.3,2023-3
+946,Analitica de Datos,5,Kissiah MacMorland,Neely Binton,nsibley82@edu.com,2.3,2024-1
+947,Programacion,2,Falkner Brettell,Kathi Pyson,svileseh@edu.com,2.8,2024-1
+948,Electiva Profesional 3,4,Kissiah MacMorland,Briana Bremmer,tsanz6a@edu.com,1.1,2022-3
+949,Estadistica y Probabilidad I,1,Rivkah Pittham,Risa Aspray,epepperrallky@edu.com,1.8,2023-1
+950,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,2,Elaina Baumler,Sutherlan Coggins,bgrima40@edu.com,4.5,2021-1
+951,Almacenamiento de Datos,3,Elisabet Filippo,Halley McCahill,ttignerhx@edu.com,1.5,2024-1
+952,Electiva Profesional 4,1,Tabitha Edgcombe,Gabriel De Lisle,ophoebehc@edu.com,0.7,2021-3
+953,Administracion para Ingenieros,5,Sherie Edmons,Robb Riordan,hlabb1f@edu.com,2.6,2022-3
+954,ETL (Extraccion,4,Brear Trussell,Aridatha Probetts,cdurbyndk@edu.com,1.2,2021-3
+955,Electiva de Ciencias Sociales,1,Rivkah Pittham,Susi Cunningham,ccookd7@edu.com,2.0,2022-1
+956,Estadistica y Probabilidad I,2,Suzette Paley,Noe Vakhrushev,lvonjl@edu.com,0.9,2022-1
+957,Electiva Profesional 3,5,Lara Entwistle,Dode Jodrellec,idurbyngi@edu.com,1.1,2023-1
+958,Ingenieria y Sostenibilidad,1,Rivkah Pittham,Fallon Coche,jhamlen77@edu.com,1.8,2022-3
+959,Ingles 2,2,Kissiah MacMorland,Terencio Tigner,rpegram6u@edu.com,2.0,2023-1
+960,Electiva Profesional 4,2,Brear Trussell,Lettie Schimoni,hkieflx@edu.com,4.6,2023-1
+961,Estadistica y Probabilidad II,4,Suzette Paley,Berkie Goodere,mhalgarth30@edu.com,3.6,2021-3
+962,Inteligencia Artificial,5,Rivkah Pittham,Sarajane McMichell,rsquirrelldm@edu.com,1.5,2022-1
+963,Inteligencia Artificial,2,Kissiah MacMorland,Evita McIlory,lbaugham27@edu.com,1.1,2023-1
+964,Transformacion y Carga),2,Adi Stithe,Meggie Gabrieli,wmorris6j@edu.com,4.3,2024-1
+965,Matematicas Fundamentales,1,Adi Stithe,Hatti Gurwood,jmellmothbg@edu.com,0.9,2023-1
+966,Innovacion y Emprendimiento,3,Lara Entwistle,Kristen Dimic,mcowgillby@edu.com,3.9,2022-3
+967,Calculo 1,3,Dell Catmull,Joyous Stenton,rgoodwinhe@edu.com,4.2,2021-3
+968,Estadistica y Probabilidad II,3,Dell Catmull,Rahel Pfaffe,dtewkesburyao@edu.com,0.1,2022-3
+969,Electiva de Lectura y Escritura,2,Rivkah Pittham,Delainey Smaling,jlemarie86@edu.com,2.7,2023-1
+970,Ingles 4,3,Suzette Paley,Franky Flanne,hreynerg9@edu.com,1.3,2021-3
+971,Estadistica y Probabilidad II,1,Clem Branni,Tabbatha Smye,bvedenisov8k@edu.com,3.8,2023-1
+972,Formacion Ciudadana II: Sociedad y Estado,3,Suzette Paley,Kathi Pyson,grydings44@edu.com,2.7,2021-3
+973,Estadistica y Probabilidad I,1,Clem Branni,Augustine Waters,ccuerda2q@edu.com,2.3,2023-1
+974,Comunicacion Oral y Escrita,5,Johan Learmond,Alexina Ruperti,sbeevorke@edu.com,0.5,2024-1
+975,Estadistica y Probabilidad I,3,Falkner Brettell,Spenser Antonioni,jbendelowlj@edu.com,1.5,2022-1
+976,Administracion para Ingenieros,5,Elaina Baumler,Lolita Winfred,ddeic@edu.com,2.6,2021-1
+977,Formacion Ciudadana II: Sociedad y Estado,1,Hynda Van Velde,Tadeas Cookman,bchristophehn@edu.com,3.5,2021-1
+978,Administracion para Ingenieros,1,Clem Branni,Gabriel De Lisle,tfiddimangl@edu.com,3.7,2023-3
+979,Ingles 1,2,Elaina Baumler,Vin Riccardi,wwalentaaz@edu.com,1.1,2023-1
+980,Ingles 5,1,Waldemar Tandey,Trixi Kikke,rbolensav@edu.com,0.8,2021-3
+981,Logica y Matematica Discreta,1,Rivkah Pittham,Raimondo Troyes,seasthamho@edu.com,4.1,2022-1
+982,Almacenamiento de Datos,1,Suzette Paley,Sam Hulks,fechalier5s@edu.com,2.9,2023-1
+983,Comunicacion Oral y Escrita,5,Sherie Edmons,Starlene Parman,vwinfieldr@edu.com,3.9,2024-1
+984,Ingles 2,3,Clem Branni,Alvy Floyde,ccookd7@edu.com,4.1,2021-3
+985,Programacion,1,Kissiah MacMorland,Shaina Ritchings,zdrewry6l@edu.com,2.1,2023-1
+986,Electiva Profesional 4,5,Waldemar Tandey,Jorry Hulburd,lduiged8o@edu.com,2.7,2022-3
+987,Sistemas Operativos,2,Hynda Van Velde,Kordula Cattermull,kdisburyas@edu.com,2.8,2021-1
+988,Ingenieria y Sostenibilidad,3,Conant Sumpner,Lindy Kunisch,ecominettibq@edu.com,2.0,2023-1
+989,Analitica de Datos,1,Dell Catmull,Clemens Russ,bclarey8v@edu.com,2.9,2023-3
+990,Almacenamiento de Datos,4,Rivkah Pittham,Kelsi Parratt,tcrowdyes@edu.com,2.0,2022-3
+991,Calculo 1,1,Brear Trussell,Modestine Dobell,aradouxio@edu.com,2.0,2021-1
+992,Administracion para Ingenieros,3,Suzette Paley,Goddard Klesse,mriolfi24@edu.com,1.1,2022-3
+993,Ingles 5,2,Sherie Edmons,Addie Wivell,ode0@edu.com,0.3,2022-3
+994,Estadistica y Probabilidad II,3,Hynda Van Velde,Michale Haimes,kcaudellf0@edu.com,4.3,2021-1
+995,Redes e Infraestructura,4,Dell Catmull,Gregg Lelievre,mdobellf2@edu.com,4.2,2022-3
+996,Introduccion a la Ingenieria de Datos e Inteligencia Artificial,1,Dell Catmull,Rayshell Bolens,wtremellier4t@edu.com,0.4,2021-1
+997,Comunicacion Oral y Escrita,2,Dell Catmull,Martita Leasor,mminorsem@edu.com,3.7,2022-1
+998,Redes e Infraestructura,3,Tabitha Edgcombe,Patten Tunesi,afloyde5h@edu.com,2.8,2024-1
+999,Seguridad de la informacion,5,Brear Trussell,Lani Sorley,cheindleh@edu.com,2.7,2023-3
+1000,Comunicacion Oral y Escrita,1,Elisabet Filippo,Parnell Mityushkin,dsparwayg@edu.com,4.0,2021-1
