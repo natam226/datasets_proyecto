@@ -1,3 +1,4 @@
+id,nombreCurso,grupo,profesor,correoProfesor,nombreEstudiante,correoEstudiante,nota,periodo
 "1","Innovacion y Emprendimiento","1","Isabelle Leas","ileas1v@edu.com","Octavius De Ruggero","ode0@edu.com","2.2","2021-1"
 "2","Innovacion y Emprendimiento","1","Isabelle Leas","ileas1v@edu.com","Staffard Odeson","sodeson1@edu.com","2.2","2021-1"
 "3","Innovacion y Emprendimiento","1","Isabelle Leas","ileas1v@edu.com","Olivero Withur","owithur2@edu.com","2.2","2021-1"
