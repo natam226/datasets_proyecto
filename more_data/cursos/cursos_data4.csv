@@ -1,0 +1,1001 @@
+id,nombreCurso,grupo,nota,periodo
+1,Electiva profesional 4,2,2.5,2021-1
+2,ETL (Extracción,2,0.6,2023-3
+3,Introducción a la Ingeniería de Datos e Inteligencia Artificial,1,4.2,2021-3
+4,Cálculo 2,3,3.8,2022-3
+5,Cálculo 2,3,2.3,2023-3
+6,Ingeniería y Sostenibilidad,2,3.0,2021-3
+7,Matemáticas Fundamentales,4,1.4,2021-3
+8,Electiva Profesional 2,3,0.5,2023-3
+9,Electiva Profesional 2,4,0.8,2023-1
+10,Seminario de Ing. de Datos e IA,3,4.0,2024-1
+11,Electiva Profesional 5,3,2.5,2023-3
+12,Estadística y Probabilidad I,2,1.6,2024-1
+13,Ingeniería y Sostenibilidad,4,3.1,2023-1
+14,Sistemas Operativos,2,0.8,2021-1
+15,Ingles 5,1,2.2,2023-1
+16,Ingles 3,2,1.8,2022-1
+17,Administración para Ingenieros,1,0.7,2021-3
+18,Electiva Libre I,4,4.0,2021-1
+19,Seminario de Ing. de Datos e IA,4,2.6,2021-1
+20,Ingles 1,3,0.3,2024-3
+21,Almacenamiento de datos,3,3.3,2021-3
+22,Transformación y Carga),3,3.4,2024-3
+23,Redes e Infraestructura,1,1.3,2023-3
+24,Álgebra lineal,1,1.7,2022-1
+25,Electiva de  Ciencias Sociales,1,3.6,2022-1
+26,Electiva de  Ciencias Sociales,3,0.6,2022-3
+27,Ingles 4,1,4.7,2024-1
+28,Innovación y Emprendimiento,2,1.5,2021-1
+29,Ingeniería y Sostenibilidad,1,3.8,2022-1
+30,Ingles 5,1,1.2,2023-3
+31,Ingles 5,1,3.1,2024-3
+32,Electiva Profesional 5,1,4.5,2022-3
+33,Formación Ciudadana II: Sociedad y Estado,1,3.0,2024-3
+34,Cálculo 1,2,3.5,2023-3
+35,Electiva Libre I,3,3.4,2022-1
+36,Electiva Profesional 5,1,3.5,2024-1
+37,Legislación y Ética en el Manejo de Datos,4,4.3,2022-1
+38,Formación Ciudadana II: Sociedad y Estado,3,1.9,2023-1
+39,Inteligencia Artificial,3,3.8,2023-3
+40,Formación Ciudadana II: Sociedad y Estado,4,2.0,2023-1
+41,Ingles 1,1,3.4,2022-3
+42,Álgebra lineal,3,0.4,2022-1
+43,Ingeniería y Sostenibilidad,2,0.8,2024-1
+44,Ingles 4,2,3.5,2023-1
+45,Cálculo 2,2,2.2,2023-1
+46,Álgebra lineal,4,2.6,2023-3
+47,Electiva Profesional 2,2,3.5,2022-3
+48,Formación Ciudadana III: Paz y Convivencia,4,4.3,2021-1
+49,Cálculo 2,1,0.2,2023-3
+50,Legislación y Ética en el Manejo de Datos,4,3.2,2023-3
+51,Electiva Profesional 2,3,0.8,2024-3
+52,Transformación y Carga),1,3.7,2024-3
+53,Matemáticas Fundamentales,4,1.2,2024-1
+54,Electiva de Lectura y Escritura,4,1.9,2021-3
+55,Administración para Ingenieros,3,1.5,2023-3
+56,ETL (Extracción,2,1.3,2021-1
+57,Electiva Profesional 3,3,1.9,2022-1
+58,Cálculo 1,1,4.3,2024-3
+59,Formación Ciudadana I : Identidades y Pluralismo,3,0.2,2022-1
+60,Transformación y Carga),3,0.2,2023-3
+61,Electiva profesional 4,3,4.9,2022-1
+62,Ingles 1,1,1.5,2022-3
+63,Electiva Profesional 2,3,0.2,2021-3
+64,Formación Ciudadana I : Identidades y Pluralismo,1,4.6,2024-3
+65,Redes e Infraestructura,3,1.3,2022-3
+66,Lógica y Matemática Discreta,4,0.0,2023-1
+67,Ingles 2,1,2.9,2024-1
+68,Comunicación Oral y Escrita,1,0.7,2022-1
+69,Sistemas Operativos,1,1.0,2024-1
+70,Seguridad de la Información,3,0.9,2024-3
+71,Formación Ciudadana II: Sociedad y Estado,4,3.2,2022-1
+72,Ingles 1,4,2.4,2022-1
+73,Matemáticas Fundamentales,2,4.4,2021-3
+74,Analítica de Datos,4,0.5,2023-3
+75,ETL (Extracción,3,4.0,2021-1
+76,Cálculo 2,4,1.0,2022-3
+77,Estadística y Probabilidad II,1,0.8,2023-3
+78,Programación,4,1.2,2023-3
+79,Ingles 4,4,4.5,2022-3
+80,Ingles 2,3,2.5,2023-1
+81,Electiva de  Ciencias Sociales,2,1.6,2023-1
+82,Comunicación Oral y Escrita,3,3.3,2022-1
+83,Legislación y Ética en el Manejo de Datos,2,2.8,2024-1
+84,Ingles 5,1,0.3,2023-1
+85,Legislación y Ética en el Manejo de Datos,1,1.3,2021-3
+86,Electiva de  Ciencias Sociales,4,4.8,2023-1
+87,Comunicación Oral y Escrita,3,3.5,2021-1
+88,Seminario de Ing. de Datos e IA,2,3.7,2021-1
+89,Cálculo 1,4,0.2,2022-1
+90,Almacenamiento de datos,1,2.1,2022-3
+91,Formación Ciudadana II: Sociedad y Estado,4,0.1,2022-3
+92,Introducción a la Ingeniería de Datos e Inteligencia Artificial,3,1.6,2024-1
+93,Electiva de Lectura y Escritura,4,2.6,2023-3
+94,Álgebra lineal,4,3.1,2022-3
+95,Ingles 4,4,0.5,2022-1
+96,Formación Ciudadana I : Identidades y Pluralismo,1,2.9,2022-3
+97,Cálculo 2,3,0.5,2023-3
+98,Ingles 4,3,2.7,2023-1
+99,Electiva Profesional 1,1,2.8,2023-3
+100,Seguridad de la Información,3,3.9,2023-3
+101,ETL (Extracción,3,4.1,2024-3
+102,Cálculo 2,2,2.3,2021-1
+103,Electiva Profesional 5,3,3.4,2024-3
+104,Estadística y Probabilidad II,4,1.1,2023-3
+105,Estadística y Probabilidad I,3,1.8,2021-3
+106,Formación Ciudadana II: Sociedad y Estado,2,3.7,2022-3
+107,Ingeniería y Sostenibilidad,3,2.3,2022-1
+108,Seminario de Ing. de Datos e IA,3,1.4,2021-3
+109,Ingles 2,2,3.6,2023-1
+110,Electiva Profesional 5,2,3.7,2023-3
+111,Ingeniería y Sostenibilidad,2,1.2,2022-1
+112,Transformación y Carga),2,1.7,2024-3
+113,Sistemas Operativos,1,2.6,2023-1
+114,Ingles 1,4,1.5,2023-1
+115,Sistemas Operativos,3,2.9,2022-3
+116,Electiva Profesional 1,2,0.8,2024-1
+117,Electiva Profesional 1,2,2.2,2024-1
+118,Formación Ciudadana II: Sociedad y Estado,2,2.4,2024-3
+119,Estadística y Probabilidad I,4,1.0,2022-1
+120,Innovación y Emprendimiento,4,1.6,2023-3
+121,Lógica y Matemática Discreta,3,3.8,2023-1
+122,Cálculo 1,3,2.2,2024-3
+123,Introducción a la Ingeniería de Datos e Inteligencia Artificial,3,1.7,2023-3
+124,Matemáticas Fundamentales,1,2.9,2021-3
+125,Lógica y Matemática Discreta,2,4.7,2022-1
+126,Ingles 2,2,2.0,2021-3
+127,Ingeniería y Sostenibilidad,3,4.6,2023-3
+128,Cálculo 1,1,4.4,2023-1
+129,Electiva Profesional 1,4,3.3,2023-3
+130,Formación Ciudadana III: Paz y Convivencia,1,4.9,2021-3
+131,ETL (Extracción,1,0.5,2023-1
+132,Cálculo 2,1,3.4,2021-3
+133,Ingles 1,1,0.1,2022-3
+134,Electiva Profesional 1,3,1.7,2022-1
+135,Álgebra lineal,2,0.9,2023-3
+136,Ingles 3,4,3.7,2022-3
+137,Electiva Profesional 3,1,5.0,2024-1
+138,Seguridad de la Información,3,3.0,2022-1
+139,Legislación y Ética en el Manejo de Datos,2,2.5,2021-3
+140,Ingles 4,1,2.1,2022-3
+141,Analítica de Datos,4,3.8,2022-3
+142,Electiva Profesional 5,2,0.7,2023-3
+143,Ingles 5,1,1.5,2022-1
+144,Almacenamiento de datos,3,4.7,2022-1
+145,Electiva Profesional 2,2,0.2,2024-3
+146,ETL (Extracción,4,1.5,2023-1
+147,Redes e Infraestructura,3,4.6,2024-3
+148,Lógica y Matemática Discreta,4,1.7,2022-1
+149,Electiva profesional 4,1,4.5,2023-3
+150,Ingles 2,2,0.2,2021-1
+151,Estadística y Probabilidad I,1,1.3,2021-1
+152,Innovación y Emprendimiento,2,0.9,2023-3
+153,Administración para Ingenieros,4,1.0,2023-3
+154,Electiva Profesional 3,4,3.0,2023-3
+155,Electiva Profesional 5,3,3.3,2021-1
+156,Electiva Profesional 1,1,3.8,2023-1
+157,Estadística y Probabilidad II,3,0.2,2023-3
+158,Electiva profesional 4,2,0.2,2021-1
+159,Electiva Profesional 3,2,2.3,2022-3
+160,Ingles 3,3,1.0,2024-3
+161,Programación,4,0.8,2024-3
+162,Electiva Profesional 3,2,1.6,2021-3
+163,Administración para Ingenieros,1,0.7,2023-1
+164,Cálculo 2,3,0.9,2024-3
+165,Legislación y Ética en el Manejo de Datos,4,0.3,2023-3
+166,Sistemas Operativos,3,0.5,2023-1
+167,Formación Ciudadana III: Paz y Convivencia,1,0.3,2021-3
+168,Analítica de Datos,3,2.5,2022-1
+169,Introducción a la Ingeniería de Datos e Inteligencia Artificial,2,3.1,2024-3
+170,Ingeniería y Sostenibilidad,1,3.5,2021-1
+171,Electiva de  Ciencias Sociales,2,4.6,2024-3
+172,Ingles 2,3,1.4,2021-3
+173,Ingles 5,4,3.0,2021-3
+174,Electiva Profesional 2,4,1.0,2021-3
+175,Sistemas Operativos,4,3.5,2022-1
+176,Formación Ciudadana I : Identidades y Pluralismo,1,2.7,2021-3
+177,Innovación y Emprendimiento,4,2.7,2022-1
+178,Almacenamiento de datos,1,1.3,2022-1
+179,Formación Ciudadana III: Paz y Convivencia,2,2.1,2021-1
+180,Redes e Infraestructura,1,2.9,2022-1
+181,Electiva Libre I,3,2.8,2023-3
+182,Almacenamiento de datos,1,2.0,2023-3
+183,Matemáticas Fundamentales,2,1.8,2021-3
+184,Seminario de Ing. de Datos e IA,2,4.0,2024-3
+185,Electiva profesional 4,1,1.5,2024-3
+186,Administración para Ingenieros,3,0.6,2023-1
+187,Inteligencia Artificial,1,1.4,2022-1
+188,Electiva profesional 4,1,3.6,2021-1
+189,Administración para Ingenieros,4,1.0,2023-3
+190,Matemáticas Fundamentales,4,4.6,2021-1
+191,Formación Ciudadana II: Sociedad y Estado,2,1.2,2024-1
+192,Comunicación Oral y Escrita,3,0.8,2024-1
+193,Cálculo 1,4,1.5,2021-1
+194,ETL (Extracción,3,0.8,2023-1
+195,Ingeniería y Sostenibilidad,1,0.8,2022-1
+196,Ingles 3,1,2.9,2024-1
+197,Electiva profesional 4,4,4.9,2021-1
+198,Electiva de  Ciencias Sociales,2,0.9,2021-3
+199,Estadística y Probabilidad II,1,4.2,2023-3
+200,Formación Ciudadana I : Identidades y Pluralismo,1,0.3,2024-1
+201,Introducción a la Ingeniería de Datos e Inteligencia Artificial,3,2.9,2021-3
+202,Comunicación Oral y Escrita,3,4.4,2024-1
+203,Formación Ciudadana III: Paz y Convivencia,4,3.6,2024-1
+204,Estadística y Probabilidad II,1,3.5,2023-1
+205,Almacenamiento de datos,2,4.3,2021-1
+206,Estadística y Probabilidad II,4,3.7,2022-1
+207,Transformación y Carga),1,4.8,2022-3
+208,Estadística y Probabilidad I,4,4.9,2022-3
+209,Ingles 3,1,1.8,2021-3
+210,Innovación y Emprendimiento,4,1.3,2023-1
+211,Electiva Profesional 1,4,4.5,2023-3
+212,Estadística y Probabilidad I,4,0.5,2023-3
+213,Formación Ciudadana I : Identidades y Pluralismo,2,2.3,2024-1
+214,Álgebra lineal,4,4.9,2021-3
+215,Estadística y Probabilidad I,2,4.3,2022-3
+216,Legislación y Ética en el Manejo de Datos,4,2.5,2021-1
+217,Seguridad de la Información,2,4.5,2021-3
+218,Matemáticas Fundamentales,4,4.2,2023-1
+219,Lógica y Matemática Discreta,4,3.0,2024-3
+220,Electiva Profesional 3,2,4.1,2024-3
+221,Electiva Profesional 5,4,2.0,2024-1
+222,Matemáticas Fundamentales,3,3.1,2021-3
+223,Electiva Profesional 5,2,1.8,2024-3
+224,Legislación y Ética en el Manejo de Datos,3,3.0,2022-3
+225,Programación,1,3.2,2023-3
+226,Estadística y Probabilidad II,3,4.1,2022-1
+227,Formación Ciudadana III: Paz y Convivencia,1,0.3,2023-1
+228,Formación Ciudadana III: Paz y Convivencia,2,4.7,2021-1
+229,Legislación y Ética en el Manejo de Datos,2,2.1,2023-1
+230,Lógica y Matemática Discreta,4,0.6,2021-3
+231,Electiva de Lectura y Escritura,2,3.2,2021-1
+232,Ingeniería y Sostenibilidad,2,1.5,2023-1
+233,Seminario de Ing. de Datos e IA,4,1.2,2021-3
+234,Álgebra lineal,1,0.2,2022-3
+235,Electiva de  Ciencias Sociales,1,4.6,2023-3
+236,Electiva de Lectura y Escritura,3,4.7,2021-3
+237,Administración para Ingenieros,3,2.1,2024-3
+238,Formación Ciudadana II: Sociedad y Estado,2,0.5,2022-3
+239,Electiva profesional 4,3,4.3,2021-1
+240,Estadística y Probabilidad I,1,3.2,2022-3
+241,Ingles 3,1,3.6,2023-1
+242,Innovación y Emprendimiento,2,4.3,2022-3
+243,Programación,4,4.1,2021-3
+244,Almacenamiento de datos,2,1.0,2024-3
+245,Electiva Libre I,3,2.7,2022-1
+246,Electiva Libre I,1,1.1,2022-1
+247,ETL (Extracción,2,2.5,2021-1
+248,Electiva Profesional 5,3,2.5,2022-3
+249,Ingles 4,4,1.4,2023-3
+250,Sistemas Operativos,2,3.1,2021-1
+251,Almacenamiento de datos,1,2.8,2023-1
+252,Transformación y Carga),3,4.7,2023-1
+253,Electiva Profesional 2,3,4.9,2021-1
+254,Introducción a la Ingeniería de Datos e Inteligencia Artificial,1,2.4,2021-3
+255,Cálculo 1,2,3.8,2023-1
+256,Formación Ciudadana II: Sociedad y Estado,1,3.7,2023-1
+257,Estadística y Probabilidad II,2,1.2,2023-1
+258,Electiva de Lectura y Escritura,2,4.2,2023-3
+259,Cálculo 2,3,3.3,2024-1
+260,Ingles 5,3,1.8,2024-3
+261,Formación Ciudadana III: Paz y Convivencia,3,5.0,2024-1
+262,Ingles 5,4,0.9,2023-3
+263,Estadística y Probabilidad I,4,0.2,2022-3
+264,Programación,2,4.1,2021-1
+265,Ingles 4,3,3.3,2022-1
+266,Electiva Profesional 5,3,2.9,2024-1
+267,Introducción a la Ingeniería de Datos e Inteligencia Artificial,1,1.2,2021-3
+268,Inteligencia Artificial,4,2.4,2021-1
+269,Matemáticas Fundamentales,4,2.8,2024-3
+270,Cálculo 2,1,1.6,2023-3
+271,Lógica y Matemática Discreta,3,4.1,2021-3
+272,ETL (Extracción,3,0.8,2023-1
+273,Ingles 5,4,0.7,2022-3
+274,Estadística y Probabilidad II,4,1.6,2022-3
+275,Redes e Infraestructura,3,3.8,2023-3
+276,Ingeniería y Sostenibilidad,2,1.8,2022-3
+277,Redes e Infraestructura,4,2.3,2021-1
+278,Ingles 2,3,0.5,2021-1
+279,Transformación y Carga),3,0.9,2024-1
+280,Electiva Profesional 3,2,0.7,2021-3
+281,Introducción a la Ingeniería de Datos e Inteligencia Artificial,1,1.3,2023-3
+282,Programación,2,2.7,2022-1
+283,Matemáticas Fundamentales,1,4.9,2023-3
+284,Álgebra lineal,4,2.0,2021-3
+285,Álgebra lineal,3,1.0,2024-1
+286,Sistemas Operativos,4,4.5,2023-1
+287,Ingles 1,2,4.5,2021-3
+288,Electiva Profesional 1,3,1.7,2024-3
+289,Introducción a la Ingeniería de Datos e Inteligencia Artificial,4,1.9,2024-1
+290,Sistemas Operativos,2,1.3,2023-1
+291,Programación,1,1.5,2021-1
+292,Introducción a la Ingeniería de Datos e Inteligencia Artificial,3,0.5,2022-3
+293,Estadística y Probabilidad I,3,0.5,2022-3
+294,Electiva Profesional 3,2,2.4,2024-1
+295,Electiva Libre I,4,0.3,2021-1
+296,Electiva Profesional 5,3,2.4,2021-3
+297,Electiva de Lectura y Escritura,3,0.7,2022-3
+298,Cálculo 1,4,4.3,2024-1
+299,Electiva Profesional 2,1,1.5,2023-3
+300,Comunicación Oral y Escrita,1,3.9,2024-3
+301,Matemáticas Fundamentales,4,1.3,2023-3
+302,Legislación y Ética en el Manejo de Datos,4,1.2,2021-3
+303,Electiva de  Ciencias Sociales,2,1.7,2023-1
+304,Electiva profesional 4,1,0.2,2024-1
+305,Formación Ciudadana II: Sociedad y Estado,3,3.2,2021-1
+306,Sistemas Operativos,2,2.4,2022-1
+307,Inteligencia Artificial,4,1.9,2021-3
+308,Formación Ciudadana III: Paz y Convivencia,1,2.3,2023-1
+309,Estadística y Probabilidad I,2,2.5,2021-3
+310,Electiva de Lectura y Escritura,3,2.2,2021-1
+311,Seguridad de la Información,2,3.3,2023-1
+312,Formación Ciudadana II: Sociedad y Estado,4,1.0,2023-1
+313,Electiva Libre I,4,3.8,2021-1
+314,Analítica de Datos,1,4.2,2022-1
+315,Matemáticas Fundamentales,2,2.9,2021-3
+316,Inteligencia Artificial,3,0.3,2024-1
+317,Lógica y Matemática Discreta,4,0.5,2024-3
+318,Electiva Profesional 2,3,4.9,2023-3
+319,Sistemas Operativos,4,0.8,2021-3
+320,Administración para Ingenieros,2,0.2,2023-3
+321,Electiva Profesional 1,3,4.5,2022-1
+322,Electiva Profesional 1,3,4.2,2022-3
+323,Electiva Profesional 1,3,1.7,2021-3
+324,Electiva Profesional 1,1,4.3,2022-3
+325,Ingles 1,3,1.6,2023-3
+326,Seminario de Ing. de Datos e IA,4,4.0,2023-1
+327,Programación,4,4.9,2023-3
+328,Innovación y Emprendimiento,4,2.7,2022-3
+329,Electiva de  Ciencias Sociales,3,3.3,2022-3
+330,Electiva Profesional 1,2,2.9,2022-3
+331,Administración para Ingenieros,1,3.4,2024-3
+332,Estadística y Probabilidad II,3,2.9,2024-3
+333,Innovación y Emprendimiento,4,2.6,2024-1
+334,Ingles 2,3,3.8,2024-3
+335,Formación Ciudadana I : Identidades y Pluralismo,4,3.5,2023-3
+336,Legislación y Ética en el Manejo de Datos,4,1.0,2024-3
+337,Electiva Profesional 5,4,2.8,2021-1
+338,Electiva Profesional 5,4,4.9,2021-1
+339,Electiva Profesional 1,3,3.7,2022-1
+340,Ingles 1,3,1.2,2024-3
+341,Electiva Libre I,2,4.2,2022-1
+342,Legislación y Ética en el Manejo de Datos,1,2.2,2022-1
+343,Formación Ciudadana I : Identidades y Pluralismo,4,1.3,2024-3
+344,Electiva de Lectura y Escritura,1,0.5,2023-3
+345,Estadística y Probabilidad II,1,1.4,2023-1
+346,Ingles 5,4,4.6,2023-3
+347,Programación,4,2.8,2023-3
+348,Electiva Profesional 1,3,3.0,2024-1
+349,Analítica de Datos,1,2.9,2023-3
+350,Redes e Infraestructura,1,2.8,2022-1
+351,Seminario de Ing. de Datos e IA,1,3.5,2024-3
+352,Electiva de Lectura y Escritura,3,1.5,2022-3
+353,Electiva profesional 4,4,3.3,2023-3
+354,Ingles 4,2,2.1,2024-1
+355,Electiva Profesional 5,4,3.1,2024-3
+356,Sistemas Operativos,3,0.2,2023-1
+357,Sistemas Operativos,4,0.5,2023-1
+358,Administración para Ingenieros,4,4.6,2021-1
+359,Ingles 5,3,1.6,2023-1
+360,Redes e Infraestructura,4,1.0,2023-1
+361,Estadística y Probabilidad II,4,0.2,2024-3
+362,Formación Ciudadana III: Paz y Convivencia,4,2.0,2021-3
+363,Ingles 3,4,3.0,2022-1
+364,ETL (Extracción,2,0.7,2022-1
+365,Electiva Profesional 3,1,2.9,2024-3
+366,Programación,1,4.0,2023-1
+367,Ingeniería y Sostenibilidad,1,2.4,2023-1
+368,Administración para Ingenieros,3,2.0,2022-1
+369,Electiva profesional 4,1,4.7,2024-1
+370,Ingeniería y Sostenibilidad,3,4.6,2023-1
+371,Formación Ciudadana II: Sociedad y Estado,3,0.1,2021-1
+372,Ingles 5,2,3.0,2023-1
+373,Cálculo 1,4,0.7,2022-1
+374,Seguridad de la Información,4,1.9,2022-3
+375,Analítica de Datos,2,3.2,2023-3
+376,Ingles 5,3,2.5,2024-3
+377,Almacenamiento de datos,3,3.3,2021-3
+378,Cálculo 2,3,3.7,2024-3
+379,Analítica de Datos,2,1.6,2023-1
+380,Electiva de  Ciencias Sociales,2,2.4,2022-1
+381,Ingles 4,1,4.3,2023-1
+382,Electiva Libre I,3,4.1,2021-1
+383,Redes e Infraestructura,1,3.7,2023-1
+384,Ingeniería y Sostenibilidad,1,1.3,2022-3
+385,Programación,4,3.3,2023-1
+386,Seminario de Ing. de Datos e IA,2,3.4,2022-1
+387,Electiva Profesional 3,2,3.2,2022-3
+388,Ingles 3,3,1.0,2021-1
+389,Electiva Profesional 2,3,0.5,2024-1
+390,Estadística y Probabilidad II,3,1.6,2023-3
+391,Lógica y Matemática Discreta,4,3.7,2024-1
+392,Electiva Profesional 1,2,4.3,2021-3
+393,Electiva Profesional 3,3,2.4,2024-1
+394,Ingles 3,3,4.3,2023-1
+395,Formación Ciudadana III: Paz y Convivencia,4,1.9,2024-1
+396,Cálculo 1,3,1.3,2023-3
+397,Seminario de Ing. de Datos e IA,4,3.7,2023-3
+398,Matemáticas Fundamentales,3,3.2,2023-1
+399,Seminario de Ing. de Datos e IA,1,2.5,2022-3
+400,Cálculo 1,2,4.1,2022-3
+401,Electiva profesional 4,1,3.7,2022-3
+402,Redes e Infraestructura,2,3.2,2022-3
+403,Ingles 1,2,3.0,2023-3
+404,Legislación y Ética en el Manejo de Datos,1,2.5,2021-1
+405,Electiva de  Ciencias Sociales,2,1.0,2021-1
+406,Administración para Ingenieros,2,4.9,2023-1
+407,Redes e Infraestructura,4,2.9,2023-3
+408,Almacenamiento de datos,4,2.4,2024-3
+409,Redes e Infraestructura,2,0.1,2022-1
+410,Formación Ciudadana III: Paz y Convivencia,3,0.2,2022-1
+411,Electiva Profesional 3,4,4.6,2024-3
+412,Electiva Profesional 5,2,1.4,2023-3
+413,Ingles 3,1,1.0,2021-3
+414,Innovación y Emprendimiento,3,4.7,2024-3
+415,Electiva de Lectura y Escritura,1,2.3,2023-1
+416,Ingeniería y Sostenibilidad,3,4.2,2023-1
+417,Cálculo 1,4,3.6,2021-3
+418,Programación,1,4.9,2021-1
+419,Formación Ciudadana III: Paz y Convivencia,1,3.0,2021-1
+420,Matemáticas Fundamentales,2,1.1,2021-3
+421,Seminario de Ing. de Datos e IA,4,3.2,2022-3
+422,Formación Ciudadana II: Sociedad y Estado,2,2.5,2023-1
+423,Formación Ciudadana III: Paz y Convivencia,3,4.2,2022-3
+424,Seguridad de la Información,2,3.9,2023-1
+425,Administración para Ingenieros,1,3.5,2023-3
+426,Ingles 2,2,2.1,2024-1
+427,Introducción a la Ingeniería de Datos e Inteligencia Artificial,3,2.3,2022-1
+428,Ingles 3,1,3.1,2024-1
+429,Almacenamiento de datos,2,3.4,2021-3
+430,Cálculo 2,4,0.4,2023-3
+431,Sistemas Operativos,1,0.3,2021-1
+432,Electiva de Lectura y Escritura,1,4.3,2022-3
+433,Seguridad de la Información,1,1.7,2023-1
+434,Electiva de Lectura y Escritura,4,4.5,2024-1
+435,ETL (Extracción,1,3.9,2024-1
+436,Electiva Libre I,2,4.2,2023-3
+437,Introducción a la Ingeniería de Datos e Inteligencia Artificial,4,0.9,2023-3
+438,Seminario de Ing. de Datos e IA,4,1.6,2023-1
+439,ETL (Extracción,3,2.9,2022-3
+440,Ingles 1,3,2.5,2021-1
+441,Electiva Profesional 2,2,2.0,2022-3
+442,Lógica y Matemática Discreta,2,2.2,2024-3
+443,Redes e Infraestructura,1,3.2,2022-1
+444,Ingles 2,3,4.8,2021-1
+445,Administración para Ingenieros,2,4.1,2024-3
+446,Legislación y Ética en el Manejo de Datos,4,0.7,2022-1
+447,Ingles 2,2,3.8,2021-3
+448,Electiva Profesional 3,4,0.3,2021-1
+449,Innovación y Emprendimiento,3,1.3,2022-3
+450,Electiva Profesional 1,4,2.3,2021-3
+451,Electiva de  Ciencias Sociales,2,3.9,2023-1
+452,Ingeniería y Sostenibilidad,3,1.8,2021-3
+453,Ingles 4,2,0.6,2023-1
+454,Seminario de Ing. de Datos e IA,2,0.3,2023-3
+455,Ingles 3,3,3.6,2022-1
+456,Administración para Ingenieros,3,2.5,2023-1
+457,Innovación y Emprendimiento,3,2.5,2023-1
+458,Electiva de  Ciencias Sociales,4,4.7,2021-3
+459,Electiva Libre I,1,0.9,2023-1
+460,Almacenamiento de datos,4,0.8,2023-3
+461,Estadística y Probabilidad II,3,4.2,2022-3
+462,Estadística y Probabilidad II,2,2.1,2021-3
+463,Introducción a la Ingeniería de Datos e Inteligencia Artificial,3,0.4,2024-1
+464,Introducción a la Ingeniería de Datos e Inteligencia Artificial,3,1.4,2021-3
+465,Electiva de Lectura y Escritura,1,1.7,2024-1
+466,Innovación y Emprendimiento,2,0.8,2022-1
+467,Analítica de Datos,3,2.6,2022-1
+468,Electiva Libre I,4,0.8,2021-3
+469,Cálculo 2,1,2.6,2023-1
+470,Transformación y Carga),2,0.9,2021-3
+471,Electiva profesional 4,2,3.7,2022-1
+472,Ingles 3,4,4.7,2023-3
+473,Electiva Profesional 2,2,2.2,2024-3
+474,Estadística y Probabilidad I,2,4.5,2022-1
+475,Ingles 3,3,1.4,2024-3
+476,Electiva Libre I,1,2.4,2024-3
+477,Ingles 1,1,3.7,2021-1
+478,Ingles 4,1,1.6,2023-1
+479,Administración para Ingenieros,2,0.6,2023-3
+480,Introducción a la Ingeniería de Datos e Inteligencia Artificial,1,4.8,2021-3
+481,Electiva profesional 4,2,5.0,2022-1
+482,Electiva Libre I,1,3.1,2023-3
+483,Transformación y Carga),4,0.3,2023-1
+484,Lógica y Matemática Discreta,4,2.9,2023-1
+485,Electiva Profesional 1,3,2.2,2023-1
+486,Electiva Profesional 2,4,4.8,2024-1
+487,Electiva de Lectura y Escritura,3,0.5,2023-1
+488,Innovación y Emprendimiento,1,0.7,2023-3
+489,Electiva Profesional 5,1,2.8,2021-3
+490,Electiva Libre I,2,1.2,2023-1
+491,Estadística y Probabilidad I,1,5.0,2024-1
+492,Electiva Profesional 1,4,3.7,2022-3
+493,Administración para Ingenieros,1,0.8,2023-1
+494,ETL (Extracción,3,4.3,2024-1
+495,Matemáticas Fundamentales,3,4.1,2022-1
+496,Matemáticas Fundamentales,1,3.9,2023-1
+497,Cálculo 1,4,3.0,2024-1
+498,Electiva profesional 4,3,0.5,2023-1
+499,Cálculo 2,1,0.3,2021-3
+500,Electiva Profesional 5,1,2.8,2024-1
+501,Electiva Profesional 3,1,1.4,2021-1
+502,Almacenamiento de datos,3,0.3,2023-1
+503,Electiva Profesional 5,2,0.6,2024-1
+504,Ingeniería y Sostenibilidad,3,5.0,2023-1
+505,Formación Ciudadana I : Identidades y Pluralismo,1,4.8,2024-1
+506,Formación Ciudadana II: Sociedad y Estado,4,3.4,2021-3
+507,Comunicación Oral y Escrita,4,4.5,2021-3
+508,Ingles 5,3,3.2,2022-3
+509,Redes e Infraestructura,1,0.7,2021-1
+510,Legislación y Ética en el Manejo de Datos,2,5.0,2021-1
+511,Formación Ciudadana II: Sociedad y Estado,3,1.3,2022-3
+512,Comunicación Oral y Escrita,3,2.4,2021-3
+513,Introducción a la Ingeniería de Datos e Inteligencia Artificial,1,0.4,2021-3
+514,Lógica y Matemática Discreta,2,4.5,2023-3
+515,Ingles 1,3,1.6,2023-1
+516,Electiva de Lectura y Escritura,4,0.3,2024-1
+517,Redes e Infraestructura,1,1.7,2021-1
+518,Lógica y Matemática Discreta,1,1.6,2022-1
+519,ETL (Extracción,4,2.5,2024-3
+520,Estadística y Probabilidad I,3,1.3,2024-1
+521,Analítica de Datos,1,3.8,2024-3
+522,Cálculo 1,4,3.3,2024-1
+523,Formación Ciudadana III: Paz y Convivencia,4,4.8,2023-3
+524,Sistemas Operativos,1,2.5,2024-3
+525,ETL (Extracción,1,2.1,2021-3
+526,Formación Ciudadana I : Identidades y Pluralismo,2,3.7,2023-1
+527,Introducción a la Ingeniería de Datos e Inteligencia Artificial,1,1.6,2024-3
+528,Inteligencia Artificial,2,1.5,2021-3
+529,Programación,3,2.0,2022-1
+530,Formación Ciudadana III: Paz y Convivencia,1,4.6,2021-3
+531,Estadística y Probabilidad II,2,2.4,2023-3
+532,Electiva Profesional 2,4,4.0,2023-3
+533,ETL (Extracción,1,1.5,2023-3
+534,Programación,3,2.7,2023-3
+535,Electiva Profesional 1,3,1.6,2021-3
+536,Matemáticas Fundamentales,3,3.8,2022-3
+537,Analítica de Datos,4,0.3,2023-3
+538,Lógica y Matemática Discreta,2,0.6,2024-3
+539,Electiva Profesional 2,4,3.6,2024-1
+540,Cálculo 2,2,1.0,2023-3
+541,Estadística y Probabilidad II,3,0.4,2024-3
+542,Electiva Profesional 5,2,3.0,2022-3
+543,Ingles 5,2,1.3,2024-1
+544,Administración para Ingenieros,3,2.6,2024-3
+545,Estadística y Probabilidad II,2,4.4,2022-1
+546,Cálculo 1,4,3.5,2022-3
+547,Electiva de Lectura y Escritura,1,1.1,2024-3
+548,Estadística y Probabilidad I,2,1.6,2021-1
+549,Almacenamiento de datos,2,0.6,2021-3
+550,Redes e Infraestructura,4,4.7,2023-1
+551,Ingles 5,3,2.4,2023-1
+552,Formación Ciudadana II: Sociedad y Estado,3,1.6,2024-1
+553,Electiva de Lectura y Escritura,3,4.3,2024-1
+554,Administración para Ingenieros,4,1.2,2021-3
+555,Legislación y Ética en el Manejo de Datos,4,3.6,2023-1
+556,Analítica de Datos,3,1.7,2024-1
+557,Transformación y Carga),1,0.8,2021-3
+558,Introducción a la Ingeniería de Datos e Inteligencia Artificial,2,3.2,2024-1
+559,Ingles 2,4,0.8,2021-3
+560,Ingeniería y Sostenibilidad,3,3.5,2023-1
+561,Electiva Profesional 5,3,3.4,2024-3
+562,Sistemas Operativos,3,2.6,2024-1
+563,Programación,3,2.0,2023-3
+564,Introducción a la Ingeniería de Datos e Inteligencia Artificial,1,4.3,2023-1
+565,Electiva Libre I,3,0.3,2022-1
+566,Lógica y Matemática Discreta,3,0.5,2022-1
+567,Analítica de Datos,3,3.3,2022-1
+568,Inteligencia Artificial,3,4.6,2024-1
+569,Electiva de  Ciencias Sociales,4,3.8,2024-1
+570,Ingles 1,1,3.4,2024-1
+571,Administración para Ingenieros,4,4.9,2024-1
+572,Electiva Profesional 1,1,3.3,2021-3
+573,Electiva profesional 4,1,1.2,2021-3
+574,Electiva profesional 4,3,3.1,2021-3
+575,Administración para Ingenieros,1,1.6,2024-3
+576,Ingles 1,2,4.8,2023-3
+577,Ingles 3,3,0.1,2023-3
+578,Electiva Libre I,2,1.7,2022-1
+579,Ingles 3,4,4.5,2021-3
+580,Electiva Profesional 1,2,1.7,2022-1
+581,Lógica y Matemática Discreta,3,0.2,2023-3
+582,Formación Ciudadana I : Identidades y Pluralismo,4,1.3,2021-1
+583,Sistemas Operativos,1,5.0,2024-3
+584,Inteligencia Artificial,4,2.5,2021-3
+585,Matemáticas Fundamentales,4,2.7,2024-3
+586,Sistemas Operativos,3,0.7,2021-1
+587,Electiva profesional 4,3,3.5,2024-1
+588,Matemáticas Fundamentales,1,4.1,2024-1
+589,Ingles 2,3,4.8,2024-3
+590,Sistemas Operativos,4,1.3,2024-3
+591,Transformación y Carga),1,3.0,2023-1
+592,Inteligencia Artificial,1,2.8,2024-1
+593,ETL (Extracción,4,1.7,2024-1
+594,Electiva Libre I,2,0.4,2021-3
+595,Electiva profesional 4,1,4.3,2024-3
+596,Lógica y Matemática Discreta,4,3.0,2023-3
+597,Ingeniería y Sostenibilidad,3,3.1,2024-3
+598,Innovación y Emprendimiento,2,3.5,2024-1
+599,Estadística y Probabilidad I,4,4.9,2021-3
+600,Matemáticas Fundamentales,1,2.4,2022-3
+601,Cálculo 1,3,3.2,2021-3
+602,Introducción a la Ingeniería de Datos e Inteligencia Artificial,1,0.0,2024-1
+603,Estadística y Probabilidad II,4,2.4,2022-1
+604,Ingles 2,3,1.6,2022-1
+605,ETL (Extracción,2,1.8,2024-1
+606,Álgebra lineal,4,1.1,2021-3
+607,Electiva de Lectura y Escritura,1,4.9,2023-3
+608,Programación,3,2.4,2021-3
+609,Comunicación Oral y Escrita,1,2.8,2021-1
+610,Ingles 2,3,0.9,2024-3
+611,Legislación y Ética en el Manejo de Datos,2,2.2,2024-1
+612,Ingeniería y Sostenibilidad,2,2.8,2021-3
+613,Formación Ciudadana III: Paz y Convivencia,4,3.7,2022-1
+614,Analítica de Datos,2,3.7,2024-3
+615,Ingles 2,4,1.8,2021-3
+616,Formación Ciudadana I : Identidades y Pluralismo,4,3.5,2023-1
+617,Álgebra lineal,2,0.8,2022-3
+618,Formación Ciudadana II: Sociedad y Estado,4,2.2,2022-1
+619,Transformación y Carga),2,2.1,2021-3
+620,Lógica y Matemática Discreta,1,1.2,2023-1
+621,ETL (Extracción,1,0.9,2023-1
+622,Estadística y Probabilidad I,4,1.2,2021-3
+623,Formación Ciudadana III: Paz y Convivencia,1,4.8,2021-3
+624,Redes e Infraestructura,2,1.2,2023-1
+625,Seminario de Ing. de Datos e IA,4,4.1,2023-1
+626,Introducción a la Ingeniería de Datos e Inteligencia Artificial,4,2.7,2021-1
+627,Sistemas Operativos,4,0.3,2023-3
+628,Ingles 1,3,0.6,2022-3
+629,Transformación y Carga),2,0.6,2021-1
+630,Estadística y Probabilidad II,1,0.3,2022-1
+631,Seguridad de la Información,3,4.1,2022-1
+632,Electiva Profesional 2,3,2.0,2022-3
+633,Seguridad de la Información,2,4.5,2021-3
+634,Ingles 4,4,1.1,2022-3
+635,Ingles 1,2,0.5,2024-3
+636,Ingles 2,3,2.9,2024-1
+637,Legislación y Ética en el Manejo de Datos,2,2.2,2022-3
+638,Comunicación Oral y Escrita,1,4.6,2022-3
+639,Cálculo 2,4,3.4,2023-1
+640,Formación Ciudadana I : Identidades y Pluralismo,2,4.5,2021-3
+641,Electiva de  Ciencias Sociales,3,1.6,2023-3
+642,Administración para Ingenieros,2,3.5,2024-3
+643,Administración para Ingenieros,1,2.7,2021-3
+644,Lógica y Matemática Discreta,1,3.2,2022-1
+645,Administración para Ingenieros,3,2.4,2023-1
+646,Seguridad de la Información,3,1.2,2022-3
+647,Almacenamiento de datos,4,4.3,2022-3
+648,Cálculo 1,1,5.0,2024-3
+649,Electiva Profesional 2,1,2.0,2023-1
+650,Electiva Profesional 2,3,3.3,2022-3
+651,Formación Ciudadana III: Paz y Convivencia,1,4.6,2023-1
+652,Electiva Profesional 5,1,1.7,2021-1
+653,Cálculo 1,1,1.9,2021-3
+654,Cálculo 1,1,3.0,2022-1
+655,Seguridad de la Información,1,0.8,2023-1
+656,Introducción a la Ingeniería de Datos e Inteligencia Artificial,4,4.4,2024-3
+657,Electiva profesional 4,4,4.6,2022-1
+658,Ingles 4,1,4.6,2022-1
+659,Formación Ciudadana II: Sociedad y Estado,3,3.5,2022-3
+660,Cálculo 2,4,4.3,2024-1
+661,Electiva Profesional 5,2,1.2,2023-3
+662,Estadística y Probabilidad I,4,1.2,2021-3
+663,Formación Ciudadana II: Sociedad y Estado,3,1.6,2024-3
+664,Ingles 3,1,4.5,2021-1
+665,Ingles 1,1,3.8,2022-1
+666,Sistemas Operativos,4,0.3,2024-1
+667,Ingles 2,3,2.1,2021-3
+668,Transformación y Carga),3,3.3,2024-3
+669,Almacenamiento de datos,4,2.5,2024-3
+670,Formación Ciudadana III: Paz y Convivencia,3,0.7,2022-1
+671,Inteligencia Artificial,2,4.6,2024-1
+672,Sistemas Operativos,3,3.0,2022-1
+673,Ingles 4,2,2.0,2021-1
+674,Lógica y Matemática Discreta,2,0.2,2023-3
+675,Estadística y Probabilidad II,2,4.5,2023-1
+676,Administración para Ingenieros,3,5.0,2024-3
+677,Electiva Profesional 2,1,4.8,2021-3
+678,Lógica y Matemática Discreta,3,2.3,2024-3
+679,Ingles 5,1,1.9,2022-1
+680,Sistemas Operativos,2,3.4,2024-1
+681,Transformación y Carga),2,2.1,2021-1
+682,Ingles 3,1,2.5,2023-3
+683,Introducción a la Ingeniería de Datos e Inteligencia Artificial,2,4.9,2022-1
+684,Programación,1,2.7,2023-1
+685,Lógica y Matemática Discreta,1,4.2,2022-1
+686,Comunicación Oral y Escrita,4,3.2,2021-1
+687,Electiva Profesional 1,4,2.0,2024-3
+688,Estadística y Probabilidad II,1,2.9,2024-3
+689,Seguridad de la Información,4,2.4,2021-3
+690,Comunicación Oral y Escrita,1,1.2,2021-3
+691,Seguridad de la Información,4,1.9,2023-1
+692,Estadística y Probabilidad II,3,3.3,2024-1
+693,Innovación y Emprendimiento,4,4.5,2021-3
+694,Formación Ciudadana II: Sociedad y Estado,2,2.1,2021-3
+695,Inteligencia Artificial,2,2.8,2024-3
+696,Álgebra lineal,4,1.0,2021-3
+697,Ingles 2,1,4.4,2023-1
+698,Formación Ciudadana III: Paz y Convivencia,4,0.2,2023-3
+699,Electiva Profesional 2,1,1.6,2024-3
+700,Formación Ciudadana II: Sociedad y Estado,4,0.5,2022-1
+701,Electiva de  Ciencias Sociales,1,3.4,2023-1
+702,Electiva de Lectura y Escritura,3,2.7,2022-1
+703,Cálculo 2,2,3.6,2023-3
+704,Electiva Profesional 5,1,2.7,2023-1
+705,Formación Ciudadana I : Identidades y Pluralismo,4,0.6,2024-1
+706,Formación Ciudadana II: Sociedad y Estado,1,1.8,2022-3
+707,Comunicación Oral y Escrita,4,1.2,2021-3
+708,Introducción a la Ingeniería de Datos e Inteligencia Artificial,4,1.6,2021-1
+709,Formación Ciudadana I : Identidades y Pluralismo,2,2.0,2021-1
+710,Ingles 3,4,1.3,2024-1
+711,Estadística y Probabilidad II,4,3.6,2022-1
+712,Electiva profesional 4,3,3.0,2022-3
+713,Sistemas Operativos,4,4.3,2023-1
+714,Programación,3,4.0,2023-1
+715,Lógica y Matemática Discreta,3,0.1,2024-1
+716,Formación Ciudadana II: Sociedad y Estado,1,3.0,2021-1
+717,Inteligencia Artificial,4,0.7,2021-1
+718,Ingles 5,4,1.1,2022-1
+719,ETL (Extracción,1,2.0,2024-1
+720,Electiva Libre I,4,0.3,2022-3
+721,Analítica de Datos,4,0.8,2024-1
+722,Electiva profesional 4,1,0.1,2023-3
+723,Analítica de Datos,3,1.9,2023-1
+724,Inteligencia Artificial,4,0.4,2023-3
+725,Innovación y Emprendimiento,3,3.7,2023-1
+726,Electiva profesional 4,1,2.2,2023-1
+727,Cálculo 1,1,2.7,2022-3
+728,Electiva Libre I,1,4.6,2024-1
+729,Ingles 2,1,3.2,2021-3
+730,Cálculo 2,1,2.8,2022-3
+731,Administración para Ingenieros,4,2.8,2024-3
+732,Formación Ciudadana I : Identidades y Pluralismo,3,4.6,2022-3
+733,Estadística y Probabilidad II,4,3.7,2021-1
+734,Legislación y Ética en el Manejo de Datos,1,1.8,2021-3
+735,Electiva Profesional 3,1,4.8,2022-1
+736,Programación,4,3.2,2021-3
+737,Almacenamiento de datos,2,2.5,2024-3
+738,Ingles 2,4,3.5,2024-1
+739,Comunicación Oral y Escrita,4,1.0,2021-1
+740,Electiva de  Ciencias Sociales,1,1.3,2022-3
+741,Formación Ciudadana II: Sociedad y Estado,2,4.5,2022-3
+742,Ingles 4,4,4.2,2024-1
+743,Cálculo 1,1,0.5,2024-3
+744,Ingles 4,3,2.1,2021-1
+745,Innovación y Emprendimiento,1,3.0,2024-1
+746,Electiva Libre I,4,0.1,2021-1
+747,Comunicación Oral y Escrita,2,1.4,2022-1
+748,Lógica y Matemática Discreta,4,4.4,2021-1
+749,Administración para Ingenieros,3,0.3,2022-3
+750,Álgebra lineal,3,3.4,2023-3
+751,Innovación y Emprendimiento,3,1.1,2022-1
+752,Almacenamiento de datos,3,0.6,2024-3
+753,Introducción a la Ingeniería de Datos e Inteligencia Artificial,2,2.3,2024-3
+754,Electiva Libre I,4,0.9,2024-1
+755,ETL (Extracción,4,3.5,2021-1
+756,Matemáticas Fundamentales,3,4.5,2022-1
+757,Comunicación Oral y Escrita,3,0.6,2021-3
+758,Electiva de Lectura y Escritura,4,4.6,2021-1
+759,Cálculo 1,4,1.1,2023-1
+760,Legislación y Ética en el Manejo de Datos,2,0.7,2022-3
+761,Cálculo 1,4,2.0,2024-3
+762,Comunicación Oral y Escrita,3,1.5,2021-3
+763,Transformación y Carga),4,4.5,2024-3
+764,Ingeniería y Sostenibilidad,1,4.4,2023-1
+765,Ingeniería y Sostenibilidad,4,1.0,2021-1
+766,Seminario de Ing. de Datos e IA,3,3.8,2022-1
+767,Ingles 4,2,0.1,2021-1
+768,Ingles 4,2,4.2,2021-1
+769,ETL (Extracción,1,0.5,2024-3
+770,Ingles 4,3,3.3,2024-3
+771,Seguridad de la Información,3,1.9,2024-3
+772,Electiva Profesional 5,2,0.9,2024-1
+773,Álgebra lineal,1,1.3,2021-3
+774,Analítica de Datos,3,3.6,2023-1
+775,Electiva profesional 4,2,4.8,2023-3
+776,Cálculo 2,4,3.3,2024-1
+777,Cálculo 1,1,4.9,2021-1
+778,Transformación y Carga),3,2.1,2022-1
+779,Formación Ciudadana I : Identidades y Pluralismo,1,3.3,2023-1
+780,Lógica y Matemática Discreta,4,3.9,2021-3
+781,Electiva Profesional 5,1,2.1,2022-3
+782,ETL (Extracción,3,3.4,2022-3
+783,Formación Ciudadana II: Sociedad y Estado,1,1.7,2021-3
+784,Electiva profesional 4,4,2.7,2023-1
+785,Seguridad de la Información,4,4.3,2024-3
+786,Estadística y Probabilidad I,4,2.4,2021-1
+787,Redes e Infraestructura,1,4.9,2022-1
+788,Electiva profesional 4,4,4.2,2021-1
+789,Electiva Libre I,4,0.2,2024-1
+790,Formación Ciudadana I : Identidades y Pluralismo,3,1.2,2022-3
+791,Estadística y Probabilidad II,4,2.9,2024-1
+792,Electiva Profesional 3,1,4.1,2022-1
+793,ETL (Extracción,3,4.2,2022-3
+794,Comunicación Oral y Escrita,2,2.4,2024-1
+795,Ingles 3,4,3.0,2021-3
+796,Seminario de Ing. de Datos e IA,3,1.4,2024-1
+797,Electiva profesional 4,2,3.5,2023-1
+798,Legislación y Ética en el Manejo de Datos,3,0.7,2021-1
+799,Ingles 2,2,2.9,2022-3
+800,Electiva de Lectura y Escritura,1,3.2,2023-3
+801,Electiva Profesional 3,2,5.0,2021-3
+802,Formación Ciudadana I : Identidades y Pluralismo,4,1.8,2022-1
+803,Álgebra lineal,4,1.6,2023-1
+804,Programación,1,3.2,2023-3
+805,Administración para Ingenieros,4,4.1,2022-1
+806,Redes e Infraestructura,4,3.4,2023-3
+807,Seminario de Ing. de Datos e IA,2,1.3,2024-1
+808,Legislación y Ética en el Manejo de Datos,2,3.6,2022-1
+809,Inteligencia Artificial,3,1.7,2024-1
+810,Cálculo 1,1,2.8,2024-3
+811,Analítica de Datos,4,0.4,2021-1
+812,Innovación y Emprendimiento,1,3.5,2022-3
+813,Innovación y Emprendimiento,4,1.9,2023-3
+814,Legislación y Ética en el Manejo de Datos,3,2.9,2023-3
+815,Electiva Profesional 5,2,3.1,2023-3
+816,Ingles 2,2,2.9,2021-3
+817,Ingles 2,1,3.3,2021-1
+818,Formación Ciudadana I : Identidades y Pluralismo,1,1.0,2021-1
+819,Estadística y Probabilidad I,2,4.0,2024-3
+820,Sistemas Operativos,3,4.6,2021-3
+821,Comunicación Oral y Escrita,4,2.8,2024-3
+822,Electiva de  Ciencias Sociales,1,0.9,2023-1
+823,Electiva Profesional 2,3,1.3,2022-1
+824,Estadística y Probabilidad II,2,3.6,2023-1
+825,Transformación y Carga),4,1.1,2021-1
+826,Estadística y Probabilidad II,1,2.6,2022-3
+827,Almacenamiento de datos,2,2.9,2022-3
+828,Electiva Profesional 1,1,4.1,2022-3
+829,Electiva Libre I,2,1.2,2023-1
+830,Almacenamiento de datos,3,0.5,2022-1
+831,Innovación y Emprendimiento,1,1.0,2022-3
+832,Cálculo 1,1,4.7,2022-3
+833,Ingles 3,2,1.3,2024-3
+834,Seguridad de la Información,3,0.0,2024-3
+835,Comunicación Oral y Escrita,2,2.2,2021-1
+836,Ingeniería y Sostenibilidad,4,1.5,2024-3
+837,Legislación y Ética en el Manejo de Datos,1,3.5,2021-1
+838,Formación Ciudadana I : Identidades y Pluralismo,3,3.6,2021-3
+839,Formación Ciudadana I : Identidades y Pluralismo,3,0.5,2023-1
+840,Ingles 2,3,4.0,2023-1
+841,Seminario de Ing. de Datos e IA,3,4.5,2022-3
+842,Inteligencia Artificial,2,4.8,2021-1
+843,Inteligencia Artificial,2,2.3,2022-3
+844,Matemáticas Fundamentales,2,0.9,2021-1
+845,Cálculo 1,3,1.6,2021-3
+846,Cálculo 1,1,4.5,2023-3
+847,Estadística y Probabilidad II,2,1.0,2024-1
+848,Seguridad de la Información,3,1.9,2024-1
+849,Inteligencia Artificial,1,3.3,2024-1
+850,Analítica de Datos,3,0.2,2023-1
+851,Álgebra lineal,4,0.5,2021-1
+852,Electiva Profesional 2,1,1.9,2023-1
+853,Estadística y Probabilidad I,4,1.3,2024-3
+854,Electiva de  Ciencias Sociales,1,4.3,2024-3
+855,Formación Ciudadana I : Identidades y Pluralismo,1,3.2,2022-3
+856,Álgebra lineal,2,2.2,2023-1
+857,Ingeniería y Sostenibilidad,3,4.2,2024-3
+858,Programación,1,0.3,2021-3
+859,Transformación y Carga),3,3.3,2022-3
+860,Ingles 4,4,4.8,2022-1
+861,Programación,1,1.5,2024-3
+862,ETL (Extracción,1,2.2,2022-3
+863,Innovación y Emprendimiento,1,4.4,2022-1
+864,Ingles 4,1,3.2,2021-3
+865,Transformación y Carga),1,0.5,2021-3
+866,Electiva profesional 4,2,0.5,2022-1
+867,Seguridad de la Información,2,4.4,2023-1
+868,Ingles 3,2,4.8,2021-3
+869,Sistemas Operativos,1,1.0,2023-3
+870,Formación Ciudadana I : Identidades y Pluralismo,4,3.4,2023-3
+871,Formación Ciudadana III: Paz y Convivencia,4,4.7,2021-1
+872,Seguridad de la Información,1,1.2,2024-1
+873,Transformación y Carga),3,3.5,2023-3
+874,Ingles 5,1,2.4,2024-3
+875,Formación Ciudadana II: Sociedad y Estado,3,1.5,2021-3
+876,Seminario de Ing. de Datos e IA,2,3.3,2024-3
+877,Almacenamiento de datos,3,1.7,2022-3
+878,Electiva Libre I,3,1.4,2023-1
+879,Innovación y Emprendimiento,4,0.2,2024-1
+880,Seguridad de la Información,4,0.3,2021-1
+881,Ingles 1,3,1.7,2021-3
+882,Redes e Infraestructura,4,0.8,2021-3
+883,Electiva Profesional 5,4,1.8,2022-1
+884,Sistemas Operativos,1,0.2,2022-3
+885,Introducción a la Ingeniería de Datos e Inteligencia Artificial,1,1.0,2023-3
+886,Cálculo 1,1,2.3,2021-1
+887,Comunicación Oral y Escrita,3,4.7,2024-3
+888,Electiva Profesional 2,4,4.9,2021-3
+889,Electiva Libre I,4,4.6,2021-3
+890,Electiva profesional 4,3,0.1,2021-3
+891,Almacenamiento de datos,4,0.2,2023-3
+892,Matemáticas Fundamentales,2,2.8,2021-3
+893,Álgebra lineal,2,3.9,2023-3
+894,Electiva Profesional 1,4,4.7,2024-1
+895,Seminario de Ing. de Datos e IA,1,3.9,2022-3
+896,Ingles 5,1,0.3,2023-1
+897,Electiva Profesional 2,4,1.4,2023-1
+898,Transformación y Carga),4,4.0,2022-1
+899,Estadística y Probabilidad II,1,0.3,2021-1
+900,ETL (Extracción,2,1.1,2021-3
+901,Electiva Profesional 2,1,1.1,2024-3
+902,Sistemas Operativos,2,2.2,2023-1
+903,Ingles 3,1,3.9,2022-3
+904,Formación Ciudadana II: Sociedad y Estado,4,1.7,2021-3
+905,Electiva Profesional 3,3,0.3,2024-3
+906,Analítica de Datos,3,2.0,2021-1
+907,Electiva profesional 4,4,3.8,2021-3
+908,Introducción a la Ingeniería de Datos e Inteligencia Artificial,1,1.7,2023-1
+909,Cálculo 1,4,1.9,2023-3
+910,Transformación y Carga),1,1.3,2024-1
+911,Electiva de Lectura y Escritura,1,1.6,2023-1
+912,Electiva Libre I,4,4.0,2021-1
+913,Innovación y Emprendimiento,1,4.4,2024-3
+914,Electiva de Lectura y Escritura,1,0.0,2023-1
+915,Redes e Infraestructura,4,0.4,2021-3
+916,Electiva de Lectura y Escritura,2,3.7,2024-3
+917,Matemáticas Fundamentales,3,0.6,2022-1
+918,Electiva de  Ciencias Sociales,1,3.4,2021-3
+919,Legislación y Ética en el Manejo de Datos,2,3.1,2021-3
+920,Ingles 5,3,0.3,2021-1
+921,Transformación y Carga),2,0.3,2023-3
+922,Formación Ciudadana I : Identidades y Pluralismo,4,2.1,2024-1
+923,Electiva profesional 4,4,4.9,2023-1
+924,Estadística y Probabilidad II,3,3.6,2022-3
+925,Introducción a la Ingeniería de Datos e Inteligencia Artificial,3,0.8,2023-3
+926,ETL (Extracción,1,1.2,2021-3
+927,Electiva profesional 4,3,1.0,2024-1
+928,Formación Ciudadana II: Sociedad y Estado,4,2.3,2023-1
+929,Formación Ciudadana III: Paz y Convivencia,3,2.9,2022-1
+930,Comunicación Oral y Escrita,1,2.6,2021-1
+931,Álgebra lineal,4,1.8,2022-1
+932,Cálculo 2,1,1.1,2023-3
+933,Cálculo 1,4,4.7,2022-1
+934,Lógica y Matemática Discreta,1,2.9,2021-3
+935,Legislación y Ética en el Manejo de Datos,2,1.8,2022-3
+936,Electiva Profesional 2,1,0.6,2024-3
+937,Comunicación Oral y Escrita,2,0.7,2021-3
+938,Redes e Infraestructura,2,0.5,2024-1
+939,Seminario de Ing. de Datos e IA,2,2.5,2022-1
+940,Electiva Libre I,1,2.5,2023-3
+941,Ingles 1,4,4.5,2022-1
+942,Almacenamiento de datos,2,1.6,2023-1
+943,Analítica de Datos,2,0.1,2022-1
+944,Ingles 2,1,2.8,2022-3
+945,Electiva Libre I,4,4.1,2022-3
+946,Redes e Infraestructura,2,2.1,2021-3
+947,Ingles 1,2,0.4,2024-3
+948,Estadística y Probabilidad II,3,1.4,2021-1
+949,Legislación y Ética en el Manejo de Datos,3,1.5,2024-1
+950,Cálculo 2,3,4.8,2023-1
+951,Ingles 2,2,4.0,2023-1
+952,Formación Ciudadana I : Identidades y Pluralismo,1,2.0,2021-1
+953,Electiva Profesional 1,3,3.9,2024-1
+954,Electiva profesional 4,3,3.4,2021-3
+955,Ingles 1,4,1.5,2024-3
+956,Introducción a la Ingeniería de Datos e Inteligencia Artificial,1,0.0,2022-3
+957,Almacenamiento de datos,1,2.6,2024-3
+958,Electiva de Lectura y Escritura,3,2.8,2022-3
+959,Transformación y Carga),3,1.5,2023-3
+960,Electiva Profesional 5,1,4.7,2024-3
+961,Electiva Profesional 3,3,0.2,2024-3
+962,Analítica de Datos,4,1.1,2024-1
+963,Estadística y Probabilidad II,2,4.9,2022-3
+964,Legislación y Ética en el Manejo de Datos,1,0.6,2021-3
+965,Estadística y Probabilidad I,4,2.6,2024-1
+966,Programación,1,4.3,2023-1
+967,Inteligencia Artificial,4,3.3,2021-1
+968,Ingles 2,4,2.0,2023-3
+969,Álgebra lineal,4,2.0,2024-3
+970,Seminario de Ing. de Datos e IA,4,2.6,2022-3
+971,Comunicación Oral y Escrita,2,4.6,2024-3
+972,Cálculo 2,2,3.5,2021-1
+973,Electiva Profesional 2,1,0.8,2023-3
+974,Almacenamiento de datos,1,2.1,2023-3
+975,Matemáticas Fundamentales,2,3.7,2023-3
+976,Matemáticas Fundamentales,1,2.5,2021-1
+977,Sistemas Operativos,4,3.2,2022-3
+978,Legislación y Ética en el Manejo de Datos,4,3.1,2023-3
+979,Electiva Profesional 2,2,3.7,2021-3
+980,Almacenamiento de datos,4,1.1,2023-1
+981,Álgebra lineal,2,0.4,2022-3
+982,Ingles 5,1,2.2,2023-1
+983,Ingles 3,4,1.3,2024-3
+984,Legislación y Ética en el Manejo de Datos,2,0.3,2023-1
+985,Ingles 1,3,1.2,2023-3
+986,Administración para Ingenieros,4,2.3,2024-1
+987,Electiva de Lectura y Escritura,4,1.2,2021-1
+988,Ingeniería y Sostenibilidad,1,2.4,2022-1
+989,Ingeniería y Sostenibilidad,3,3.0,2022-3
+990,Lógica y Matemática Discreta,1,2.4,2021-3
+991,Redes e Infraestructura,4,4.0,2021-3
+992,Ingles 5,2,4.1,2022-1
+993,Formación Ciudadana III: Paz y Convivencia,3,0.7,2024-1
+994,Inteligencia Artificial,4,1.1,2022-1
+995,Matemáticas Fundamentales,3,2.1,2024-1
+996,Matemáticas Fundamentales,2,1.9,2021-3
+997,Electiva de Lectura y Escritura,2,1.2,2023-3
+998,Electiva de Lectura y Escritura,1,1.8,2021-3
+999,Ingles 4,1,0.5,2021-1
+1000,Electiva de Lectura y Escritura,4,1.5,2023-1
