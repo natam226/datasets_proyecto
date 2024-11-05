@@ -1,3 +1,4 @@
+usuario,contrasena,nombre,correo,paisOrigen,necesidadesEspecialesEducacion,genero,estadoCivil,prestamo,beca,desplazado,totalCreditos
 "aabrashkovu","lI4/9GSLJ","Aluin Abrashkov","aabrashkovu@edu.com","Portugal","no","Femenino","Soltero","no","no","no","0"
 "aaersbp","fQ9It|FG","Archaimbaud Aers","aaersbp@edu.com","Portugal","no","Masculino","Union libre","no","no","no","3"
 "aaizicct","nR6eex*I&o38","Aubine Aizic","aaizicct@edu.com","Portugal","no","Masculino","Soltero","no","no","si","3"
@@ -325,7 +326,8 @@ xson73@edu.com","Portugal","no","Femenino","Soltero","no","no","si","0"
 "balu85","oO7Xo}!lHFJcFm","Basilio Alu","balu85@edu.com","Portugal","no","Masculino","Soltero","si","no","si","0"
 "bartonia","gL0?1=Xu.72G3","Byrle Arton","bartonia@edu.com","Portugal","no","Femenino","Soltero","no","no","si","4"
 "bassurfe","iV4eh~f$|7e/RK","Blisse Assur","bassurfe@edu.com","Portugal","no","Femenino","Soltero","no","si","no","2"
-"baylesbury8m","bC2WXav/P","Bartolemo Aylesbury","baylesbury8m@edu.com","Portugal","no","Masculino","Soltero","no","no","si","0"
+"baylesbury8m","bC2WXav/P
+","Bartolemo Aylesbury","baylesbury8m@edu.com","Portugal","no","Masculino","Soltero","no","no","si","0"
 "baylwin2q","mS52sZv9X*6R}+}/","Bobinette Aylwin","baylwin2q@edu.com","Portugal","no","Femenino","Soltero","no","si","no","0"
 "bbageod","lbd55R$!","Bogart Bage","bbageod@edu.com","Portugal","no","Masculino","Soltero","no","si","no","0"
 "bbenerhz","mL2Zu>Kgrh7","Beverlee Bener","bbenerhz@edu.com","Portugal","no","Femenino","Soltero","no","no","si","2"
@@ -1034,7 +1036,8 @@ du.com","Portugal","no","Femenino","Soltero","no","no","si","0"
 "dmencej7","owi95E}fhR","Domingo Mence","dmencej7@edu.com","Portugal","no","Masculino","Casado","no","no","no","3"
 "dmeneghelli4q","uY8p2LbA#3C","Deloria Meneghelli","dmeneghelli4q@edu.com","Portugal","no","Femenino","Soltero","no","no","si","4"
 "dmenghi2w","fY8eF}99","Dorris Menghi","dmenghi2w@edu.com","Portugal","no","Femenino","Soltero","no","no","si","0"
-"dmerriton43","dE4=j4s","Dion Merriton","dmerriton43@edu.com","Portugal","no","Femenino","Soltero","no","no","no","0"
+"dmerriton43","dE4=j4
+s","Dion Merriton","dmerriton43@edu.com","Portugal","no","Femenino","Soltero","no","no","no","0"
 "dmesserqb","lU7vw1o{*H","Donnie Messer","dmesserqb@edu.com","Portugal","no","Femenino","Soltero","no","no","no","0"
 "dmoat8","fC6!9O#aV8","Darn Moat","dmoat8@edu.com","Portugal","no","Femenino","Soltero","no","si","no","0"
 "dmosedalee3","rJ9llW6q9b","Doretta Mosedale","dmosedalee3@edu.com","Portugal","no","Femenino","Soltero","no","no","no","3"
@@ -3660,7 +3663,8 @@ niellqd","jif442","Sorcha Penniell","spenniellqd@edu.com","Portugal","no","Mascu
 "tdelmage1i","qO6_M))stlQu9dH","Tory Delmage","tdelmage1i@edu.com","Portugal","no","Femenino","Soltero","no","si","si","0"
 "tdeveraux2t","gH6kkrePo&j8m","Tessa Deveraux","tdeveraux2t@edu.com","Portugal","no","Femenino","Soltero","si","no","no","0"
 "tdewhurstqm","iC3FI0l4qUtCk2Rz","Tabatha Dewhurst","tdewhurstqm@edu.com","Portugal","no","Femenino","Casado","no","no","no","2"
-"tdilonk8","jI6G#UVU","Tuckie Dilon","tdilonk8@edu.com","Portugal","no","Femenino","Soltero","no","no","no","0"
+"tdilonk8","jI6G#UVU
+","Tuckie Dilon","tdilonk8@edu.com","Portugal","no","Femenino","Soltero","no","no","no","0"
 "tdodding23","cQ2Y7pr.djF?@kW","Trista Dodding","tdodding23@edu.com","Po\
 rtugal","no","Femenino","Soltero","no","no","si","0"
 "tdomke48","bR1)rXSq","Thedric Domke","tdomke48@edu.com","Portugal","no","Femenino","Soltero","no","no","no","0"
@@ -3736,7 +3740,8 @@ l","no","Femenino","Soltero","no","no","no","0"
 "tnorthgravesah","mA4S<rIZ=unVcM","Trstram Northgraves","tnorthgravesah@edu.com","Portugal","no","Masculino","Soltero","no","si","si","0"
 "tnuschaeo","yS7.U6|","Truman Nuscha","tnuschaeo@edu.com","Portugal","no","Masculino","Soltero","no","no","si","0"
 "tolenchenkoq4","fA2*eazqK~Adszz","Teresita Olenchenko","tolenchenkoq4@edu.com","Portugal","no","Femenino","Divorciado","no","si","no","0"
-"tottermx","wE6oY3B=U<cK","Tiffi Otter","tottermx@edu.com","Portugal","no","Femenino","Soltero","no","no","si","0"
+"tottermx","wE6o
+Y3B=U<cK","Tiffi Otter","tottermx@edu.com","Portugal","no","Femenino","Soltero","no","no","si","0"
 "tpaliser2j","mS44Ukfu","Thaine Paliser","tpaliser2j@edu.com","Portugal","no","Femenino","Soltero","no","si","si","0"
 "tpanketheo","hgm73#zG","Tonnie Panketh","tpanketheo@edu.com","Portugal","no","Masculino","Soltero","si","no","no","0"
 "tparkman5y","nD4W{&?F>8{sWJmr","Taffy Parkman","tparkman5y@edu.com","Portugal","no","Masculino","Soltero","si","no","si","0"
